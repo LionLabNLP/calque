@@ -91,7 +91,7 @@ Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Cen
 
 ### 6.2. GlotCC Language Statistics
 
-The file `lang2size.json` contains language-size statistics derived from [GlotCC](https://github.com/cisnlp/GlotCC).
+The file `lang2size.json` contains language-size statistics derived from v1.0-stat-2.zip in [GlotCC](https://github.com/cisnlp/GlotCC).
 
 Place the file at:
 
@@ -101,23 +101,10 @@ These statistics serve as a proxy for the relative representation of languages i
 
 Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
 
-### 6.3. Awesome-Align
-
-The Awesome-Align model should be placed under:
-
-```text
-./sentence_probability/models/awesome-align/
-```
-
-Awesome-Align is used to compute alignment-based features for the multivariable regression analyses.
-
-This resource is optional and is only needed when computing the corresponding regression features.
-
-https://github.com/neulab/awesome-align
 
 ### 6.3. Awesome-Align
 
-Download the multilingually fine-tuned [Awesome-Align](https://github.com/neulab/awesome-align) checkpoint without `--train_co` and place it at:
+Download the [Awesome-Align](https://github.com/neulab/awesome-align) checkpoint and place it at:
 
 `./models/awesome-align/model_without_co/`
 
