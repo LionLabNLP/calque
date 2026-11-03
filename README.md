@@ -121,4 +121,6 @@ If you use CALQUE or the accompanying code in your research, please cite our pap
 
 ## 8. License
 
-License information for the code and dataset will be provided separately.
+The source code in this repository is licensed under the MIT License.
+
+The CALQUE dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
