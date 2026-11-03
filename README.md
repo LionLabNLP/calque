@@ -1,6 +1,8 @@
 # CALQUE
 
-This repository contains the dataset, code, and analysis results for **CALQUE**, a multilingual benchmark for evaluating constructional bleeding in large language models (LLMs).
+CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs).
+The dataset covers seven languages: English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese.
+This repository contains the dataset and code accompanying our paper, **"I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE."**
 
 ## 1. Dataset
 
@@ -8,7 +10,7 @@ The dataset files are located in the `data/` directory.
 
 - **`CALQUE.xlsx`**: The original CALQUE dataset.
 - **`CALQUE_preprocessed.xlsx`**: A preprocessed version of CALQUE with periods removed.
-- **`CALQUE_metadata.xlsx`**: The dataset enriched with metadata, including linguistic features used in the regression analyses and interlinear glosses following the [Leipzig Glossing Rules]([https://www.eva.mpg.de/lingua/resources/glossing-rules.php](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf)).
+- **`CALQUE_metadata.xlsx`**: The dataset enriched with metadata, including linguistic features used in the regression analyses and interlinear glosses following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf).
 
 ## 2. Model Preference Calculation
 
@@ -18,7 +20,7 @@ To calculate model preferences, run:
 bash script/example_script.sh
 ```
 
-The example script runs the preference calculation using `openai/gpt-oss-120b`.
+The example script runs the preference calculation using [`openai/gpt-oss-120b`](https://huggingface.co/openai/gpt-oss-120b).
 
 To evaluate a different model, modify the model identifier in `example_script.sh` accordingly.
 
@@ -64,8 +66,6 @@ Interactive visualizations of our results are available at:
 
 https://konta3738.github.io/calque/
 
-These visualizations allow users to explore the results across models and languages.
-
 ## 6. Requirements
 
 The Python environment can be reproduced using the provided `environment.yml` file:
@@ -91,9 +91,9 @@ Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Cen
 
 ### 6.2. GlotCC Language Statistics
 
-The file `lang2size.json` contains language-size statistics derived from v1.0-stat-2.zip in [GlotCC](https://github.com/cisnlp/GlotCC).
+The file `lang2size.json` should contain language-size statistics derived from `v1.0-stat-2.zip` in [GlotCC](https://github.com/cisnlp/GlotCC).
 
-Place the file at:
+Extract the content length field and place the file at:
 
 `./sentence_probability/data/lang2size.json`
 
