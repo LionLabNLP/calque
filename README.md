@@ -4,14 +4,14 @@
 
 CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs).
 The dataset covers seven languages: English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese.
-This repository contains the dataset and code accompanying our paper, **"I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE."**
+This repository contains the dataset and code used in our paper, **"I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE."**
 
 ## 1. Dataset
 
 The dataset files are located in the `data/` directory.
 
 - **`CALQUE.xlsx`**: The original CALQUE dataset.
-- **`CALQUE_preprocessed.xlsx`**: A preprocessed version of CALQUE with periods removed.
+- **`CALQUE_preprocessed.xlsx`**: A preprocessed version of CALQUE (e.g. removing periods).
 - **`CALQUE_metadata.xlsx`**: The dataset enriched with metadata, including linguistic features used in the regression analyses and interlinear glosses following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf).
 
 ## 2. Model Preference Calculation
@@ -43,13 +43,13 @@ python src/metadata/build_metadata.py \
   --gloss all
 ```
 
-This script constructs the metadata used in subsequent analyses, including linguistic features and glosses.
+This script constructs the metadata used in multivariable regression, including linguistic features and glosses.
 
 Some metadata features require additional resources, as described in the Requirements section.
 
 ## 4. Additional Analyses
 
-To reproduce the main plots and statistical analyses, run:
+To reproduce the main plots, multivariable regression, spearman rank correlation and other statistical analyses, run:
 
 ```bash
 python3 src/export_plots2.py \
@@ -77,7 +77,7 @@ conda env create -f environment.yml
 conda activate calque
 ```
 
-Some analyses require additional resources.
+Some scripts require additional resources.
 
 ### 6.1. FLORES-200 Dataset
 
@@ -85,7 +85,7 @@ Download [FLORES-200](https://github.com/facebookresearch/flores/tree/main) and 
 
 `./sentence_probability/data/flores200_dataset/dev/`
 
-FLORES-200 is used to estimate empirical unigram probabilities for SLOR calculation.
+FLORES-200 is used to estimate unigram probabilities for SLOR calculation.
 
 Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Centered Machine Translation*](https://arxiv.org/abs/2207.04672).
 
