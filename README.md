@@ -1,12 +1,12 @@
+# I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE
+
 <img width="2667" height="969" alt="page1_toshiki" src="https://github.com/user-attachments/assets/5aacd63a-b43c-4023-a12a-620fee1cf567" />
 
-# CALQUE
+CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs) inspired from the minimal-pair paradigm.
+The dataset covers seven languages (English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese) and three construction types (body-part/everyday-activity/sensory experence).
+This repository contains the dataset and code used to evaluate LLMs on CALQUE.
 
-CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs).
-The dataset covers seven languages: English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese.
-This repository contains the dataset and code used in our paper, **"I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE."**
-
-## 1. Dataset
+## Dataset
 
 The dataset files are located in the `data/` directory.
 
@@ -43,7 +43,7 @@ python src/metadata/build_metadata.py \
   --gloss all
 ```
 
-This script constructs the metadata used in multivariable regression, including linguistic features and glosses.
+This script constructs the metadata used in multivariable regression, including linguistic features and glosses (which require the OPENAI API key).
 
 Some metadata features require additional resources, as described in the Requirements section.
 
@@ -61,7 +61,7 @@ python3 src/export_plots2.py \
   --glotcc
 ```
 
-The generated results are saved in the `plots2/` directory.
+The generated results are saved in the `plots2/` directory. `--glotcc` requires lang2size.json described below. If you want to run the code without pretraining language proportion data, you can simply omit that argument and execute the bash script.
 
 ## 5. Interactive Results
 
@@ -96,7 +96,7 @@ Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Cen
 
 The file `lang2size.json` should contain language-size statistics derived from `v1.0-stat-2.zip` in [GlotCC](https://github.com/cisnlp/GlotCC).
 
-Extract the content length field and place the file at:
+Extract the total content length field and place the file at:
 
 `./sentence_probability/data/lang2size.json`
 
