@@ -1,0 +1,668 @@
+# Interlinear Gloss Annotation Scheme
+
+## 1. General principles
+
+The annotation consists of two lines:
+
+1. **Object language line**
+2. **Interlinear gloss**
+
+The annotation must follow the mandatory Leipzig Glossing Rules. Language-specific morphological analyses should reflect overt morphological structure whenever the relevant morpheme boundaries are synchronically identifiable.
+
+The annotation primarily provides detailed grammatical information for function words and inflectional morphology. Lexical morphemes are normally glossed with an English lexical equivalent.
+
+---
+
+## 2. Word-by-word alignment
+
+Each whitespace-separated unit in the object language line must correspond to exactly one whitespace-separated unit in the interlinear gloss.
+
+Example:
+
+Ich habe mir den Arm gebrochen
+1SG AUX.PRS.1SG REFL.DAT DEF.ACC.SG arm PTCP-break-CIRC
+
+The number and order of whitespace-separated units must be identical in the object language line and the gloss.
+
+---
+
+## 3. Morpheme segmentation
+
+Synchronically segmentable morphemes must be separated by hyphens in both the object language line and the gloss.
+
+The number of hyphens in each aligned object-language unit and gloss unit must be identical.
+
+Example:
+
+私-の
+1SG-GEN
+
+折れ-て-いる
+break-CVB-be.PRS
+
+Do not leave an overtly segmentable grammatical morpheme unsegmented.
+
+Incorrect:
+
+私の
+1SG.GEN
+
+Correct:
+
+私-の
+1SG-GEN
+
+Clitic boundaries must be represented with `=` in both the object language line and the gloss.
+
+---
+
+## 4. Lexical and grammatical glosses
+
+Lexical morphemes are glossed using lowercase English lexical equivalents.
+
+Examples:
+
+Arm
+arm
+
+brechen
+break
+
+Grammatical morphemes and grammatical properties are represented using uppercase grammatical category abbreviations.
+
+Examples:
+
+DAT
+ACC
+PST
+PFV
+REFL
+POSS
+
+Standard Leipzig abbreviations should be used whenever an appropriate abbreviation exists.
+
+---
+
+## 5. Multiple grammatical properties within one morpheme
+
+When a single unsegmented object-language element corresponds to multiple grammatical properties, the gloss elements are separated by periods.
+
+Example:
+
+mir
+REFL.DAT
+
+habe
+AUX.PRS.1SG
+
+den
+DEF.ACC.SG
+
+Person and number are written without an intervening period:
+
+1SG
+2PL
+3SG
+
+Thus:
+
+PRS.1SG
+
+not:
+
+PRS.1.SG
+
+The ordering of grammatical labels should follow the annotation conventions defined below.
+
+---
+
+## 6. Pronouns
+
+Pronouns are annotated for:
+
+* person and number
+* case, when morphologically or grammatically relevant
+* `REFL` if reflexive
+* `POSS` if possessive
+
+Recommended order:
+
+`[REFL.]PERSON-NUMBER[.POSS][.CASE]`
+
+Examples:
+
+ich
+1SG.NOM
+
+mir
+REFL.1SG.DAT
+
+mein
+1SG.POSS.NOM
+
+mich
+1SG.ACC
+
+Where person and number are not lexically recoverable or are not applicable, only the relevant grammatical categories are annotated.
+
+---
+
+## 7. Verbs and auxiliaries
+
+### European languages
+
+Finite verbs are annotated with:
+
+* an English lexical gloss
+* tense
+* person and number, when morphologically expressed or relevant to the annotation
+
+Recommended format:
+
+`LEXICAL-GLOSS.TENSE.PERSONNUMBER`
+
+Example:
+
+breche
+break.PRS.1SG
+
+Auxiliaries additionally receive `AUX`.
+
+Example:
+
+habe
+AUX.PRS.1SG
+
+hatte
+AUX.PST.1SG
+
+### Japanese
+
+Verbs are annotated for tense and other overt grammatical morphology.
+
+Example:
+
+折れ-て-いる
+break-CVB-be.PRS
+
+### Chinese
+
+Lexical verbs receive an English lexical gloss. Overt aspectual, tense-like, or other grammatical markers are annotated separately.
+
+Example:
+
+折-了
+break-PFV
+
+---
+
+## 8. Participles
+
+Participial morphology is annotated using `PTCP`.
+
+If a participle contains overtly segmentable morphology, the object language and gloss must show corresponding morpheme boundaries.
+
+For bipartite participial morphology or circumfixes, Rule 8 of the Leipzig Glossing Rules must be followed.
+
+Example:
+
+ge-broch-en
+PTCP-break-CIRC
+
+We do not allow the following annotation for circumfixes.
+
+ge-broch-en
+PTCP-break-PTCP
+
+---
+
+## 9. Articles and determiners
+
+Articles are annotated for:
+
+* definiteness
+* case
+* number
+
+Recommended order:
+
+`DEFINITENESS.CASE.NUMBER`
+
+Examples:
+
+den
+DEF.ACC.SG
+
+die
+DEF.NOM.PL
+
+einem
+INDF.DAT.SG
+
+Gender is not annotated in our dataset.
+
+---
+
+## 10. Common nouns
+
+Common nouns are annotated with an English lexical gloss and grammatical number and case when these categories are relevant.
+
+Recommended format:
+
+`LEXICAL-GLOSS.NUMBER.CASE`
+
+Example:
+
+Armen
+arm.PL.DAT
+
+For Japanese and Chinese, nouns are not annotated for number unless number is overtly grammatically expressed. Case is annotated when represented by an overt case marker or when required by the language-specific annotation scheme.
+
+Japanese case particles must be segmented as separate morphemes or clitics according to the adopted morphological analysis.
+
+Example:
+
+私-は
+1SG-TOP
+
+腕-を
+arm-ACC
+
+---
+
+## 11. Possession
+
+Overt possessive morphology must be explicitly annotated using `POSS` or the relevant grammatical relation.
+
+Possessive pronouns:
+
+mein
+1SG.POSS.NOM
+
+Genitive particles or morphemes are segmented and annotated separately:
+
+私-の
+1SG-GEN
+
+Do not represent an overt possessive or genitive morpheme only by a period-separated grammatical feature if the morpheme is synchronically segmentable.
+
+---
+
+## 12. Reflexivity
+
+Reflexive pronouns and reflexive grammatical markers are annotated with `REFL`.
+
+Example:
+
+mir
+REFL.1SG.DAT
+
+Reflexivity is annotated only when expressed by an overt reflexive form or overt reflexive morphology.
+
+---
+
+## 13. Aspect and resultative morphology
+
+Overt aspectual morphology is annotated using the relevant Leipzig abbreviation.
+
+Examples:
+
+PFV
+IPFV
+PROG
+PRF
+
+Resultative morphology is annotated as:
+
+RES
+
+Aspect or resultativity must not be inferred solely from the English translation. The annotation must reflect grammatical properties of the object-language form.
+
+---
+
+## 14. Non-overt elements
+
+A grammatical category without an overt corresponding element may be represented in square brackets in the gloss.
+
+Example:
+
+puer
+boy[NOM.SG]
+
+The following annotation is not allowed in our dataset:
+
+puer-Ø
+boy-NOM.SG
+
+---
+
+## 15. Inherent categories
+
+Inherent, non-overt grammatical categories are represented in parentheses.
+
+Example:
+
+noun(F)
+
+Such categories must not be represented as ordinary period-separated or hyphen-separated overt grammatical morphology.
+
+---
+
+## 16. Bipartite elements and circumfixes
+
+A bipartite lexical or grammatical element may be glossed by repeating the gloss for both parts.
+
+Example:
+
+ge-seh-en
+PTCP-see-PTCP
+
+Alternatively, one part may receive a structural label such as `CIRC` or `STEM`.
+
+Example:
+
+ge-seh-en
+PTCP-see-CIRC
+
+The same analysis must be used consistently for morphologically equivalent constructions.
+
+---
+
+## 17. Infixes
+
+Infixes are enclosed in angle brackets in both the object language and the corresponding gloss.
+
+Example:
+
+b<um>ili <ACTFOC>buy
+
+---
+
+## 18. Reduplication
+
+Reduplicated material is connected to the stem using `~` in both the object language and the gloss.
+
+Example:
+
+bi~bili
+IPFV~buy
+
+---
+
+## 19. Separator correspondence
+
+Boundary symbols must correspond exactly between the object language line and the interlinear gloss.
+
+The following correspondences are mandatory:
+
+* whitespace ↔ whitespace: word alignment
+* `-` ↔ `-`: morpheme boundary
+* `=` ↔ `=`: clitic boundary
+* `< >` ↔ `< >`: infix
+* `~` ↔ `~`: reduplication
+
+For each aligned unit, the number of hyphens in the object-language form and gloss must be identical.
+
+Periods in the gloss do not represent morpheme boundaries. They indicate multiple gloss elements corresponding to one object-language element.
+
+---
+
+## 20. Annotation consistency
+
+The same morpheme and the same grammatical function should receive the same gloss label across the dataset unless a genuine grammatical or lexical distinction motivates a different analysis.
+
+Do not infer grammatical categories from the English baseline alone. Annotation must be based on the morphological and grammatical structure of the object-language sentence.
+
+When multiple morphological analyses are possible, select one analysis and apply it consistently across all examples of the relevant construction.
+
+---
+## 21. Prepositions and adpositions
+
+Prepositions and other adpositions are normally glossed using a lowercase English lexical equivalent that most closely approximates their meaning or function.
+
+Examples:
+
+mit
+with
+
+für
+for
+
+von
+from
+
+in
+in
+
+The English gloss does not need to provide an exact semantic equivalent. A conventional approximate English equivalent should be used consistently for the same adpositional use.
+
+If no reasonable English lexical equivalent is available, an uppercase grammatical category label should be used to represent the grammatical or semantic function of the adposition.
+
+Examples of possible labels include:
+
+COM
+ALL
+ABL
+LOC
+INS
+BEN
+
+Standard Leipzig abbreviations should be preferred whenever an appropriate category label exists.
+
+Do not force an unnatural or misleading English lexical gloss solely to provide a lowercase English word. When neither an appropriate English lexical equivalent nor a standard Leipzig abbreviation is available, define a concise uppercase project-specific category label and use it consistently throughout the dataset.
+
+---
+
+## 22. German lexicalized verbal prefixes
+
+For German, lexicalized verbal prefixes such as `ver-`, `er-`, and `be-` are not segmented from the verb stem. Verbs containing these lexicalized prefixes are treated as single lexical stems.
+
+This convention concerns only the internal segmentation of the lexical stem. Grammatical information associated with the complete verb form must still be annotated according to the general annotation rules.
+
+Example:
+
+verletzt
+injure.PTCP
+
+This rule does not apply to productive grammatical morphology, separable verbal particles, or circumfixes. German participial circumfixes must be segmented according to the general rules for bipartite morphology.
+
+Example:
+
+ge-broch-en
+PTCP-break-CIRC
+
+The convention is applied consistently across the dataset to avoid inconsistent segmentation of lexicalized German verbal prefixes.
+
+---
+
+## 23. 
+
+French contractions and clitics
+
+French elided clitics are segmented from their host using `=`.
+
+Examples:
+
+s'=est
+REFL.3SG=be.PRS.3SG
+
+j'=ai
+1SG.NOM=AUX.PRS.1SG
+
+Fused preposition–article forms such as `au`, `aux`, `du`, and `des` are not morphologically segmented in the object language line. Their component grammatical functions are represented within a single gloss using periods.
+
+Examples:
+
+au
+to.DEF.M.SG
+
+aux
+to.DEF.PL
+
+du
+from.DEF.M.SG
+
+des
+from.DEF.PL
+
+additional note:
+
+## Portuguese `estar`
+
+Forms of `estar` are annotated according to their function in the construction.
+
+When `estar` occurs with a gerund and functions as the auxiliary of a progressive construction, it is annotated as `AUX`.
+
+Examples:
+
+estou
+AUX.PRS.1SG
+
+está
+AUX.PRS.3SG
+
+When `estar` functions as a lexical or copular verb rather than as a progressive auxiliary, it is glossed as `be` and is not annotated with `AUX`.
+
+Example:
+
+Eu estou com dor.
+1SG.NOM be.PRS.1SG with pain
+
+The annotation of `estar` is therefore construction-dependent: progressive auxiliary uses receive `AUX`, whereas lexical or copular uses receive the lexical gloss `be`.
+
+## Portuguese clitics and fused forms
+
+Portuguese clitic pronouns are separated from their host using `=`, following the general annotation rule for clitic boundaries.
+
+The orthographic hyphen used in Portuguese enclitic constructions is not preserved as a morpheme boundary marker. It is normalized to `=` in both the object language line and the interlinear gloss.
+
+Examples:
+
+lavei=me
+wash.PST.1SG=REFL.1SG
+
+comportei=me
+behave.PST.1SG=REFL.1SG
+
+This convention reflects the morphological status of the pronoun as a clitic rather than treating the orthographic hyphen as an ordinary morpheme boundary.
+
+Portuguese fused forms are not segmented when their component morphemes are not overtly separable in the surface form. Their component grammatical or semantic functions are represented within a single gloss using periods.
+
+Example:
+
+disso
+of.DEM
+
+Thus, `disso` is treated as a fused form and is not segmented into separate object-language morphemes.
+
+## Chinese lexical glosses and `了`
+
+Chinese lexical morphemes are glossed using lowercase English lexical equivalents that approximate their meaning in the relevant construction.
+
+Examples:
+
+到
+reach
+
+弄
+do
+
+These are treated as lexical glosses rather than grammatical category labels.
+
+The annotation of `了` depends on its morphological and syntactic position. When sentence-final `了` can be distinguished from `了` directly associated with a verb, it is annotated as an independent unit with the gloss `PFV`.
+
+Example:
+
+了
+PFV
+
+Verb-associated and sentence-final instances of `了` should therefore be segmented according to their position in the object-language sentence. Sentence-final `了` is represented as a separate whitespace-delimited unit when it is identifiable as an independent sentence-final element.
+
+
+## Chinese construction-dependent grammatical annotation
+
+The annotation of Chinese forms may depend on their grammatical function in the relevant construction.
+
+`在` is annotated as `PROG` when it functions as a progressive marker in a progressive construction. In locative uses, it is treated as a lexical adposition and glossed as `at`.
+
+Examples:
+
+在
+PROG
+
+在
+at
+
+`被` is annotated as `PASS` when it functions as an overt passive marker.
+
+Example:
+
+被
+PASS
+
+`自己` is treated as an overt reflexive form and is annotated with `REFL` and the relevant person-number information.
+
+Example:
+
+自己
+REFL.1SG
+
+Grammatical labels are assigned according to the overt form and its function in the construction rather than solely on the basis of the English translation.
+
+
+## Chinese degree, passive, and copular/nominalizing markers
+
+`很` is annotated as `DEG` when it functions as a degree marker in an adjectival predicate.
+
+Example:
+
+很
+DEG
+
+`被` is annotated as `PASS` when it functions as an overt passive marker.
+
+Example:
+
+被
+PASS
+
+In constructions such as `是错的`, `的` is annotated as `COP` when it functions as a copular or nominalizing element within the construction.
+
+Example:
+
+的
+COP
+
+These forms are annotated according to their overt grammatical function in the relevant construction.
+
+## Chinese aspect markers and particles
+
+`着` is annotated as `IPFV` when it functions as a marker of continuous or ongoing aspect.
+
+Example:
+
+着
+IPFV
+
+`呢` is annotated as `PRT` when it functions as a particle.
+
+Example:
+
+呢
+PRT
+
+These grammatical markers are annotated according to their overt function in the relevant construction.
+
+## Japanese volitional and quotative markers
+
+In constructions such as `結婚しようとしている`, the overt volitional marker `よう` is segmented and annotated as `VOL`. The following quotative marker `と` is separately segmented and annotated as `QUOT`.
+
+Example:
+
+結婚-し-よう と し-て-いる
+marriage-do-VOL QUOT do-CVB-be.PRS
+
+https://roary.informatik.uni-leipzig.de/link/126#bkmrk-the-volitional-and-q
+
+ 
+The volitional and quotative markers are treated as distinct overt grammatical elements and are therefore annotated separately according to their respective functions.
