@@ -88,8 +88,6 @@ Download [FLORES-200](https://github.com/facebookresearch/flores/tree/main) and 
 
 FLORES-200 is used to estimate unigram probabilities for SLOR calculation.
 
-Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Centered Machine Translation*](https://arxiv.org/abs/2207.04672).
-
 
 
 ### GlotCC Language Statistics
@@ -102,8 +100,6 @@ Extract the total content length field and place the file at:
 
 These statistics serve as a proxy for the relative representation of languages in pretraining data.
 
-Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
-
 
 ### Awesome-Align
 
@@ -112,8 +108,6 @@ Download the [Awesome-Align](https://github.com/neulab/awesome-align) checkpoint
 `./models/awesome-align/model_without_co/`
 
 Awesome-Align is used to compute alignment-based features for the multivariable regression analyses.
-
-Reference: [Dou and Neubig (2021), *Word Alignment by Fine-tuning Embeddings on Parallel Corpora*](https://aclanthology.org/2021.eacl-main.181/).
 
 
 ## Citation
@@ -127,3 +121,11 @@ If you use CALQUE or the accompanying code in your research, please cite our pap
 The source code in this repository is licensed under the MIT License.
 
 The CALQUE dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## References
+
+Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Centered Machine Translation*](https://arxiv.org/abs/2207.04672).
+
+Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
+
+Reference: [Dou and Neubig (2021), *Word Alignment by Fine-tuning Embeddings on Parallel Corpora*](https://aclanthology.org/2021.eacl-main.181/).
