@@ -80,7 +80,7 @@ conda activate calque
 
 Some scripts require additional resources.
 
-### 1. FLORES-200 Dataset
+### FLORES-200 Dataset
 
 Download [FLORES-200](https://github.com/facebookresearch/flores/tree/main) and place the `dev` split at:
 
@@ -92,7 +92,7 @@ Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Cen
 
 
 
-### 2. GlotCC Language Statistics
+### GlotCC Language Statistics
 
 The file `lang2size.json` should contain language-size statistics derived from `v1.0-stat-2.zip` in [GlotCC](https://github.com/cisnlp/GlotCC).
 
@@ -105,7 +105,7 @@ These statistics serve as a proxy for the relative representation of languages i
 Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
 
 
-### 3. Awesome-Align
+### Awesome-Align
 
 Download the [Awesome-Align](https://github.com/neulab/awesome-align) checkpoint and place it at:
 
