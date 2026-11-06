@@ -1,6 +1,8 @@
+
 # I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE
 
-<img width="2667" height="969" alt="page1_toshiki" src="https://github.com/user-attachments/assets/5aacd63a-b43c-4023-a12a-620fee1cf567" />
+<img width="3898" height="1453" alt="page1_toshiki (1)" src="https://github.com/user-attachments/assets/f3c960c2-78e3-4221-ac37-9d5abd18abf9" />
+
 
 CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs) inspired from the minimal-pair paradigm.
 The dataset covers seven languages (English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese) and three construction types (body-part/everyday-activity/sensory experence).
