@@ -14,7 +14,7 @@ The dataset files are located in the `data/` directory.
 - **`CALQUE_preprocessed.xlsx`**: A preprocessed version of CALQUE (e.g. removing periods).
 - **`CALQUE_metadata.xlsx`**: The dataset enriched with metadata, including linguistic features used in the regression analyses and interlinear glosses following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf).
 
-## 2. Model Preference Calculation
+## Model Preference Calculation
 
 To calculate model preferences, run:
 
@@ -28,7 +28,7 @@ To evaluate a different model, modify the model identifier in `example_script.sh
 
 Detailed results for each evaluated model are available in the `outputs2/` directory.
 
-## 3. Metadata Construction
+## Metadata Construction
 
 To construct the metadata, run:
 
@@ -47,7 +47,7 @@ This script constructs the metadata used in multivariable regression, including 
 
 Some metadata features require additional resources, as described in the Requirements section.
 
-## 4. Additional Analyses
+## Additional Analyses
 
 To reproduce the main plots, multivariable regression, spearman rank correlation and other statistical analyses, run:
 
@@ -63,13 +63,13 @@ python3 src/export_plots2.py \
 
 The generated results are saved in the `plots2/` directory. `--glotcc` requires lang2size.json described below. If you want to run the code without pretraining language proportion data, you can simply omit that argument and execute the bash script.
 
-## 5. Interactive Results
+## Interactive Results
 
 Interactive visualizations of our results are available at:
 
 https://konta3738.github.io/calque/
 
-## 6. Requirements
+## Requirements
 
 The Python environment can be reproduced using the provided `environment.yml` file:
 
@@ -80,7 +80,7 @@ conda activate calque
 
 Some scripts require additional resources.
 
-### 6.1. FLORES-200 Dataset
+### 1. FLORES-200 Dataset
 
 Download [FLORES-200](https://github.com/facebookresearch/flores/tree/main) and place the `dev` split at:
 
@@ -92,7 +92,7 @@ Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Cen
 
 
 
-### 6.2. GlotCC Language Statistics
+### 2. GlotCC Language Statistics
 
 The file `lang2size.json` should contain language-size statistics derived from `v1.0-stat-2.zip` in [GlotCC](https://github.com/cisnlp/GlotCC).
 
@@ -105,7 +105,7 @@ These statistics serve as a proxy for the relative representation of languages i
 Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
 
 
-### 6.3. Awesome-Align
+### 3. Awesome-Align
 
 Download the [Awesome-Align](https://github.com/neulab/awesome-align) checkpoint and place it at:
 
@@ -116,13 +116,13 @@ Awesome-Align is used to compute alignment-based features for the multivariable 
 Reference: [Dou and Neubig (2021), *Word Alignment by Fine-tuning Embeddings on Parallel Corpora*](https://aclanthology.org/2021.eacl-main.181/).
 
 
-## 7. Citation
+## Citation
 
 If you use CALQUE or the accompanying code in your research, please cite our paper:
 
 *I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE.*
 
-## 8. License
+## License
 
 The source code in this repository is licensed under the MIT License.
 
