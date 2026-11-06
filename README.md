@@ -57,7 +57,8 @@ python3 src/export_plots2.py \
   --plots_dir ./plots2 \
   --metadata ./data/CALQUE_metadata.xlsx \
   --use-preference-annotation de fr pt sv zh ja \
-  --only_main
+  --only_main \
+  --glotcc
 ```
 
 The generated results are saved in the `plots2/` directory.
