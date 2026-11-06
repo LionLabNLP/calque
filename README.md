@@ -4,7 +4,7 @@
 
 CALQUE is a multilingual dataset designed to evaluate constructional bleeding in multilingual large language models (LLMs) inspired from the minimal-pair paradigm.
 The dataset covers seven languages (English, German, Swedish, French, Portuguese, Mandarin Chinese, and Japanese) and three construction types (body-part/everyday-activity/sensory experence).
-This repository contains the dataset and code used to evaluate LLMs on CALQUE.
+This repository contains the dataset and code used to evaluate LLMs with CALQUE.
 
 ## Dataset
 
