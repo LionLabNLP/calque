@@ -124,8 +124,10 @@ The CALQUE dataset is licensed under the Creative Commons Attribution 4.0 Intern
 
 ## References
 
-Reference: [NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Centered Machine Translation*](https://arxiv.org/abs/2207.04672).
+[NLLB Team et al. (2022), *No Language Left Behind: Scaling Human-Centered Machine Translation*](https://arxiv.org/abs/2207.04672).
 
-Reference: [Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
+[Kargaran et al. (2024), GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages](https://www.proceedings.com/079017-0540.html).
 
-Reference: [Dou and Neubig (2021), *Word Alignment by Fine-tuning Embeddings on Parallel Corpora*](https://aclanthology.org/2021.eacl-main.181/).
+[Dou and Neubig (2021), *Word Alignment by Fine-tuning Embeddings on Parallel Corpora*](https://aclanthology.org/2021.eacl-main.181/).
+
+[OpenAI et al. (2025), *gpt-oss-120b & gpt-oss-20b Model Card*](https://arxiv.org/abs/2508.10925).
