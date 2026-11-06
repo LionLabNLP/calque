@@ -1,0 +1,30 @@
+scope,specification,description,contrast,type,estimate,std_error,statistic,df,p_value,ci_lower,ci_upper,inference,n_obs,n_models,n_items
+pooled LMM,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),en - mean(non-English),planned,1.2952797340913524,0.07065844169519282,18.331563830390497,227.281031542453,1.0896162350472891e-46,1.1560503515919334,1.4345091165907715,Satterthwaite t (df = 227.28),121212,28,4329
+per model (descriptive),CohereLabs_aya-expanse-32b,Aya Expanse 32B,en - mean(non-English),per model,1.4672234256482497,0.03331870530530056,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_aya-expanse-8b,Aya Expanse 8B,en - mean(non-English),per model,1.5997236435028044,0.035734418981009305,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_tiny-aya-base,Tiny Aya Base,en - mean(non-English),per model,1.4058258176688998,0.03442663312359914,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_tiny-aya-earth,Tiny Aya Earth,en - mean(non-English),per model,1.5221127165993908,0.04243824885403845,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_tiny-aya-fire,Tiny Aya Fire,en - mean(non-English),per model,1.6060289039874778,0.04148603861161137,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_tiny-aya-global,Tiny Aya Global,en - mean(non-English),per model,1.4974412284351142,0.04300061088350814,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),CohereLabs_tiny-aya-water,Tiny Aya Water,en - mean(non-English),per model,1.5290849351513738,0.0424033078867815,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-12B,Gemma 4 12B,en - mean(non-English),per model,1.3944040103732833,0.033749491637405406,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-12B-it,Gemma 4 12B IT,en - mean(non-English),per model,0.1295336450759037,0.043082987844274646,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-26B-A4B,Gemma 4 26B-A4B,en - mean(non-English),per model,1.3907533321217131,0.033417694870964666,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-26B-A4B-it,Gemma 4 26B-A4B IT,en - mean(non-English),per model,0.8012480035367355,0.07992964545363926,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-31B,Gemma 4 31B,en - mean(non-English),per model,1.4062384204087282,0.03332971258297111,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-31B-it,Gemma 4 31B IT,en - mean(non-English),per model,1.0516831338858288,0.0653726166324852,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-E2B,Gemma 4 E2B,en - mean(non-English),per model,1.4393459304587333,0.03413795863511303,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-E2B-it,Gemma 4 E2B IT,en - mean(non-English),per model,0.5411496387928847,0.06977357692400123,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-E4B,Gemma 4 E4B,en - mean(non-English),per model,1.4191370011162139,0.03366394480104822,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),google_gemma-4-E4B-it,Gemma 4 E4B IT,en - mean(non-English),per model,0.4970711451400718,0.08745389544956479,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),openai_gpt-oss-120b,GPT-OSS 120B,en - mean(non-English),per model,1.6046692036307821,0.03874202759787368,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),swiss-ai_Apertus-70B-2509,Apertus 70B,en - mean(non-English),per model,1.4103406117216633,0.03166553893898742,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),swiss-ai_Apertus-70B-Instruct-2509,Apertus IT 70B,en - mean(non-English),per model,1.5716396649448112,0.033406704253680024,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),swiss-ai_Apertus-8B-2509,Apertus 8B,en - mean(non-English),per model,1.377623835840437,0.03208651052742589,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),swiss-ai_Apertus-8B-Instruct-2509,Apertus IT 8B,en - mean(non-English),per model,1.3228295217075656,0.039568441739135894,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-1.7B,EuroLLM 1.7B,en - mean(non-English),per model,1.2295692226395554,0.03134494605676825,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-1.7B-Instruct,EuroLLM 1.7B IT,en - mean(non-English),per model,1.293717127808431,0.03153512627200641,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-22B-2512,EuroLLM 22B,en - mean(non-English),per model,1.3876877284135034,0.03284006103585541,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 22B IT,en - mean(non-English),per model,1.3931593189332232,0.035409436055223675,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-9B,EuroLLM 9B,en - mean(non-English),per model,1.446920059300331,0.03331190676257726,,,,,,difference of means (descriptive; not tested),4329,1,4329
+per model (descriptive),utter-project_EuroLLM-9B-Instruct,EuroLLM 9B IT,en - mean(non-English),per model,1.5316713274031541,0.036810334987425766,,,,,,difference of means (descriptive; not tested),4329,1,4329

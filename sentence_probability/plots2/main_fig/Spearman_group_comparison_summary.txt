@@ -1,0 +1,154 @@
+Within-group Spearman correlations: English-centric (EC) vs non-English-centric (NEC) models
+==============================================================================
+Question: do EC models agree more with each other in their sentence-pair-level ΔSLOR than NEC models do?
+rho: the existing pairwise Spearman correlation (target-language comparison, exact sentence-pair identity, saved ΔSLOR, per-language preference filter). Each unordered model pair once; no self-correlations.
+EC / NEC: rq1_lmm.model_classification (registry english_centric; unregistered models from their explicit line-plot section). Families: viz_data2.paper_family (Tiny Aya + Aya Expanse = Aya).
+Descriptive only: no hypothesis tests, permutation tests or bootstrap intervals.
+
+[ALL] 39 statistical models (Spearman correlation ALL)
+------------------------------------------------------------------------------
+models: 39 (28 EC, 11 NEC)
+  EC–EC     378 pairs (0 undefined): median 0.710, mean 0.585, SD 0.279, IQR 0.502 [0.280, 0.783], range -0.019 to 0.989
+  NEC–NEC    55 pairs (0 undefined): median 0.524, mean 0.515, SD 0.189, IQR 0.304 [0.378, 0.682], range 0.127 to 0.952
+  EC–NEC    308 pairs (0 undefined): median 0.566, mean 0.476, SD 0.194, IQR 0.298 [0.333, 0.630], range -0.126 to 0.729
+  Δmedianρ (EC–EC − NEC–NEC) = 0.185
+  difference in means (descriptive): estimate 0.069
+  cross-family pairs only: estimate 0.202
+  family-balanced contrast: estimate 0.161  (one value per pair of distinct families: 10 EC family pairs (median 0.710), 36 NEC family pairs (median 0.550); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.185; range 0.058 to 0.273; n = 14
+  leave-one-model-out: estimate 0.185; range 0.123 to 0.272; n = 39
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.198
+  EC–EC, same family: 87 pairs, median 0.731, mean 0.601, IQR 0.619
+  EC–EC, different families: 291 pairs, median 0.708, mean 0.580, IQR 0.482
+  NEC–NEC, same family: 2 pairs, median 0.886, mean 0.886, IQR 0.066
+  NEC–NEC, different families: 53 pairs, median 0.506, mean 0.501, IQR 0.305
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 308 pairs, median 0.566, mean 0.476, IQR 0.298
+
+[ALL_manaca_not_lucie] ALL with Manacá 1B instead of Lucie 7B (Lucie excluded)
+------------------------------------------------------------------------------
+models: 38 (28 EC, 10 NEC)
+  EC–EC     378 pairs (0 undefined): median 0.710, mean 0.585, SD 0.279, IQR 0.502 [0.280, 0.783], range -0.019 to 0.989
+  NEC–NEC    45 pairs (0 undefined): median 0.452, mean 0.521, SD 0.203, IQR 0.301 [0.382, 0.683], range 0.127 to 0.952
+  EC–NEC    280 pairs (0 undefined): median 0.568, mean 0.474, SD 0.196, IQR 0.306 [0.332, 0.637], range -0.126 to 0.729
+  Δmedianρ (EC–EC − NEC–NEC) = 0.258
+  difference in means (descriptive): estimate 0.064
+  cross-family pairs only: estimate 0.270
+  family-balanced contrast: estimate 0.121  (one value per pair of distinct families: 10 EC family pairs (median 0.710), 28 NEC family pairs (median 0.590); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.258; range 0.029 to 0.309; n = 13
+  leave-one-model-out: estimate 0.258; range 0.051 to 0.281; n = 38
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.266
+  EC–EC, same family: 87 pairs, median 0.731, mean 0.601, IQR 0.619
+  EC–EC, different families: 291 pairs, median 0.708, mean 0.580, IQR 0.482
+  NEC–NEC, same family: 2 pairs, median 0.886, mean 0.886, IQR 0.066
+  NEC–NEC, different families: 43 pairs, median 0.438, mean 0.504, IQR 0.304
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 280 pairs, median 0.568, mean 0.474, IQR 0.306
+
+[ALL_without_manaca] ALL without Manacá 1B
+------------------------------------------------------------------------------
+models: 38 (28 EC, 10 NEC)
+  EC–EC     378 pairs (0 undefined): median 0.710, mean 0.585, SD 0.279, IQR 0.502 [0.280, 0.783], range -0.019 to 0.989
+  NEC–NEC    45 pairs (0 undefined): median 0.572, mean 0.532, SD 0.185, IQR 0.308 [0.375, 0.683], range 0.127 to 0.820
+  EC–NEC    280 pairs (0 undefined): median 0.581, mean 0.491, SD 0.195, IQR 0.300 [0.338, 0.637], range -0.126 to 0.729
+  Δmedianρ (EC–EC − NEC–NEC) = 0.137
+  difference in means (descriptive): estimate 0.053
+  cross-family pairs only: estimate 0.137
+  family-balanced contrast: estimate 0.161  (one value per pair of distinct families: 10 EC family pairs (median 0.710), 36 NEC family pairs (median 0.550); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.137; range 0.058 to 0.188; n = 14
+  leave-one-model-out: estimate 0.137; range 0.058 to 0.182; n = 38
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.134
+  EC–EC, same family: 87 pairs, median 0.731, mean 0.601, IQR 0.619
+  EC–EC, different families: 291 pairs, median 0.708, mean 0.580, IQR 0.482
+  NEC–NEC, same family: 1 pairs, median 0.820, mean 0.820, IQR 0.000
+  NEC–NEC, different families: 44 pairs, median 0.571, mean 0.525, IQR 0.310
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 280 pairs, median 0.581, mean 0.491, IQR 0.300
+
+[ALL_without_gemma4_it] ALL without the five Gemma 4 instruction-tuned checkpoints (POST HOC, chosen after inspecting the pair distribution)
+------------------------------------------------------------------------------
+models: 34 (23 EC, 11 NEC)
+  EC–EC     253 pairs (0 undefined): median 0.768, mean 0.770, SD 0.076, IQR 0.096 [0.708, 0.804], range 0.646 to 0.989
+  NEC–NEC    55 pairs (0 undefined): median 0.524, mean 0.515, SD 0.189, IQR 0.304 [0.378, 0.682], range 0.127 to 0.952
+  EC–NEC    253 pairs (0 undefined): median 0.593, mean 0.542, SD 0.133, IQR 0.259 [0.383, 0.642], range 0.273 to 0.729
+  Δmedianρ (EC–EC − NEC–NEC) = 0.244
+  difference in means (descriptive): estimate 0.255
+  cross-family pairs only: estimate 0.255
+  family-balanced contrast: estimate 0.204  (one value per pair of distinct families: 10 EC family pairs (median 0.754), 36 NEC family pairs (median 0.550); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.244; range 0.117 to 0.332; n = 14
+  leave-one-model-out: estimate 0.244; range 0.181 to 0.330; n = 34
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.250
+  EC–EC, same family: 52 pairs, median 0.869, mean 0.856, IQR 0.081
+  EC–EC, different families: 201 pairs, median 0.761, mean 0.748, IQR 0.081
+  NEC–NEC, same family: 2 pairs, median 0.886, mean 0.886, IQR 0.066
+  NEC–NEC, different families: 53 pairs, median 0.506, mean 0.501, IQR 0.305
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 253 pairs, median 0.593, mean 0.542, IQR 0.259
+
+[selected] 6 selected models of Spearman_model_correlation.pdf
+------------------------------------------------------------------------------
+models: 6 (4 EC, 2 NEC)
+  EC–EC       6 pairs (0 undefined): median 0.792, mean 0.792, SD 0.030, IQR 0.034 [0.768, 0.802], range 0.760 to 0.840
+  NEC–NEC     1 pairs (0 undefined): median 0.506, mean 0.506, SD nan, IQR 0.000 [0.506, 0.506], range 0.506 to 0.506
+  EC–NEC      8 pairs (0 undefined): median 0.604, mean 0.600, SD 0.030, IQR 0.048 [0.574, 0.623], range 0.559 to 0.642
+  Δmedianρ (EC–EC − NEC–NEC) = 0.286
+  difference in means (descriptive): estimate 0.285
+  cross-family pairs only: estimate 0.286
+  family-balanced contrast: estimate 0.286  (one value per pair of distinct families: 6 EC family pairs (median 0.792), 1 NEC family pairs (median 0.506); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.286; range 0.256 to 0.297; n = 6
+  leave-one-model-out: estimate 0.286; range 0.256 to 0.297; n = 6
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.286
+  EC–EC, same family: not available (0 pairs)
+  EC–EC, different families: 6 pairs, median 0.792, mean 0.792, IQR 0.034
+  NEC–NEC, same family: not available (0 pairs)
+  NEC–NEC, different families: 1 pairs, median 0.506, mean 0.506, IQR 0.000
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 8 pairs, median 0.604, mean 0.600, IQR 0.048
+  CAUTION: only 2 NEC models -> 1 NEC–NEC pair(s); the 'median' is a single correlation and this set is not a group comparison. It is not equivalent to the ALL analysis.
+
+[selected_manaca] 6 selected models, Manacá 1B instead of Lucie 7B (Spearman_model_correlation_manaca.pdf)
+------------------------------------------------------------------------------
+models: 6 (4 EC, 2 NEC)
+  EC–EC       6 pairs (0 undefined): median 0.792, mean 0.792, SD 0.030, IQR 0.034 [0.768, 0.802], range 0.760 to 0.840
+  NEC–NEC     1 pairs (0 undefined): median 0.382, mean 0.382, SD nan, IQR 0.000 [0.382, 0.382], range 0.382 to 0.382
+  EC–NEC      8 pairs (0 undefined): median 0.494, mean 0.500, SD 0.130, IQR 0.242 [0.381, 0.623], range 0.365 to 0.642
+  Δmedianρ (EC–EC − NEC–NEC) = 0.410
+  difference in means (descriptive): estimate 0.409
+  cross-family pairs only: estimate 0.410
+  family-balanced contrast: estimate 0.410  (one value per pair of distinct families: 6 EC family pairs (median 0.792), 1 NEC family pairs (median 0.382); large families and same-family pairs get no extra weight; descriptive)
+  leave-one-family-out: estimate 0.410; range 0.381 to 0.421; n = 6
+  leave-one-model-out: estimate 0.410; range 0.381 to 0.421; n = 6
+  registry families (Tiny Aya and Aya Expanse separate): estimate 0.410
+  EC–EC, same family: not available (0 pairs)
+  EC–EC, different families: 6 pairs, median 0.792, mean 0.792, IQR 0.034
+  NEC–NEC, same family: not available (0 pairs)
+  NEC–NEC, different families: 1 pairs, median 0.382, mean 0.382, IQR 0.000
+  EC–NEC, same family: not available (0 pairs)
+  EC–NEC, different families: 8 pairs, median 0.494, mean 0.500, IQR 0.242
+  CAUTION: only 2 NEC models -> 1 NEC–NEC pair(s); the 'median' is a single correlation and this set is not a group comparison. It is not equivalent to the ALL analysis.
+
+Caveats
+------------------------------------------------------------------------------
+* Model pairs are not independent: every model enters many pairs, and models of one family share architecture, data and recipe. The 378 EC–EC and 55 NEC–NEC correlations are summarised descriptively and never treated as independent observations.
+* Every family is entirely EC or entirely NEC (5 EC families, 9 NEC families, each NEC family a single checkpoint), so EC/NEC is confounded with family.
+* NEC models differ in focus language (de, fr, pt, zh, ja) and training type (continual pretraining, fine-tuning, from scratch); lower NEC–NEC agreement may reflect this heterogeneity rather than the absence of English-centric training as such.
+* Correlation of preferences is not correctness: two models can agree on wrong preferences.
+
+ACL-ready paragraph (descriptive)
+------------------------------------------------------------------------------
+To describe whether English-centric (EC) models agree more with each other than non-English-centric (NEC)
+models do, we grouped the pairwise Spearman correlations between the models' sentence-pair-level ΔSLOR into
+EC–EC (28 models, 378 pairs) and NEC–NEC (11 models, 55 pairs) model pairs. The median EC–EC correlation (ρ =
+0.71, IQR 0.28–0.78) was higher than the median NEC–NEC correlation (ρ = 0.52, IQR 0.38–0.68; EC–NEC pairs:
+0.57), Δmedianρ = 0.19. EC models from different families correlated with a median ρ = 0.71 (291 pairs; same-
+family EC pairs: 0.73), so agreement among EC models is not confined to models of one family. Giving every
+pair of families equal weight changed the difference to 0.16. With only 5 EC families and 9 single-checkpoint
+NEC models, these correlations describe the evaluated models and do not show that English-centric training
+causes higher agreement.
+
+Sensitivity model sets (different models; NOT equivalent to the ALL analysis; ALL_without_gemma4_it is post hoc, chosen after seeing that the five Gemma 4 IT checkpoints form the low EC–EC tail, and must be reported as exploratory):
+  ALL_manaca_not_lucie (28 EC / 10 NEC): EC–EC 0.710, NEC–NEC 0.452 (45 pairs), Δ = 0.258
+  ALL_without_manaca (28 EC / 10 NEC): EC–EC 0.710, NEC–NEC 0.572 (45 pairs), Δ = 0.137
+  ALL_without_gemma4_it (23 EC / 11 NEC): EC–EC 0.768, NEC–NEC 0.524 (55 pairs), Δ = 0.244
+  selected (4 EC / 2 NEC): EC–EC 0.792, NEC–NEC 0.506 (1 pairs), Δ = 0.286
+  selected_manaca (4 EC / 2 NEC): EC–EC 0.792, NEC–NEC 0.382 (1 pairs), Δ = 0.410

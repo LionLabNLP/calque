@@ -1,0 +1,21 @@
+original_target_language,model_name,preference_subset,n_control_candidates,n_matched,n_control_excluded,missing_proper_english_strategy,no_ja_source_row,no_ja_output_for_model,ja_pair_identical,ja_score_missing_or_filtered
+de,CohereLabs_aya-expanse-32b,>> only,208,188,20,0,20,0,0,0
+de,google_gemma-4-31B,>> only,208,188,20,0,20,0,0,0
+de,swiss-ai_Apertus-70B-2509,>> only,208,188,20,0,20,0,0,0
+de,utter-project_EuroLLM-22B-2512,>> only,208,188,20,0,20,0,0,0
+sv,CohereLabs_aya-expanse-32b,>> only,134,132,2,0,2,0,0,0
+sv,google_gemma-4-31B,>> only,134,132,2,0,2,0,0,0
+sv,swiss-ai_Apertus-70B-2509,>> only,134,132,2,0,2,0,0,0
+sv,utter-project_EuroLLM-22B-2512,>> only,134,132,2,0,2,0,0,0
+fr,CohereLabs_aya-expanse-32b,>> only,272,254,18,0,18,0,0,0
+fr,google_gemma-4-31B,>> only,272,254,18,0,18,0,0,0
+fr,swiss-ai_Apertus-70B-2509,>> only,272,254,18,0,18,0,0,0
+fr,utter-project_EuroLLM-22B-2512,>> only,272,254,18,0,18,0,0,0
+pt,CohereLabs_aya-expanse-32b,>> only,37,22,15,0,15,0,0,0
+pt,google_gemma-4-31B,>> only,37,22,15,0,15,0,0,0
+pt,swiss-ai_Apertus-70B-2509,>> only,37,22,15,0,15,0,0,0
+pt,utter-project_EuroLLM-22B-2512,>> only,37,22,15,0,15,0,0,0
+zh,CohereLabs_aya-expanse-32b,>> only,144,134,10,0,10,0,0,0
+zh,google_gemma-4-31B,>> only,144,134,10,0,10,0,0,0
+zh,swiss-ai_Apertus-70B-2509,>> only,144,134,10,0,10,0,0,0
+zh,utter-project_EuroLLM-22B-2512,>> only,144,134,10,0,10,0,0,0

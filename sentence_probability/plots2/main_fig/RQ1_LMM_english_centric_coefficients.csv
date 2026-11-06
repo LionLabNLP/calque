@@ -1,0 +1,8 @@
+analysis,specification,description,term,estimate,std_error,inference,n_obs,n_models,n_items
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),(Intercept),1.41914359448731,0.0737468457208023,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languagede,-1.31978279770739,0.0983658453219829,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languagefr,-0.684858193448656,0.0963296012302462,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languageja,-1.51381434814993,0.0963966634197397,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languagept,-1.72676633756504,0.0978208273840777,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languagesv,-1.3413236352727,0.0979577975964622,estimate and SE only (not tested),121212,28,4329
+1: English-centric,ec_model_language,paper-primary: + model x language random intercepts (model-specific language deviations),languagezh,-1.1851330924044,0.101786341892834,estimate and SE only (not tested),121212,28,4329

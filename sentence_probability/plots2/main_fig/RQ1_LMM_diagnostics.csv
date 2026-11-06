@@ -1,0 +1,3 @@
+fit_id,formula,reference_language,status,n_obs,n_models,n_items,singular,optimizer_code,converged,lme4_messages,warnings,loglik_REML,seconds,var:item,var:model_language,var:model,var:Residual
+ec_model_language,dslor ~ language + (1 | model) + (1 | model_language) + (1 | item),en,ok,121212,28,4329,FALSE,0,True,,,-185127.646947837,8.8,0.8376097631593,0.0990370068406091,0.0384499882037063,1.10451521687568
+nec_model_language,dslor ~ is_focus + language + (1 | model) + (1 | model_language) + (1 | item),de,ok,29359,11,2669,TRUE,0,True,boundary (singular) fit: see help('isSingular'),,-29844.7296573374,1.1,0.319565231633883,0.0227921794712478,0.0,0.357255012185334

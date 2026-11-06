@@ -1,0 +1,217 @@
+order,section,model_id,model_name,label,language,language_name,group,N_native,N_transferred,N_both,N_neither,N_total,denominator,probability,status
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,de,German,Everyday activities,33,28,0,77,138,61,0.45901639344262296,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,sv,Swedish,Everyday activities,105,19,0,38,162,124,0.1532258064516129,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,fr,French,Everyday activities,100,6,0,116,222,106,0.05660377358490566,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,pt,Portuguese,Everyday activities,40,22,0,92,154,62,0.3548387096774194,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,zh,Chinese,Everyday activities,25,0,0,147,172,25,0.0,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,ja,Japanese,Everyday activities,76,0,0,146,222,76,0.0,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,de,German,Everyday activities,51,22,1,64,138,73,0.3013698630136986,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,sv,Swedish,Everyday activities,100,25,1,36,162,125,0.2,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,fr,French,Everyday activities,131,8,0,83,222,139,0.05755395683453238,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,pt,Portuguese,Everyday activities,42,16,0,96,154,58,0.27586206896551724,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,zh,Chinese,Everyday activities,30,4,0,138,172,34,0.11764705882352941,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,ja,Japanese,Everyday activities,21,0,0,201,222,21,0.0,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,de,German,Everyday activities,109,6,0,23,138,115,0.05217391304347826,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,sv,Swedish,Everyday activities,32,34,1,95,162,66,0.5151515151515151,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,fr,French,Everyday activities,161,8,3,50,222,169,0.047337278106508875,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,pt,Portuguese,Everyday activities,78,18,2,56,154,96,0.1875,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,zh,Chinese,Everyday activities,85,5,0,82,172,90,0.05555555555555555,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,ja,Japanese,Everyday activities,107,0,0,115,222,107,0.0,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,de,German,Everyday activities,88,11,2,37,138,99,0.1111111111111111,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,sv,Swedish,Everyday activities,94,18,0,50,162,112,0.16071428571428573,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,fr,French,Everyday activities,178,1,0,43,222,179,0.00558659217877095,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,pt,Portuguese,Everyday activities,83,22,0,49,154,105,0.20952380952380953,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,zh,Chinese,Everyday activities,103,5,1,63,172,108,0.046296296296296294,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,ja,Japanese,Everyday activities,133,0,0,89,222,133,0.0,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,de,German,Everyday activities,6,59,0,73,138,65,0.9076923076923077,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,sv,Swedish,Everyday activities,61,48,0,53,162,109,0.44036697247706424,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,fr,French,Everyday activities,112,5,0,105,222,117,0.042735042735042736,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,pt,Portuguese,Everyday activities,35,47,0,72,154,82,0.573170731707317,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,zh,Chinese,Everyday activities,29,7,1,135,172,36,0.19444444444444445,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,ja,Japanese,Everyday activities,35,5,0,182,222,40,0.125,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,de,German,Everyday activities,23,45,0,70,138,68,0.6617647058823529,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,sv,Swedish,Everyday activities,66,21,0,75,162,87,0.2413793103448276,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,fr,French,Everyday activities,109,5,0,108,222,114,0.043859649122807015,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,pt,Portuguese,Everyday activities,47,21,0,86,154,68,0.3088235294117647,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,zh,Chinese,Everyday activities,20,3,0,149,172,23,0.13043478260869565,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,ja,Japanese,Everyday activities,37,4,0,181,222,41,0.0975609756097561,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,de,German,Everyday activities,50,48,0,40,138,98,0.4897959183673469,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,sv,Swedish,Everyday activities,90,45,0,27,162,135,0.3333333333333333,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,fr,French,Everyday activities,144,6,0,72,222,150,0.04,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,pt,Portuguese,Everyday activities,55,25,0,74,154,80,0.3125,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,zh,Chinese,Everyday activities,68,4,0,100,172,72,0.05555555555555555,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,ja,Japanese,Everyday activities,103,0,0,119,222,103,0.0,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,de,German,Everyday activities,86,15,5,32,138,101,0.1485148514851485,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,sv,Swedish,Everyday activities,105,15,2,40,162,120,0.125,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,fr,French,Everyday activities,152,6,0,64,222,158,0.0379746835443038,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,pt,Portuguese,Everyday activities,79,13,1,61,154,92,0.14130434782608695,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,zh,Chinese,Everyday activities,67,13,0,92,172,80,0.1625,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,ja,Japanese,Everyday activities,93,0,0,129,222,93,0.0,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,de,German,Everyday activities,32,53,0,53,138,85,0.6235294117647059,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,sv,Swedish,Everyday activities,105,31,0,26,162,136,0.22794117647058823,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,fr,French,Everyday activities,150,5,0,67,222,155,0.03225806451612903,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,pt,Portuguese,Everyday activities,35,18,0,101,154,53,0.33962264150943394,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,zh,Chinese,Everyday activities,46,15,2,109,172,61,0.2459016393442623,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,ja,Japanese,Everyday activities,103,5,0,114,222,108,0.046296296296296294,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,fr,French,Everyday activities,1,0,0,221,222,1,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,pt,Portuguese,Everyday activities,0,0,0,154,154,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,zh,Chinese,Everyday activities,36,10,2,124,172,46,0.21739130434782608,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,de,German,Everyday activities,71,26,0,41,138,97,0.26804123711340205,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,sv,Swedish,Everyday activities,117,20,0,25,162,137,0.145985401459854,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,fr,French,Everyday activities,137,6,0,79,222,143,0.04195804195804196,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,pt,Portuguese,Everyday activities,32,43,0,79,154,75,0.5733333333333334,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,zh,Chinese,Everyday activities,48,1,0,123,172,49,0.02040816326530612,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,ja,Japanese,Everyday activities,42,0,0,180,222,42,0.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,de,German,Everyday activities,1,10,0,127,138,11,0.9090909090909091,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,sv,Swedish,Everyday activities,30,10,0,122,162,40,0.25,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,fr,French,Everyday activities,29,10,0,183,222,39,0.2564102564102564,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,pt,Portuguese,Everyday activities,0,19,0,135,154,19,1.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,zh,Chinese,Everyday activities,7,6,0,159,172,13,0.46153846153846156,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,ja,Japanese,Everyday activities,26,0,0,196,222,26,0.0,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,de,German,Everyday activities,33,53,0,52,138,86,0.6162790697674418,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,sv,Swedish,Everyday activities,91,39,0,32,162,130,0.3,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,fr,French,Everyday activities,147,20,0,55,222,167,0.11976047904191617,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,pt,Portuguese,Everyday activities,21,45,0,88,154,66,0.6818181818181818,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,zh,Chinese,Everyday activities,54,9,0,109,172,63,0.14285714285714285,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,ja,Japanese,Everyday activities,36,0,0,186,222,36,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,fr,French,Everyday activities,23,0,0,199,222,23,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,pt,Portuguese,Everyday activities,1,3,0,150,154,4,0.75,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,zh,Chinese,Everyday activities,21,3,0,148,172,24,0.125,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,de,German,Everyday activities,26,57,0,55,138,83,0.6867469879518072,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,sv,Swedish,Everyday activities,111,30,0,21,162,141,0.2127659574468085,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,fr,French,Everyday activities,146,11,0,65,222,157,0.07006369426751592,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,pt,Portuguese,Everyday activities,48,50,0,56,154,98,0.5102040816326531,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,zh,Chinese,Everyday activities,67,5,0,100,172,72,0.06944444444444445,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,ja,Japanese,Everyday activities,71,0,0,151,222,71,0.0,ok
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,fr,French,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,pt,Portuguese,Everyday activities,0,0,0,154,154,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,zh,Chinese,Everyday activities,0,0,0,172,172,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,de,German,Everyday activities,27,57,0,54,138,84,0.6785714285714286,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,sv,Swedish,Everyday activities,117,22,0,23,162,139,0.15827338129496402,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,fr,French,Everyday activities,160,15,0,47,222,175,0.08571428571428572,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,pt,Portuguese,Everyday activities,62,35,0,57,154,97,0.36082474226804123,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,zh,Chinese,Everyday activities,83,0,0,89,172,83,0.0,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,ja,Japanese,Everyday activities,109,0,0,113,222,109,0.0,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,fr,French,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,pt,Portuguese,Everyday activities,1,0,0,153,154,1,0.0,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,zh,Chinese,Everyday activities,0,0,0,172,172,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,de,German,Everyday activities,40,39,0,59,138,79,0.4936708860759494,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,sv,Swedish,Everyday activities,78,13,0,71,162,91,0.14285714285714285,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,fr,French,Everyday activities,137,4,0,81,222,141,0.028368794326241134,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,pt,Portuguese,Everyday activities,32,17,0,105,154,49,0.3469387755102041,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,zh,Chinese,Everyday activities,80,2,0,90,172,82,0.024390243902439025,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,ja,Japanese,Everyday activities,86,0,0,136,222,86,0.0,ok
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,fr,French,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,pt,Portuguese,Everyday activities,0,0,0,154,154,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,zh,Chinese,Everyday activities,0,0,0,172,172,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,de,German,Everyday activities,53,36,0,49,138,89,0.4044943820224719,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,sv,Swedish,Everyday activities,102,34,0,26,162,136,0.25,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,fr,French,Everyday activities,141,7,0,74,222,148,0.0472972972972973,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,pt,Portuguese,Everyday activities,54,37,0,63,154,91,0.4065934065934066,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,zh,Chinese,Everyday activities,49,14,1,108,172,63,0.2222222222222222,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,ja,Japanese,Everyday activities,69,0,0,153,222,69,0.0,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,de,German,Everyday activities,51,30,0,57,138,81,0.37037037037037035,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,sv,Swedish,Everyday activities,122,23,0,17,162,145,0.15862068965517243,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,fr,French,Everyday activities,174,6,0,42,222,180,0.03333333333333333,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,pt,Portuguese,Everyday activities,79,32,0,43,154,111,0.2882882882882883,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,zh,Chinese,Everyday activities,76,1,0,95,172,77,0.012987012987012988,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,ja,Japanese,Everyday activities,100,0,0,122,222,100,0.0,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,de,German,Everyday activities,45,55,0,38,138,100,0.55,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,sv,Swedish,Everyday activities,96,41,2,23,162,137,0.29927007299270075,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,fr,French,Everyday activities,142,6,0,74,222,148,0.04054054054054054,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,pt,Portuguese,Everyday activities,58,36,0,60,154,94,0.3829787234042553,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,zh,Chinese,Everyday activities,67,19,2,84,172,86,0.22093023255813954,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,ja,Japanese,Everyday activities,96,0,0,126,222,96,0.0,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,de,German,Everyday activities,65,33,0,40,138,98,0.336734693877551,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,sv,Swedish,Everyday activities,122,21,0,19,162,143,0.14685314685314685,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,fr,French,Everyday activities,161,9,0,52,222,170,0.052941176470588235,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,pt,Portuguese,Everyday activities,72,31,0,51,154,103,0.30097087378640774,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,zh,Chinese,Everyday activities,72,0,0,100,172,72,0.0,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,ja,Japanese,Everyday activities,83,0,0,139,222,83,0.0,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,de,German,Everyday activities,24,17,73,24,138,41,0.4146341463414634,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,sv,Swedish,Everyday activities,53,20,67,22,162,73,0.273972602739726,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,fr,French,Everyday activities,169,4,7,42,222,173,0.023121387283236993,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,pt,Portuguese,Everyday activities,53,20,40,41,154,73,0.273972602739726,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,zh,Chinese,Everyday activities,101,1,0,70,172,102,0.00980392156862745,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,ja,Japanese,Everyday activities,82,0,0,140,222,82,0.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,de,German,Everyday activities,7,28,0,103,138,35,0.8,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,sv,Swedish,Everyday activities,38,40,0,84,162,78,0.5128205128205128,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,fr,French,Everyday activities,92,2,0,128,222,94,0.02127659574468085,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,pt,Portuguese,Everyday activities,0,29,0,125,154,29,1.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,zh,Chinese,Everyday activities,20,7,0,145,172,27,0.25925925925925924,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,ja,Japanese,Everyday activities,16,22,0,184,222,38,0.5789473684210527,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,de,German,Everyday activities,48,40,0,50,138,88,0.45454545454545453,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,sv,Swedish,Everyday activities,5,0,0,157,162,5,0.0,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,fr,French,Everyday activities,144,5,0,73,222,149,0.03355704697986577,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,pt,Portuguese,Everyday activities,2,22,0,130,154,24,0.9166666666666666,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,zh,Chinese,Everyday activities,7,3,0,162,172,10,0.3,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,ja,Japanese,Everyday activities,9,0,0,213,222,9,0.0,ok
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,fr,French,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,pt,Portuguese,Everyday activities,0,0,0,154,154,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,zh,Chinese,Everyday activities,0,0,0,172,172,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,de,German,Everyday activities,0,0,0,138,138,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,sv,Swedish,Everyday activities,0,0,0,162,162,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,fr,French,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,pt,Portuguese,Everyday activities,0,0,0,154,154,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,zh,Chinese,Everyday activities,0,0,0,172,172,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,de,German,Everyday activities,7,4,0,127,138,11,0.36363636363636365,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,sv,Swedish,Everyday activities,19,12,2,129,162,31,0.3870967741935484,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,fr,French,Everyday activities,56,1,1,164,222,57,0.017543859649122806,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,pt,Portuguese,Everyday activities,40,37,3,74,154,77,0.4805194805194805,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,zh,Chinese,Everyday activities,9,0,0,163,172,9,0.0,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,de,German,Everyday activities,24,10,0,104,138,34,0.29411764705882354,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,sv,Swedish,Everyday activities,85,34,0,43,162,119,0.2857142857142857,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,fr,French,Everyday activities,104,20,0,98,222,124,0.16129032258064516,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,pt,Portuguese,Everyday activities,20,42,0,92,154,62,0.6774193548387096,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,zh,Chinese,Everyday activities,23,13,0,136,172,36,0.3611111111111111,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,ja,Japanese,Everyday activities,2,0,0,220,222,2,0.0,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,de,German,Everyday activities,43,11,0,84,138,54,0.2037037037037037,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,sv,Swedish,Everyday activities,19,8,0,135,162,27,0.2962962962962963,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,fr,French,Everyday activities,64,1,0,157,222,65,0.015384615384615385,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,pt,Portuguese,Everyday activities,19,15,0,120,154,34,0.4411764705882353,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,zh,Chinese,Everyday activities,45,1,1,125,172,46,0.021739130434782608,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,ja,Japanese,Everyday activities,7,0,0,215,222,7,0.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,de,German,Everyday activities,0,29,0,109,138,29,1.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,sv,Swedish,Everyday activities,22,22,0,118,162,44,0.5,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,fr,French,Everyday activities,81,1,0,140,222,82,0.012195121951219513,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,pt,Portuguese,Everyday activities,4,29,0,121,154,33,0.8787878787878788,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,zh,Chinese,Everyday activities,32,10,0,130,172,42,0.23809523809523808,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,ja,Japanese,Everyday activities,107,0,0,115,222,107,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,de,German,Everyday activities,0,12,0,126,138,12,1.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,sv,Swedish,Everyday activities,10,7,0,145,162,17,0.4117647058823529,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,fr,French,Everyday activities,17,27,0,178,222,44,0.6136363636363636,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,pt,Portuguese,Everyday activities,2,13,0,139,154,15,0.8666666666666667,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,zh,Chinese,Everyday activities,22,4,0,146,172,26,0.15384615384615385,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,ja,Japanese,Everyday activities,67,1,0,154,222,68,0.014705882352941176,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,de,German,Everyday activities,2,38,0,98,138,40,0.95,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,sv,Swedish,Everyday activities,33,24,0,105,162,57,0.42105263157894735,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,fr,French,Everyday activities,76,14,0,132,222,90,0.15555555555555556,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,pt,Portuguese,Everyday activities,16,44,0,94,154,60,0.7333333333333333,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,zh,Chinese,Everyday activities,45,1,0,126,172,46,0.021739130434782608,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,ja,Japanese,Everyday activities,75,3,0,144,222,78,0.038461538461538464,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,de,German,Everyday activities,2,23,0,113,138,25,0.92,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,sv,Swedish,Everyday activities,0,2,0,160,162,2,1.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,fr,French,Everyday activities,11,17,0,194,222,28,0.6071428571428571,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,pt,Portuguese,Everyday activities,1,7,0,146,154,8,0.875,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,zh,Chinese,Everyday activities,0,2,0,170,172,2,1.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,ja,Japanese,Everyday activities,0,0,0,222,222,0,,no native/transferred match (N_native + N_transferred = 0)

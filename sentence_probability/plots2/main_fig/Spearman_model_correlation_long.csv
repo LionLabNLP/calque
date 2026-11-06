@@ -1,0 +1,16 @@
+model_a,model_b,label_a,label_b,rho,n_shared_pairs,status
+utter-project_EuroLLM-22B-2512,google_gemma-4-31B,EuroLLM 22B,Gemma 4 31B,0.8029052900770736,2669,ok
+utter-project_EuroLLM-22B-2512,CohereLabs_aya-expanse-32b,EuroLLM 22B,Aya Expanse 32B,0.783585985033452,2669,ok
+utter-project_EuroLLM-22B-2512,swiss-ai_Apertus-70B-2509,EuroLLM 22B,Apertus 70B,0.8001830177880316,2669,ok
+utter-project_EuroLLM-22B-2512,OpenLLM-France_Lucie-7B,EuroLLM 22B,Lucie 7B,0.5590099173107198,2669,ok
+utter-project_EuroLLM-22B-2512,llm-jp_llm-jp-3-13b,EuroLLM 22B,LLM-jp-3 13B,0.5949364832809961,2669,ok
+google_gemma-4-31B,CohereLabs_aya-expanse-32b,Gemma 4 31B,Aya Expanse 32B,0.7627319866884091,2669,ok
+google_gemma-4-31B,swiss-ai_Apertus-70B-2509,Gemma 4 31B,Apertus 70B,0.8403215701955256,2669,ok
+google_gemma-4-31B,OpenLLM-France_Lucie-7B,Gemma 4 31B,Lucie 7B,0.5674621032765311,2669,ok
+google_gemma-4-31B,llm-jp_llm-jp-3-13b,Gemma 4 31B,LLM-jp-3 13B,0.641619493326796,2669,ok
+CohereLabs_aya-expanse-32b,swiss-ai_Apertus-70B-2509,Aya Expanse 32B,Apertus 70B,0.7599706118622237,2669,ok
+CohereLabs_aya-expanse-32b,OpenLLM-France_Lucie-7B,Aya Expanse 32B,Lucie 7B,0.5767963726841612,2669,ok
+CohereLabs_aya-expanse-32b,llm-jp_llm-jp-3-13b,Aya Expanse 32B,LLM-jp-3 13B,0.6221478755900729,2669,ok
+swiss-ai_Apertus-70B-2509,OpenLLM-France_Lucie-7B,Apertus 70B,Lucie 7B,0.6123562584748095,2669,ok
+swiss-ai_Apertus-70B-2509,llm-jp_llm-jp-3-13b,Apertus 70B,LLM-jp-3 13B,0.6236262783220644,2669,ok
+OpenLLM-France_Lucie-7B,llm-jp_llm-jp-3-13b,Lucie 7B,LLM-jp-3 13B,0.5062373293709832,2669,ok

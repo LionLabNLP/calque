@@ -1,0 +1,217 @@
+order,section,model_id,model_name,label,language,language_name,group,N_native,N_transferred,N_both,N_neither,N_total,denominator,probability,status
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,de,German,Sensory experience,14,2,0,69,85,16,0.125,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,sv,Swedish,Sensory experience,37,8,0,35,80,45,0.17777777777777778,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,fr,French,Sensory experience,19,10,0,77,106,29,0.3448275862068966,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,pt,Portuguese,Sensory experience,33,3,0,97,133,36,0.08333333333333333,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,zh,Chinese,Sensory experience,6,4,0,47,57,10,0.4,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,ja,Japanese,Sensory experience,3,0,0,100,103,3,0.0,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,de,German,Sensory experience,19,2,0,64,85,21,0.09523809523809523,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,sv,Swedish,Sensory experience,31,9,0,40,80,40,0.225,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,fr,French,Sensory experience,24,4,0,78,106,28,0.14285714285714285,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,pt,Portuguese,Sensory experience,45,1,0,87,133,46,0.021739130434782608,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,zh,Chinese,Sensory experience,9,7,0,41,57,16,0.4375,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,ja,Japanese,Sensory experience,2,1,0,100,103,3,0.3333333333333333,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,de,German,Sensory experience,17,2,0,66,85,19,0.10526315789473684,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,sv,Swedish,Sensory experience,10,18,0,52,80,28,0.6428571428571429,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,fr,French,Sensory experience,49,7,0,50,106,56,0.125,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,pt,Portuguese,Sensory experience,65,4,0,64,133,69,0.057971014492753624,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,zh,Chinese,Sensory experience,9,4,0,44,57,13,0.3076923076923077,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,ja,Japanese,Sensory experience,23,0,0,80,103,23,0.0,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,de,German,Sensory experience,19,4,1,61,85,23,0.17391304347826086,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,sv,Swedish,Sensory experience,41,15,0,24,80,56,0.26785714285714285,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,fr,French,Sensory experience,37,1,0,68,106,38,0.02631578947368421,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,pt,Portuguese,Sensory experience,74,5,0,54,133,79,0.06329113924050633,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,zh,Chinese,Sensory experience,14,3,0,40,57,17,0.17647058823529413,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,ja,Japanese,Sensory experience,24,0,0,79,103,24,0.0,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,de,German,Sensory experience,21,4,0,60,85,25,0.16,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,sv,Swedish,Sensory experience,33,10,0,37,80,43,0.23255813953488372,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,fr,French,Sensory experience,31,12,0,63,106,43,0.27906976744186046,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,pt,Portuguese,Sensory experience,35,13,0,85,133,48,0.2708333333333333,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,zh,Chinese,Sensory experience,2,12,0,43,57,14,0.8571428571428571,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,ja,Japanese,Sensory experience,8,2,0,93,103,10,0.2,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,de,German,Sensory experience,24,2,0,59,85,26,0.07692307692307693,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,sv,Swedish,Sensory experience,37,4,0,39,80,41,0.0975609756097561,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,fr,French,Sensory experience,31,7,2,66,106,38,0.18421052631578946,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,pt,Portuguese,Sensory experience,37,7,0,89,133,44,0.1590909090909091,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,zh,Chinese,Sensory experience,4,5,0,48,57,9,0.5555555555555556,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,ja,Japanese,Sensory experience,12,2,0,89,103,14,0.14285714285714285,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,de,German,Sensory experience,20,3,0,62,85,23,0.13043478260869565,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,sv,Swedish,Sensory experience,51,2,0,27,80,53,0.03773584905660377,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,fr,French,Sensory experience,40,11,0,55,106,51,0.21568627450980393,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,pt,Portuguese,Sensory experience,53,14,0,66,133,67,0.208955223880597,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,zh,Chinese,Sensory experience,6,11,1,39,57,17,0.6470588235294118,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,ja,Japanese,Sensory experience,10,0,0,93,103,10,0.0,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,de,German,Sensory experience,19,4,0,62,85,23,0.17391304347826086,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,sv,Swedish,Sensory experience,60,2,0,18,80,62,0.03225806451612903,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,fr,French,Sensory experience,47,2,0,57,106,49,0.04081632653061224,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,pt,Portuguese,Sensory experience,50,5,0,78,133,55,0.09090909090909091,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,zh,Chinese,Sensory experience,17,2,0,38,57,19,0.10526315789473684,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,ja,Japanese,Sensory experience,2,0,0,101,103,2,0.0,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,de,German,Sensory experience,15,3,0,67,85,18,0.16666666666666666,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,sv,Swedish,Sensory experience,42,21,0,17,80,63,0.3333333333333333,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,fr,French,Sensory experience,34,10,0,62,106,44,0.22727272727272727,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,pt,Portuguese,Sensory experience,45,7,0,81,133,52,0.1346153846153846,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,zh,Chinese,Sensory experience,7,6,0,44,57,13,0.46153846153846156,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,ja,Japanese,Sensory experience,10,1,0,92,103,11,0.09090909090909091,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,de,German,Sensory experience,1,0,0,84,85,1,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,fr,French,Sensory experience,17,0,0,89,106,17,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,pt,Portuguese,Sensory experience,1,0,0,132,133,1,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,zh,Chinese,Sensory experience,9,7,0,41,57,16,0.4375,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,de,German,Sensory experience,17,4,0,64,85,21,0.19047619047619047,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,sv,Swedish,Sensory experience,45,8,0,27,80,53,0.1509433962264151,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,fr,French,Sensory experience,28,7,0,71,106,35,0.2,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,pt,Portuguese,Sensory experience,32,4,0,97,133,36,0.1111111111111111,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,zh,Chinese,Sensory experience,12,0,0,45,57,12,0.0,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,ja,Japanese,Sensory experience,6,0,0,97,103,6,0.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,de,German,Sensory experience,1,1,0,83,85,2,0.5,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,sv,Swedish,Sensory experience,0,4,0,76,80,4,1.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,fr,French,Sensory experience,6,0,0,100,106,6,0.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,pt,Portuguese,Sensory experience,13,1,0,119,133,14,0.07142857142857142,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,zh,Chinese,Sensory experience,5,2,0,50,57,7,0.2857142857142857,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,ja,Japanese,Sensory experience,0,1,0,102,103,1,1.0,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,de,German,Sensory experience,21,5,0,59,85,26,0.19230769230769232,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,sv,Swedish,Sensory experience,40,15,0,25,80,55,0.2727272727272727,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,fr,French,Sensory experience,34,12,1,59,106,46,0.2608695652173913,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,pt,Portuguese,Sensory experience,60,11,0,62,133,71,0.15492957746478872,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,zh,Chinese,Sensory experience,5,4,0,48,57,9,0.4444444444444444,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,ja,Japanese,Sensory experience,6,0,0,97,103,6,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,fr,French,Sensory experience,2,0,0,104,106,2,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,pt,Portuguese,Sensory experience,0,0,0,133,133,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,zh,Chinese,Sensory experience,3,6,0,48,57,9,0.6666666666666666,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,de,German,Sensory experience,17,3,0,65,85,20,0.15,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,sv,Swedish,Sensory experience,47,15,0,18,80,62,0.24193548387096775,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,fr,French,Sensory experience,35,11,0,60,106,46,0.2391304347826087,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,pt,Portuguese,Sensory experience,59,16,0,58,133,75,0.21333333333333335,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,zh,Chinese,Sensory experience,10,4,0,43,57,14,0.2857142857142857,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,ja,Japanese,Sensory experience,8,2,0,93,103,10,0.2,ok
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,fr,French,Sensory experience,0,0,0,106,106,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,pt,Portuguese,Sensory experience,0,0,0,133,133,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,zh,Chinese,Sensory experience,0,0,0,57,57,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,de,German,Sensory experience,20,4,0,61,85,24,0.16666666666666666,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,sv,Swedish,Sensory experience,41,20,0,19,80,61,0.32786885245901637,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,fr,French,Sensory experience,51,6,0,49,106,57,0.10526315789473684,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,pt,Portuguese,Sensory experience,73,19,0,41,133,92,0.20652173913043478,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,zh,Chinese,Sensory experience,10,14,0,33,57,24,0.5833333333333334,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,ja,Japanese,Sensory experience,16,3,0,84,103,19,0.15789473684210525,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,fr,French,Sensory experience,0,0,0,106,106,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,pt,Portuguese,Sensory experience,1,0,0,132,133,1,0.0,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,zh,Chinese,Sensory experience,0,0,0,57,57,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,de,German,Sensory experience,6,1,0,78,85,7,0.14285714285714285,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,sv,Swedish,Sensory experience,27,20,0,33,80,47,0.425531914893617,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,fr,French,Sensory experience,37,4,0,65,106,41,0.0975609756097561,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,pt,Portuguese,Sensory experience,29,4,0,100,133,33,0.12121212121212122,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,zh,Chinese,Sensory experience,15,5,0,37,57,20,0.25,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,ja,Japanese,Sensory experience,18,5,0,80,103,23,0.21739130434782608,ok
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,fr,French,Sensory experience,0,0,0,106,106,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,pt,Portuguese,Sensory experience,0,0,0,133,133,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,zh,Chinese,Sensory experience,0,0,0,57,57,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,de,German,Sensory experience,17,5,0,63,85,22,0.22727272727272727,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,sv,Swedish,Sensory experience,51,16,0,13,80,67,0.23880597014925373,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,fr,French,Sensory experience,37,7,0,62,106,44,0.1590909090909091,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,pt,Portuguese,Sensory experience,61,13,0,59,133,74,0.17567567567567569,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,zh,Chinese,Sensory experience,12,9,0,36,57,21,0.42857142857142855,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,ja,Japanese,Sensory experience,9,0,0,94,103,9,0.0,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,de,German,Sensory experience,22,2,0,61,85,24,0.08333333333333333,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,sv,Swedish,Sensory experience,48,16,0,16,80,64,0.25,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,fr,French,Sensory experience,38,2,0,66,106,40,0.05,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,pt,Portuguese,Sensory experience,55,10,0,68,133,65,0.15384615384615385,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,zh,Chinese,Sensory experience,15,2,0,40,57,17,0.11764705882352941,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,ja,Japanese,Sensory experience,16,0,0,87,103,16,0.0,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,de,German,Sensory experience,17,3,0,65,85,20,0.15,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,sv,Swedish,Sensory experience,50,20,0,10,80,70,0.2857142857142857,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,fr,French,Sensory experience,21,7,0,78,106,28,0.25,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,pt,Portuguese,Sensory experience,51,3,0,79,133,54,0.05555555555555555,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,zh,Chinese,Sensory experience,10,14,0,33,57,24,0.5833333333333334,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,ja,Japanese,Sensory experience,11,0,0,92,103,11,0.0,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,de,German,Sensory experience,21,1,0,63,85,22,0.045454545454545456,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,sv,Swedish,Sensory experience,50,19,0,11,80,69,0.2753623188405797,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,fr,French,Sensory experience,46,1,0,59,106,47,0.02127659574468085,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,pt,Portuguese,Sensory experience,56,5,0,72,133,61,0.08196721311475409,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,zh,Chinese,Sensory experience,10,8,0,39,57,18,0.4444444444444444,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,ja,Japanese,Sensory experience,13,0,0,90,103,13,0.0,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,de,German,Sensory experience,28,5,1,51,85,33,0.15151515151515152,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,sv,Swedish,Sensory experience,46,19,6,9,80,65,0.2923076923076923,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,fr,French,Sensory experience,71,6,4,25,106,77,0.07792207792207792,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,pt,Portuguese,Sensory experience,83,11,6,33,133,94,0.11702127659574468,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,zh,Chinese,Sensory experience,10,4,0,43,57,14,0.2857142857142857,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,ja,Japanese,Sensory experience,10,0,0,93,103,10,0.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,de,German,Sensory experience,8,3,0,74,85,11,0.2727272727272727,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,sv,Swedish,Sensory experience,8,12,0,60,80,20,0.6,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,fr,French,Sensory experience,13,11,0,82,106,24,0.4583333333333333,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,pt,Portuguese,Sensory experience,12,4,0,117,133,16,0.25,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,zh,Chinese,Sensory experience,7,8,0,42,57,15,0.5333333333333333,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,de,German,Sensory experience,15,3,0,67,85,18,0.16666666666666666,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,sv,Swedish,Sensory experience,5,1,0,74,80,6,0.16666666666666666,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,fr,French,Sensory experience,30,0,0,76,106,30,0.0,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,pt,Portuguese,Sensory experience,12,1,0,120,133,13,0.07692307692307693,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,zh,Chinese,Sensory experience,1,1,0,55,57,2,0.5,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,ja,Japanese,Sensory experience,2,1,0,100,103,3,0.3333333333333333,ok
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,fr,French,Sensory experience,0,0,0,106,106,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,pt,Portuguese,Sensory experience,0,0,0,133,133,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,zh,Chinese,Sensory experience,0,0,0,57,57,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,de,German,Sensory experience,0,0,0,85,85,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,fr,French,Sensory experience,0,0,0,106,106,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,pt,Portuguese,Sensory experience,0,0,0,133,133,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,zh,Chinese,Sensory experience,0,0,0,57,57,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,de,German,Sensory experience,6,2,0,77,85,8,0.25,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,sv,Swedish,Sensory experience,1,1,0,78,80,2,0.5,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,fr,French,Sensory experience,9,3,0,94,106,12,0.25,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,pt,Portuguese,Sensory experience,22,6,1,104,133,28,0.21428571428571427,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,zh,Chinese,Sensory experience,0,3,0,54,57,3,1.0,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,de,German,Sensory experience,9,7,0,69,85,16,0.4375,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,sv,Swedish,Sensory experience,33,4,0,43,80,37,0.10810810810810811,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,fr,French,Sensory experience,11,14,0,81,106,25,0.56,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,pt,Portuguese,Sensory experience,28,7,0,98,133,35,0.2,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,zh,Chinese,Sensory experience,4,0,0,53,57,4,0.0,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,ja,Japanese,Sensory experience,0,1,0,102,103,1,1.0,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,de,German,Sensory experience,1,2,0,82,85,3,0.6666666666666666,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,sv,Swedish,Sensory experience,9,1,0,70,80,10,0.1,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,fr,French,Sensory experience,6,2,0,98,106,8,0.25,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,pt,Portuguese,Sensory experience,14,2,0,117,133,16,0.125,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,zh,Chinese,Sensory experience,7,3,0,47,57,10,0.3,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,ja,Japanese,Sensory experience,1,0,0,102,103,1,0.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,de,German,Sensory experience,8,6,0,71,85,14,0.42857142857142855,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,sv,Swedish,Sensory experience,5,6,0,69,80,11,0.5454545454545454,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,fr,French,Sensory experience,12,7,0,87,106,19,0.3684210526315789,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,pt,Portuguese,Sensory experience,10,5,0,118,133,15,0.3333333333333333,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,zh,Chinese,Sensory experience,4,5,0,48,57,9,0.5555555555555556,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,ja,Japanese,Sensory experience,11,0,0,92,103,11,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,de,German,Sensory experience,4,3,0,78,85,7,0.42857142857142855,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,sv,Swedish,Sensory experience,0,0,0,80,80,0,,no native/transferred match (N_native + N_transferred = 0)
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,fr,French,Sensory experience,7,0,0,99,106,7,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,pt,Portuguese,Sensory experience,4,4,0,125,133,8,0.5,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,zh,Chinese,Sensory experience,3,4,0,50,57,7,0.5714285714285714,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,ja,Japanese,Sensory experience,6,0,0,97,103,6,0.0,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,de,German,Sensory experience,12,4,0,69,85,16,0.25,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,sv,Swedish,Sensory experience,5,0,0,75,80,5,0.0,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,fr,French,Sensory experience,21,2,0,83,106,23,0.08695652173913043,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,pt,Portuguese,Sensory experience,17,6,0,110,133,23,0.2608695652173913,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,zh,Chinese,Sensory experience,5,5,0,47,57,10,0.5,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,ja,Japanese,Sensory experience,12,0,0,91,103,12,0.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,de,German,Sensory experience,5,5,0,75,85,10,0.5,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,sv,Swedish,Sensory experience,0,1,0,79,80,1,1.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,fr,French,Sensory experience,1,3,0,102,106,4,0.75,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,pt,Portuguese,Sensory experience,2,0,0,131,133,2,0.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,zh,Chinese,Sensory experience,3,0,0,54,57,3,0.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,ja,Japanese,Sensory experience,0,0,0,103,103,0,,no native/transferred match (N_native + N_transferred = 0)

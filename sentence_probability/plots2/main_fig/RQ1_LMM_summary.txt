@@ -1,0 +1,40 @@
+RQ1 linear mixed-effects analyses of saved ΔSLOR (SLOR_token_logprob_diff)
+==============================================================================
+Models: the 39 statistical checkpoints (viz_data2.STAT_MODEL_SECTIONS; 28 English-centric, 11 non-English-centric incl. Manacá 1B).
+Rows: exactly the failure-rate observations (viz_data2.failure_rate_observations): standard native-vs-transferred comparisons only (no Japanese control), no-context, identical pairs excluded, side-specific preference filter (target rows: Target language preference annotation in {>, >>} for de, fr, pt, sv, zh, ja; en rows: English preference annotation in {>, >>}). Counts equal the N_total of SLOR_failure_rates.xlsx.
+Sentence-pair identity: source_row_id x comparison side; 4329 items, 0 duplicated (model, item) rows, 0 items with sentence variants across models (no ambiguity).
+Inference: R lme4 (REML, bobyqa). ec_model_language / nec_model_language (paper-primary): contrast-specific Satterthwaite t (lmerTest::contest1D) for the planned English contrast and for is_focus only; other coefficients are estimates with SEs (not tested). The tests compare MEAN ΔSLOR; neither tests equality of whole distributions, and a non-significant difference is not evidence of equality.
+
+Analysis 1 -- English-centric models
+------------------------------------------------------------------------------
+dslor ~ language (ref = en) + (1 | model) + (1 | model_language) + (1 | item); N = 121,212 observations, 28 models, 4,329 sentence pairs.
+[ec_model_language] paper-primary: + model x language random intercepts (model-specific language deviations)
+  en - mean(non-English)   +1.295 (SE 0.071; 95% CI +1.156 .. +1.435); Satterthwaite t (df = 227.28); p = < 1e-15 (planned)
+Per model (descriptive): 28 of 28 models have a positive difference; smallest: Gemma 4 12B IT +0.13, Gemma 4 E4B IT +0.50, Gemma 4 E2B IT +0.54.
+
+Analysis 2 -- non-English-centric models (English rows excluded)
+------------------------------------------------------------------------------
+Focus languages (documented training-language metadata, see RQ1_LMM_model_classification.csv): Claire 7B = fr; Lucie 7B = fr; Manacá 1B = pt; Manacá Instruct 1B = pt; Sabiá 7B = pt; Bode 13B = pt; Chinese-LLaMA-2 13B = zh; Swallow 13B = ja; LLM-jp-3 13B = ja; LLM-jp-3 172B = ja; Kolibri = de,en
+  ambiguity: Claire 7B: adaptation on French dialogue (LoRA), not full pretraining
+  ambiguity: Bode 13B: Portuguese instruction fine-tuning only, no Portuguese pretraining
+  ambiguity: LLM-jp-3 172B: focus from CLAUDE.md; 172B-specific training shares not recorded in this project
+Identifiability: design [1, language (ref de), is_focus] rank 7/7; 11 focus cells of 66 model x language cells; focus and non-focus models both present for de,fr,ja,pt,zh; is_focus varies within every model -> identifiable.
+dslor ~ is_focus + language (ref = de) + (1 | model) + (1 | model_language) + (1 | item); N = 29,359 observations, 11 models, 2,669 sentence pairs.
+  [nec_model_language] is_focus +0.406 (SE 0.054); 95% CI +0.298 .. +0.513; p = 3e-10 (Satterthwaite t (df = 59.09)); N = 29,359, models = 11
+Per model (focus - mean of other non-English languages, raw | language-adjusted):
+  Manacá 1B              pt: raw +0.073 | adjusted +0.390
+  Manacá Instruct 1B     pt: raw +0.047 | adjusted +0.361
+  Kolibri                de: raw +0.563 | adjusted +0.679
+  Claire 7B              fr: raw +0.673 | adjusted +0.233
+  Lucie 7B               fr: raw +0.660 | adjusted +0.219
+  Chinese-LLaMA-2 13B    zh: raw +0.462 | adjusted +0.480
+  LLM-jp-3 13B           ja: raw +0.435 | adjusted +0.584
+  LLM-jp-3 172B          ja: raw +0.445 | adjusted +0.595
+  Sabiá 7B               pt: raw -0.066 | adjusted +0.236
+  Bode 13B               pt: raw -0.324 | adjusted -0.047
+  Swallow 13B            ja: raw +0.495 | adjusted +0.649
+
+Diagnostics
+------------------------------------------------------------------------------
+  ec_model_language: status ok, converged True, singular FALSE; item 0.838, model_language 0.099, model 0.038, Residual 1.105
+  nec_model_language: status ok, converged True, singular TRUE; item 0.320, model_language 0.023, model 0.000, Residual 0.357

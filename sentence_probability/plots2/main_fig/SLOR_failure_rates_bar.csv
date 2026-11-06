@@ -1,0 +1,253 @@
+order,section,paper_family,model_id,model_name,label,registered,language,status,failure_rate,failure_rate_percent,N_failure,N_total
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,de,ok,0.3546099290780142,35.46099290780142,150.0,423.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,sv,ok,0.4431818181818182,44.31818181818182,195.0,440.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,fr,ok,0.2198852772466539,21.988527724665392,115.0,523.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,pt,ok,0.5964125560538116,59.64125560538116,266.0,446.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,zh,ok,0.3176100628930817,31.76100628930817,101.0,318.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,ja,ok,0.5260115606936416,52.601156069364166,273.0,519.0
+0,Tiny Aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,True,en,ok,0.06626506024096386,6.626506024096386,110.0,1660.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,de,ok,0.4869976359338061,48.69976359338061,206.0,423.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,sv,ok,0.4613636363636364,46.13636363636364,203.0,440.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,fr,ok,0.2179732313575526,21.79732313575526,114.0,523.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,pt,ok,0.6659192825112108,66.59192825112108,297.0,446.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,zh,ok,0.4119496855345912,41.19496855345912,131.0,318.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,ja,ok,0.4971098265895953,49.71098265895953,258.0,519.0
+1,Tiny Aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,True,en,ok,0.1018072289156627,10.180722891566269,169.0,1660.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,de,ok,0.5106382978723404,51.06382978723404,216.0,423.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,sv,ok,0.65,65.0,286.0,440.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,fr,ok,0.248565965583174,24.8565965583174,130.0,523.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,pt,ok,0.6188340807174888,61.88340807174888,276.0,446.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,zh,ok,0.3616352201257861,36.16352201257861,115.0,318.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,ja,ok,0.5086705202312138,50.86705202312138,264.0,519.0
+2,Aya Expanse,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,True,en,ok,0.0608433734939759,6.0843373493975905,101.0,1660.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,de,ok,0.4137115839243499,41.37115839243499,175.0,423.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,sv,ok,0.5386363636363637,53.86363636363637,237.0,440.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,fr,ok,0.2237093690248566,22.37093690248566,117.0,523.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,pt,ok,0.5964125560538116,59.64125560538116,266.0,446.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,zh,ok,0.3616352201257861,36.16352201257861,115.0,318.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,ja,ok,0.4816955684007707,48.16955684007707,250.0,519.0
+3,Aya Expanse,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,True,en,ok,0.05903614457831325,5.903614457831325,98.0,1660.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,de,ok,0.4539007092198581,45.39007092198581,192.0,423.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,sv,ok,0.4386363636363637,43.863636363636374,193.0,440.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,fr,ok,0.2447418738049713,24.47418738049713,128.0,523.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,pt,ok,0.6547085201793722,65.47085201793722,292.0,446.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,zh,ok,0.389937106918239,38.9937106918239,124.0,318.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,ja,ok,0.5452793834296724,54.52793834296724,283.0,519.0
+4,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,True,en,ok,0.08433734939759036,8.433734939759036,140.0,1660.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,de,ok,0.4728132387706856,47.28132387706856,200.0,423.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,sv,ok,0.4363636363636363,43.636363636363626,192.0,440.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,fr,ok,0.254302103250478,25.430210325047796,133.0,523.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,pt,ok,0.647982062780269,64.79820627802691,289.0,446.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,zh,ok,0.3679245283018868,36.79245283018868,117.0,318.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,ja,ok,0.5240847784200385,52.408477842003855,272.0,519.0
+5,EuroLLM,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,True,en,ok,0.07409638554216867,7.409638554216867,123.0,1660.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,de,ok,0.4349881796690308,43.49881796690308,184.0,423.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,sv,ok,0.4340909090909091,43.40909090909091,191.0,440.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,fr,ok,0.248565965583174,24.8565965583174,130.0,523.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,pt,ok,0.6300448430493274,63.00448430493274,281.0,446.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,zh,ok,0.4685534591194969,46.85534591194969,149.0,318.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,ja,ok,0.5144508670520231,51.445086705202314,267.0,519.0
+6,EuroLLM,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,True,en,ok,0.05963855421686747,5.963855421686747,99.0,1660.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,de,ok,0.4231678486997636,42.31678486997636,179.0,423.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,sv,ok,0.4568181818181818,45.68181818181818,201.0,440.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,fr,ok,0.2351816443594646,23.51816443594646,123.0,523.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,pt,ok,0.6322869955156951,63.22869955156951,282.0,446.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,zh,ok,0.4654088050314465,46.54088050314465,148.0,318.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,ja,ok,0.5337186897880539,53.371868978805395,277.0,519.0
+7,EuroLLM,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,True,en,ok,0.05662650602409638,5.662650602409638,94.0,1660.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,de,ok,0.458628841607565,45.8628841607565,194.0,423.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,sv,ok,0.4386363636363637,43.863636363636374,193.0,440.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,fr,ok,0.2179732313575526,21.79732313575526,114.0,523.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,pt,ok,0.5964125560538116,59.64125560538116,266.0,446.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,zh,ok,0.3962264150943396,39.62264150943396,126.0,318.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,ja,ok,0.5105973025048169,51.05973025048169,265.0,519.0
+8,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,True,en,ok,0.06385542168674699,6.385542168674699,106.0,1660.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,de,ok,0.4208037825059102,42.080378250591025,178.0,423.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,sv,ok,0.4431818181818182,44.31818181818182,195.0,440.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,fr,ok,0.2217973231357553,22.179732313575528,116.0,523.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,pt,ok,0.6076233183856502,60.76233183856502,271.0,446.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,zh,ok,0.3742138364779874,37.42138364779874,119.0,318.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,ja,ok,0.5221579961464354,52.215799614643544,271.0,519.0
+9,EuroLLM,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,True,en,ok,0.0783132530120482,7.83132530120482,130.0,1660.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,de,ok,0.3782505910165485,37.82505910165485,160.0,423.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,sv,ok,0.5068181818181818,50.68181818181819,223.0,440.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,fr,ok,0.2332695984703633,23.32695984703633,122.0,523.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,pt,ok,0.6322869955156951,63.22869955156951,282.0,446.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,zh,ok,0.3113207547169811,31.132075471698112,99.0,318.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,ja,ok,0.4624277456647399,46.24277456647399,240.0,519.0
+10,Gemma 4,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,True,en,ok,0.0572289156626506,5.72289156626506,95.0,1660.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,de,ok,0.4822695035460993,48.22695035460993,204.0,423.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,sv,ok,0.4727272727272727,47.27272727272727,208.0,440.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,fr,ok,0.3594646271510517,35.94646271510517,188.0,523.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,pt,ok,0.5717488789237668,57.17488789237668,255.0,446.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,zh,ok,0.6163522012578616,61.63522012578616,196.0,318.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,ja,ok,0.7938342967244701,79.38342967244701,412.0,519.0
+11,Gemma 4,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,True,en,ok,0.4536144578313253,45.36144578313253,753.0,1660.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,de,ok,0.4113475177304964,41.134751773049636,174.0,423.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,sv,ok,0.4772727272727273,47.72727272727273,210.0,440.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,fr,ok,0.1988527724665392,19.88527724665392,104.0,523.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,pt,ok,0.594170403587444,59.4170403587444,265.0,446.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,zh,ok,0.3710691823899371,37.10691823899371,118.0,318.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,ja,ok,0.4585741811175337,45.85741811175337,238.0,519.0
+12,Gemma 4,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,True,en,ok,0.0536144578313253,5.36144578313253,89.0,1660.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,de,ok,0.524822695035461,52.4822695035461,222.0,423.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,sv,ok,0.4818181818181818,48.18181818181818,212.0,440.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,fr,ok,0.2848948374760994,28.48948374760994,149.0,523.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,pt,ok,0.6681614349775785,66.81614349775785,298.0,446.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,zh,ok,0.6698113207547169,66.98113207547169,213.0,318.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,ja,ok,0.7572254335260116,75.72254335260115,393.0,519.0
+13,Gemma 4,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,True,en,ok,0.5066265060240964,50.66265060240964,841.0,1660.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,de,ok,0.4042553191489361,40.42553191489361,171.0,423.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,sv,ok,0.3863636363636364,38.63636363636364,170.0,440.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,fr,ok,0.2562141491395794,25.621414913957942,134.0,523.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,pt,ok,0.57847533632287,57.847533632286996,258.0,446.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,zh,ok,0.330188679245283,33.0188679245283,105.0,318.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,ja,ok,0.4315992292870905,43.15992292870905,224.0,519.0
+14,Gemma 4,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,True,en,ok,0.06204819277108434,6.204819277108434,103.0,1660.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,de,ok,0.4846335697399527,48.46335697399527,205.0,423.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,sv,ok,0.6136363636363636,61.36363636363637,270.0,440.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,fr,ok,0.6883365200764818,68.83365200764818,360.0,523.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,pt,ok,0.5,50.0,223.0,446.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,zh,ok,0.4276729559748428,42.76729559748428,136.0,318.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,ja,ok,0.6435452793834296,64.35452793834297,334.0,519.0
+15,Gemma 4,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,True,en,ok,0.5277108433734939,52.77108433734939,876.0,1660.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,de,ok,0.3286052009456265,32.86052009456265,139.0,423.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,sv,ok,0.4295454545454546,42.95454545454546,189.0,440.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,fr,ok,0.1816443594646271,18.16443594646271,95.0,523.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,pt,ok,0.5829596412556054,58.29596412556054,260.0,446.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,zh,ok,0.330188679245283,33.0188679245283,105.0,318.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,ja,ok,0.4720616570327553,47.20616570327553,245.0,519.0
+16,Gemma 4,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,True,en,ok,0.0572289156626506,5.72289156626506,95.0,1660.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,de,ok,0.5342789598108747,53.42789598108747,226.0,423.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,sv,ok,0.4727272727272727,47.27272727272727,208.0,440.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,fr,ok,0.2619502868068834,26.195028680688342,137.0,523.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,pt,ok,0.5,50.0,223.0,446.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,zh,ok,0.6069182389937107,60.691823899371066,193.0,318.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,ja,ok,0.5549132947976878,55.49132947976878,288.0,519.0
+17,Gemma 4,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,True,en,ok,0.3650602409638554,36.506024096385545,606.0,1660.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,de,ok,0.3782505910165485,37.82505910165485,160.0,423.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,sv,ok,0.4295454545454546,42.95454545454546,189.0,440.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,fr,ok,0.1873804971319312,18.73804971319312,98.0,523.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,pt,ok,0.5739910313901345,57.399103139013455,256.0,446.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,zh,ok,0.3647798742138365,36.47798742138365,116.0,318.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,ja,ok,0.4585741811175337,45.85741811175337,238.0,519.0
+18,Gemma 4,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,True,en,ok,0.05060240963855422,5.0602409638554215,84.0,1660.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,de,ok,0.541371158392435,54.1371158392435,229.0,423.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,sv,ok,0.4727272727272727,47.27272727272727,208.0,440.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,fr,ok,0.3154875717017208,31.54875717017208,165.0,523.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,pt,ok,0.6345291479820628,63.45291479820629,283.0,446.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,zh,ok,0.4213836477987422,42.13836477987422,134.0,318.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,ja,ok,0.653179190751445,65.3179190751445,339.0,519.0
+19,Gemma 4,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,True,en,ok,0.2933734939759036,29.337349397590362,487.0,1660.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,de,ok,0.3877068557919622,38.77068557919622,164.0,423.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,sv,ok,0.4727272727272727,47.27272727272727,208.0,440.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,fr,ok,0.1548757170172084,15.48757170172084,81.0,523.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,pt,ok,0.5896860986547086,58.96860986547085,263.0,446.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,zh,ok,0.5125786163522013,51.257861635220124,163.0,318.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,ja,ok,0.5163776493256262,51.637764932562625,268.0,519.0
+20,Apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,True,en,ok,0.09457831325301205,9.457831325301205,157.0,1660.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,de,ok,0.3404255319148936,34.04255319148936,144.0,423.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,sv,ok,0.4227272727272727,42.272727272727266,186.0,440.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,fr,ok,0.1606118546845124,16.06118546845124,84.0,523.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,pt,ok,0.6098654708520179,60.98654708520179,272.0,446.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,zh,ok,0.449685534591195,44.9685534591195,143.0,318.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,ja,ok,0.4990366088631984,49.90366088631984,259.0,519.0
+21,Apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,True,en,ok,0.07530120481927711,7.530120481927711,125.0,1660.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,de,ok,0.4137115839243499,41.37115839243499,175.0,423.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,sv,ok,0.5386363636363637,53.86363636363637,237.0,440.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,fr,ok,0.1663479923518164,16.634799235181642,87.0,523.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,pt,ok,0.6771300448430493,67.71300448430493,302.0,446.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,zh,ok,0.5345911949685535,53.459119496855344,170.0,318.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,ja,ok,0.5953757225433526,59.53757225433526,309.0,519.0
+22,Apertus IT,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,True,en,ok,0.1114457831325301,11.14457831325301,185.0,1660.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,de,ok,0.3309692671394799,33.09692671394799,140.0,423.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,sv,ok,0.4318181818181818,43.18181818181818,190.0,440.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,fr,ok,0.2275334608030593,22.75334608030593,119.0,523.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,pt,ok,0.625560538116592,62.5560538116592,279.0,446.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,zh,ok,0.4654088050314465,46.54088050314465,148.0,318.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,ja,ok,0.5202312138728323,52.02312138728323,270.0,519.0
+23,Apertus IT,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,True,en,ok,0.06807228915662651,6.807228915662651,113.0,1660.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,de,ok,0.524822695035461,52.4822695035461,222.0,423.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,sv,ok,0.5340909090909091,53.40909090909091,235.0,440.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,fr,ok,0.1988527724665392,19.88527724665392,104.0,523.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,pt,ok,0.6569506726457399,65.69506726457399,293.0,446.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,zh,ok,0.4528301886792453,45.28301886792453,144.0,318.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,ja,ok,0.4527938342967245,45.27938342967245,235.0,519.0
+24,GPT-OSS,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,True,en,ok,0.08795180722891566,8.795180722891565,146.0,1660.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,de,ok,0.6217494089834515,62.174940898345156,263.0,423.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,sv,ok,0.5863636363636363,58.63636363636363,258.0,440.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,fr,ok,0.2256214149139579,22.56214149139579,118.0,523.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,pt,ok,0.7152466367713004,71.52466367713004,319.0,446.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,zh,ok,0.4811320754716981,48.113207547169814,153.0,318.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,ja,ok,0.6936416184971098,69.36416184971098,360.0,519.0
+25,Other non-English-centric models,Claire,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,False,en,ok,0.06867469879518072,6.8674698795180715,114.0,1660.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,de,ok,0.3735224586288416,37.35224586288416,158.0,423.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,sv,ok,0.5590909090909091,55.90909090909091,246.0,440.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,fr,ok,0.2829827915869981,28.298279158699806,148.0,523.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,pt,ok,0.695067264573991,69.50672645739911,310.0,446.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,zh,ok,0.6226415094339622,62.264150943396224,198.0,318.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,ja,ok,0.6628131021194605,66.28131021194605,344.0,519.0
+26,Other non-English-centric models,Lucie,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,False,en,ok,0.05481927710843373,5.481927710843372,91.0,1660.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,de,ok,0.541371158392435,54.1371158392435,229.0,423.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,sv,ok,0.5545454545454546,55.45454545454545,244.0,440.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,fr,ok,0.384321223709369,38.4321223709369,201.0,523.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,pt,ok,0.5201793721973094,52.01793721973094,232.0,446.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,zh,ok,0.7389937106918238,73.89937106918238,235.0,318.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,ja,ok,0.6011560693641619,60.115606936416185,312.0,519.0
+27,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,False,en,ok,0.1813253012048193,18.13253012048193,301.0,1660.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,de,ok,0.4988179669030733,49.881796690307326,211.0,423.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,sv,ok,0.5522727272727272,55.22727272727273,243.0,440.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,fr,ok,0.4149139579349904,41.491395793499045,217.0,523.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,pt,ok,0.5381165919282511,53.81165919282511,240.0,446.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,zh,ok,0.6509433962264151,65.09433962264151,207.0,318.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,ja,ok,0.5780346820809249,57.80346820809249,300.0,519.0
+28,Other non-English-centric models,Manacá,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,True,en,ok,0.1740963855421687,17.40963855421687,289.0,1660.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,de,ok,0.5555555555555556,55.55555555555556,235.0,423.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,sv,ok,0.5045454545454545,50.45454545454545,222.0,440.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,fr,ok,0.2810707456978968,28.10707456978968,147.0,523.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,pt,ok,0.5852017937219731,58.52017937219731,261.0,446.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,zh,ok,0.6572327044025157,65.72327044025157,209.0,318.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,ja,ok,0.7225433526011561,72.25433526011561,375.0,519.0
+29,Other non-English-centric models,Sabiá,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,False,en,ok,0.1024096385542169,10.24096385542169,170.0,1660.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,de,ok,0.5673758865248227,56.73758865248227,240.0,423.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,sv,ok,0.5409090909090909,54.090909090909086,238.0,440.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,fr,ok,0.27151051625239,27.151051625239,142.0,523.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,pt,ok,0.7017937219730942,70.17937219730942,313.0,446.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,zh,ok,0.6194968553459119,61.94968553459119,197.0,318.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,ja,ok,0.6473988439306358,64.73988439306359,336.0,519.0
+30,Other non-English-centric models,Bode,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,False,en,ok,0.105421686746988,10.5421686746988,175.0,1660.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,de,ok,0.6288416075650118,62.88416075650118,266.0,423.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,sv,ok,0.5409090909090909,54.090909090909086,238.0,440.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,fr,ok,0.24282982791587,24.282982791587,127.0,523.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,pt,ok,0.6995515695067265,69.95515695067265,312.0,446.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,zh,ok,0.4119496855345912,41.19496855345912,131.0,318.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,ja,ok,0.6358381502890174,63.58381502890174,330.0,519.0
+31,Other non-English-centric models,Chinese-LLaMA-2,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,False,en,ok,0.04397590361445783,4.397590361445783,73.0,1660.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,de,ok,0.6619385342789598,66.19385342789597,280.0,423.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,sv,ok,0.5068181818181818,50.68181818181819,223.0,440.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,fr,ok,0.2887189292543021,28.87189292543021,151.0,523.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,pt,ok,0.726457399103139,72.6457399103139,324.0,446.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,zh,ok,0.5440251572327044,54.40251572327044,173.0,318.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,ja,ok,0.3776493256262042,37.764932562620416,196.0,519.0
+32,Other non-English-centric models,Swallow,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,False,en,ok,0.06204819277108434,6.204819277108434,103.0,1660.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,de,ok,0.6784869976359338,67.84869976359337,287.0,423.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,sv,ok,0.5318181818181819,53.18181818181819,234.0,440.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,fr,ok,0.4130019120458891,41.30019120458891,216.0,523.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,pt,ok,0.672645739910314,67.2645739910314,300.0,446.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,zh,ok,0.4811320754716981,48.113207547169814,153.0,318.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,ja,ok,0.443159922928709,44.315992292870895,230.0,519.0
+33,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,False,en,ok,0.06927710843373494,6.927710843373494,115.0,1660.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,de,ok,0.6453900709219859,64.53900709219859,273.0,423.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,sv,ok,0.4954545454545455,49.54545454545455,218.0,440.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,fr,ok,0.3479923518164436,34.79923518164436,182.0,523.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,pt,ok,0.6591928251121076,65.91928251121077,294.0,446.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,zh,ok,0.4182389937106918,41.82389937106918,133.0,318.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,ja,ok,0.4104046242774567,41.04046242774567,213.0,519.0
+34,Other non-English-centric models,LLM-jp-3,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,True,en,ok,0.05963855421686747,5.963855421686747,99.0,1660.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,de,ok,0.392434988179669,39.2434988179669,166.0,423.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,sv,ok,0.6363636363636364,63.63636363636363,280.0,440.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,fr,ok,0.2982791586998088,29.82791586998088,156.0,523.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,pt,ok,0.6390134529147982,63.901345291479814,285.0,446.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,zh,ok,0.5220125786163522,52.20125786163522,166.0,318.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,ja,ok,0.7398843930635838,73.98843930635837,384.0,519.0
+35,Other non-English-centric models,Kolibri,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,True,en,ok,0.2475903614457831,24.75903614457831,411.0,1660.0

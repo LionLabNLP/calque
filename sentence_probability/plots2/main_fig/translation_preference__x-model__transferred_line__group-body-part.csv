@@ -1,0 +1,217 @@
+order,section,model_id,model_name,label,language,language_name,group,N_native,N_transferred,N_both,N_neither,N_total,denominator,probability,status
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,de,German,Body part,16,40,0,144,200,56,0.7142857142857143,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,sv,Swedish,Body part,33,57,0,108,198,90,0.6333333333333333,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,fr,French,Body part,29,52,0,114,195,81,0.6419753086419753,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,pt,Portuguese,Body part,7,15,0,137,159,22,0.6818181818181818,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,zh,Chinese,Body part,13,0,0,78,91,13,0.0,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,ja,Japanese,Body part,36,0,0,158,194,36,0.0,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,de,German,Body part,11,34,0,155,200,45,0.7555555555555555,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,sv,Swedish,Body part,31,37,1,129,198,68,0.5441176470588235,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,fr,French,Body part,17,54,0,124,195,71,0.7605633802816901,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,pt,Portuguese,Body part,4,15,0,140,159,19,0.7894736842105263,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,zh,Chinese,Body part,5,0,0,86,91,5,0.0,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,ja,Japanese,Body part,24,0,0,170,194,24,0.0,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,de,German,Body part,60,6,0,134,200,66,0.09090909090909091,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,sv,Swedish,Body part,3,6,0,189,198,9,0.6666666666666666,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,fr,French,Body part,42,51,1,101,195,93,0.5483870967741935,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,pt,Portuguese,Body part,8,9,0,142,159,17,0.5294117647058824,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,zh,Chinese,Body part,24,1,0,66,91,25,0.04,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,ja,Japanese,Body part,34,0,0,160,194,34,0.0,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,de,German,Body part,65,5,5,125,200,70,0.07142857142857142,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,sv,Swedish,Body part,16,30,0,152,198,46,0.6521739130434783,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,fr,French,Body part,105,17,1,72,195,122,0.13934426229508196,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,pt,Portuguese,Body part,21,16,0,122,159,37,0.43243243243243246,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,zh,Chinese,Body part,23,2,0,66,91,25,0.08,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,ja,Japanese,Body part,43,0,0,151,194,43,0.0,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,de,German,Body part,11,44,0,145,200,55,0.8,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,sv,Swedish,Body part,53,14,0,131,198,67,0.208955223880597,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,fr,French,Body part,37,49,0,109,195,86,0.5697674418604651,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,pt,Portuguese,Body part,10,6,0,143,159,16,0.375,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,zh,Chinese,Body part,14,4,0,73,91,18,0.2222222222222222,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,ja,Japanese,Body part,29,0,0,165,194,29,0.0,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,de,German,Body part,8,40,0,152,200,48,0.8333333333333334,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,sv,Swedish,Body part,57,10,0,131,198,67,0.14925373134328357,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,fr,French,Body part,30,46,0,119,195,76,0.6052631578947368,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,pt,Portuguese,Body part,8,1,0,150,159,9,0.1111111111111111,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,zh,Chinese,Body part,12,3,0,76,91,15,0.2,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,ja,Japanese,Body part,23,0,0,171,194,23,0.0,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,de,German,Body part,53,23,0,124,200,76,0.3026315789473684,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,sv,Swedish,Body part,52,49,0,97,198,101,0.48514851485148514,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,fr,French,Body part,70,20,0,105,195,90,0.2222222222222222,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,pt,Portuguese,Body part,12,5,0,142,159,17,0.29411764705882354,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,zh,Chinese,Body part,32,0,0,59,91,32,0.0,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,ja,Japanese,Body part,19,0,0,175,194,19,0.0,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,de,German,Body part,60,13,0,127,200,73,0.1780821917808219,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,sv,Swedish,Body part,70,35,1,92,198,105,0.3333333333333333,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,fr,French,Body part,80,13,0,102,195,93,0.13978494623655913,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,pt,Portuguese,Body part,20,8,3,128,159,28,0.2857142857142857,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,zh,Chinese,Body part,27,0,0,64,91,27,0.0,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,ja,Japanese,Body part,15,0,0,179,194,15,0.0,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,de,German,Body part,55,25,0,120,200,80,0.3125,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,sv,Swedish,Body part,38,63,0,97,198,101,0.6237623762376238,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,fr,French,Body part,64,58,0,73,195,122,0.47540983606557374,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,pt,Portuguese,Body part,10,5,0,144,159,15,0.3333333333333333,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,zh,Chinese,Body part,13,9,0,69,91,22,0.4090909090909091,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,ja,Japanese,Body part,17,0,0,177,194,17,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,fr,French,Body part,3,0,0,192,195,3,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,pt,Portuguese,Body part,2,0,0,157,159,2,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,zh,Chinese,Body part,16,0,0,75,91,16,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,ja,Japanese,Body part,1,0,0,193,194,1,0.0,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,de,German,Body part,42,15,0,143,200,57,0.2631578947368421,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,sv,Swedish,Body part,68,7,0,123,198,75,0.09333333333333334,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,fr,French,Body part,33,53,0,109,195,86,0.6162790697674418,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,pt,Portuguese,Body part,15,3,0,141,159,18,0.16666666666666666,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,zh,Chinese,Body part,14,0,0,77,91,14,0.0,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,ja,Japanese,Body part,39,0,0,155,194,39,0.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,de,German,Body part,0,7,0,193,200,7,1.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,sv,Swedish,Body part,1,2,0,195,198,3,0.6666666666666666,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,fr,French,Body part,1,11,0,183,195,12,0.9166666666666666,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,pt,Portuguese,Body part,5,2,0,152,159,7,0.2857142857142857,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,zh,Chinese,Body part,9,1,0,81,91,10,0.1,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,ja,Japanese,Body part,2,0,0,192,194,2,0.0,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,de,German,Body part,34,41,0,125,200,75,0.5466666666666666,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,sv,Swedish,Body part,35,62,0,101,198,97,0.6391752577319587,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,fr,French,Body part,53,62,1,79,195,115,0.5391304347826087,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,pt,Portuguese,Body part,10,21,0,128,159,31,0.6774193548387096,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,zh,Chinese,Body part,19,0,0,72,91,19,0.0,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,ja,Japanese,Body part,1,0,0,193,194,1,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,fr,French,Body part,1,3,0,191,195,4,0.75,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,zh,Chinese,Body part,9,3,0,79,91,12,0.25,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,de,German,Body part,45,36,0,119,200,81,0.4444444444444444,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,sv,Swedish,Body part,55,64,0,79,198,119,0.5378151260504201,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,fr,French,Body part,47,76,0,72,195,123,0.6178861788617886,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,pt,Portuguese,Body part,21,22,0,116,159,43,0.5116279069767442,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,zh,Chinese,Body part,14,3,0,74,91,17,0.17647058823529413,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,ja,Japanese,Body part,19,0,0,175,194,19,0.0,ok
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,fr,French,Body part,0,0,0,195,195,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,de,German,Body part,29,60,0,111,200,89,0.6741573033707865,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,sv,Swedish,Body part,53,51,0,94,198,104,0.49038461538461536,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,fr,French,Body part,84,38,0,73,195,122,0.3114754098360656,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,pt,Portuguese,Body part,21,23,0,115,159,44,0.5227272727272727,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,zh,Chinese,Body part,19,4,0,68,91,23,0.17391304347826086,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,ja,Japanese,Body part,45,0,0,149,194,45,0.0,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,fr,French,Body part,0,0,0,195,195,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,de,German,Body part,52,23,0,125,200,75,0.30666666666666664,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,sv,Swedish,Body part,61,66,1,70,198,127,0.5196850393700787,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,fr,French,Body part,87,20,0,88,195,107,0.18691588785046728,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,pt,Portuguese,Body part,7,30,1,121,159,37,0.8108108108108109,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,zh,Chinese,Body part,31,1,0,59,91,32,0.03125,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,ja,Japanese,Body part,41,0,0,153,194,41,0.0,ok
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,fr,French,Body part,0,0,0,195,195,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,de,German,Body part,35,25,0,140,200,60,0.4166666666666667,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,sv,Swedish,Body part,42,70,0,86,198,112,0.625,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,fr,French,Body part,72,40,0,83,195,112,0.35714285714285715,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,pt,Portuguese,Body part,8,25,0,126,159,33,0.7575757575757576,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,zh,Chinese,Body part,12,2,0,77,91,14,0.14285714285714285,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,ja,Japanese,Body part,33,0,0,161,194,33,0.0,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,de,German,Body part,61,26,0,113,200,87,0.2988505747126437,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,sv,Swedish,Body part,47,82,1,68,198,129,0.6356589147286822,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,fr,French,Body part,80,31,0,84,195,111,0.27927927927927926,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,pt,Portuguese,Body part,12,39,0,108,159,51,0.7647058823529411,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,zh,Chinese,Body part,22,1,0,68,91,23,0.043478260869565216,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,ja,Japanese,Body part,22,0,0,172,194,22,0.0,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,de,German,Body part,51,22,0,127,200,73,0.3013698630136986,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,sv,Swedish,Body part,43,76,1,78,198,119,0.6386554621848739,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,fr,French,Body part,57,49,0,89,195,106,0.46226415094339623,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,pt,Portuguese,Body part,18,23,0,118,159,41,0.5609756097560976,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,zh,Chinese,Body part,14,0,0,77,91,14,0.0,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,ja,Japanese,Body part,27,0,0,167,194,27,0.0,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,de,German,Body part,57,34,2,107,200,91,0.37362637362637363,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,sv,Swedish,Body part,39,89,1,69,198,128,0.6953125,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,fr,French,Body part,57,66,1,71,195,123,0.5365853658536586,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,pt,Portuguese,Body part,11,33,0,115,159,44,0.75,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,zh,Chinese,Body part,18,3,1,69,91,21,0.14285714285714285,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,ja,Japanese,Body part,22,0,0,172,194,22,0.0,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,de,German,Body part,69,17,34,80,200,86,0.19767441860465115,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,sv,Swedish,Body part,34,64,43,57,198,98,0.6530612244897959,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,fr,French,Body part,93,15,25,62,195,108,0.1388888888888889,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,pt,Portuguese,Body part,25,28,11,95,159,53,0.5283018867924528,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,zh,Chinese,Body part,23,0,0,68,91,23,0.0,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,ja,Japanese,Body part,23,0,0,171,194,23,0.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,de,German,Body part,5,13,0,182,200,18,0.7222222222222222,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,sv,Swedish,Body part,0,43,0,155,198,43,1.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,fr,French,Body part,21,39,0,135,195,60,0.65,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,pt,Portuguese,Body part,1,1,0,157,159,2,0.5,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,zh,Chinese,Body part,13,5,0,73,91,18,0.2777777777777778,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,ja,Japanese,Body part,10,0,0,184,194,10,0.0,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,de,German,Body part,61,5,0,134,200,66,0.07575757575757576,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,sv,Swedish,Body part,1,1,0,196,198,2,0.5,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,fr,French,Body part,64,13,0,118,195,77,0.16883116883116883,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,pt,Portuguese,Body part,3,0,0,156,159,3,0.0,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,ja,Japanese,Body part,3,0,0,191,194,3,0.0,ok
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,fr,French,Body part,0,0,0,195,195,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,de,German,Body part,0,0,0,200,200,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,fr,French,Body part,0,0,0,195,195,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,de,German,Body part,0,4,0,196,200,4,1.0,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,sv,Swedish,Body part,3,9,0,186,198,12,0.75,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,fr,French,Body part,8,30,0,157,195,38,0.7894736842105263,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,pt,Portuguese,Body part,9,24,0,126,159,33,0.7272727272727273,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,ja,Japanese,Body part,1,0,0,193,194,1,0.0,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,de,German,Body part,8,20,0,172,200,28,0.7142857142857143,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,sv,Swedish,Body part,15,49,0,134,198,64,0.765625,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,fr,French,Body part,14,73,0,108,195,87,0.8390804597701149,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,pt,Portuguese,Body part,5,9,0,145,159,14,0.6428571428571429,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,zh,Chinese,Body part,11,4,0,76,91,15,0.26666666666666666,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,ja,Japanese,Body part,21,0,0,173,194,21,0.0,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,de,German,Body part,2,8,0,190,200,10,0.8,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,sv,Swedish,Body part,1,1,0,196,198,2,0.5,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,fr,French,Body part,2,12,0,181,195,14,0.8571428571428571,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,pt,Portuguese,Body part,1,0,0,158,159,1,0.0,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,zh,Chinese,Body part,5,3,0,83,91,8,0.375,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,ja,Japanese,Body part,6,0,0,188,194,6,0.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,de,German,Body part,3,5,0,192,200,8,0.625,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,sv,Swedish,Body part,1,5,0,192,198,6,0.8333333333333334,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,fr,French,Body part,13,29,0,153,195,42,0.6904761904761905,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,pt,Portuguese,Body part,3,1,0,155,159,4,0.25,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,zh,Chinese,Body part,10,0,0,81,91,10,0.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,ja,Japanese,Body part,39,0,0,155,194,39,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,de,German,Body part,2,1,0,197,200,3,0.3333333333333333,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,sv,Swedish,Body part,0,1,0,197,198,1,1.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,fr,French,Body part,3,13,0,179,195,16,0.8125,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,pt,Portuguese,Body part,0,1,0,158,159,1,1.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,zh,Chinese,Body part,11,0,0,80,91,11,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,ja,Japanese,Body part,37,0,0,157,194,37,0.0,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,de,German,Body part,2,21,0,177,200,23,0.9130434782608695,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,sv,Swedish,Body part,0,1,0,197,198,1,1.0,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,fr,French,Body part,9,32,0,154,195,41,0.7804878048780488,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,pt,Portuguese,Body part,3,6,1,149,159,9,0.6666666666666666,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,zh,Chinese,Body part,16,2,0,73,91,18,0.1111111111111111,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,ja,Japanese,Body part,21,0,0,173,194,21,0.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,de,German,Body part,1,11,0,188,200,12,0.9166666666666666,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,sv,Swedish,Body part,0,0,0,198,198,0,,no native/transferred match (N_native + N_transferred = 0)
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,fr,French,Body part,1,12,0,182,195,13,0.9230769230769231,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,pt,Portuguese,Body part,0,0,0,159,159,0,,no native/transferred match (N_native + N_transferred = 0)
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,zh,Chinese,Body part,0,0,0,91,91,0,,no native/transferred match (N_native + N_transferred = 0)
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,ja,Japanese,Body part,0,0,0,194,194,0,,no native/transferred match (N_native + N_transferred = 0)

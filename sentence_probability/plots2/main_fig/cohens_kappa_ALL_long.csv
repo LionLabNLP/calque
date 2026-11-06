@@ -1,0 +1,742 @@
+model_a,model_b,label_a,label_b,cohens_kappa,n_shared_non_tied_pairs,sign_agreement,n_shared_pairs_spearman,status
+CohereLabs_tiny-aya-base,CohereLabs_tiny-aya-global,Tiny Aya Base,Tiny Aya Global,0.6182702949909518,2669,0.8122892469089547,2669,ok
+CohereLabs_tiny-aya-base,CohereLabs_tiny-aya-earth,Tiny Aya Base,Tiny Aya Earth,0.6216219993810143,2669,0.8137879355563882,2669,ok
+CohereLabs_tiny-aya-base,CohereLabs_tiny-aya-fire,Tiny Aya Base,Tiny Aya Fire,0.6689126702147591,2669,0.8370176095916073,2669,ok
+CohereLabs_tiny-aya-base,CohereLabs_tiny-aya-water,Tiny Aya Base,Tiny Aya Water,0.6351014869716944,2669,0.8201573623079805,2669,ok
+CohereLabs_tiny-aya-base,CohereLabs_aya-expanse-8b,Tiny Aya Base,Aya Expanse 8B,0.5769719647080396,2669,0.7898089171974523,2669,ok
+CohereLabs_tiny-aya-base,CohereLabs_aya-expanse-32b,Tiny Aya Base,Aya Expanse 32B,0.5827698178704231,2669,0.7961783439490446,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-1.7B,Tiny Aya Base,EuroLLM 1.7B,0.6146154127125085,2669,0.8104158860996628,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-1.7B-Instruct,Tiny Aya Base,EuroLLM 1.7B IT,0.622431674273344,2668,0.8144677661169415,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-9B,Tiny Aya Base,EuroLLM 9B,0.6339278519664034,2669,0.8201573623079805,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-9B-Instruct,Tiny Aya Base,EuroLLM 9B IT,0.6129885625066008,2669,0.8096665417759461,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-22B-2512,Tiny Aya Base,EuroLLM 22B,0.6133442866661186,2669,0.8111652304233795,2669,ok
+CohereLabs_tiny-aya-base,utter-project_EuroLLM-22B-Instruct-2512,Tiny Aya Base,EuroLLM 22B IT,0.5991027983598302,2669,0.8044211315099288,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-E2B,Tiny Aya Base,Gemma 4 E2B,0.664062928515465,2669,0.8366429374297489,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-E2B-it,Tiny Aya Base,Gemma 4 E2B IT,0.13711804402317246,2669,0.5612588984638441,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-E4B,Tiny Aya Base,Gemma 4 E4B,0.6285355326255252,2669,0.8197826901461222,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-E4B-it,Tiny Aya Base,Gemma 4 E4B IT,0.1956203487570402,2669,0.5897339827650806,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-12B,Tiny Aya Base,Gemma 4 12B,0.5927300640831129,2669,0.803671787186212,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-12B-it,Tiny Aya Base,Gemma 4 12B IT,0.020827196038255096,2669,0.49793930310977896,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-26B-A4B,Tiny Aya Base,Gemma 4 26B-A4B,0.6527561143113757,2669,0.8332708879730236,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-26B-A4B-it,Tiny Aya Base,Gemma 4 26B-A4B IT,0.16694648226097408,2669,0.5867366054702136,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-31B,Tiny Aya Base,Gemma 4 31B,0.6336732395334815,2669,0.8235294117647058,2669,ok
+CohereLabs_tiny-aya-base,google_gemma-4-31B-it,Tiny Aya Base,Gemma 4 31B IT,0.1678055486981927,2669,0.5826152116897715,2669,ok
+CohereLabs_tiny-aya-base,swiss-ai_Apertus-8B-2509,Tiny Aya Base,Apertus 8B,0.6012453642838781,2669,0.8055451479955039,2669,ok
+CohereLabs_tiny-aya-base,swiss-ai_Apertus-70B-2509,Tiny Aya Base,Apertus 70B,0.6158566664693463,2669,0.8141626077182466,2669,ok
+CohereLabs_tiny-aya-base,swiss-ai_Apertus-8B-Instruct-2509,Tiny Aya Base,Apertus IT 8B,0.5803530323339611,2669,0.7916822780067441,2669,ok
+CohereLabs_tiny-aya-base,swiss-ai_Apertus-70B-Instruct-2509,Tiny Aya Base,Apertus IT 70B,0.6280861202968641,2669,0.818658673660547,2669,ok
+CohereLabs_tiny-aya-base,openai_gpt-oss-120b,Tiny Aya Base,GPT-OSS 120B,0.5799992430660151,2669,0.7928062944923192,2669,ok
+CohereLabs_tiny-aya-base,OpenLLM-France_Claire-Mistral-7B-0.1,Tiny Aya Base,Claire 7B,0.48545658487963617,2669,0.7381041588609967,2669,ok
+CohereLabs_tiny-aya-base,OpenLLM-France_Lucie-7B,Tiny Aya Base,Lucie 7B,0.45496909616578796,2669,0.7249906331959536,2669,ok
+CohereLabs_tiny-aya-base,AIInstituteLNCC_manaca-1b-base,Tiny Aya Base,Manacá 1B,0.23044172858802722,2669,0.609216935181716,2669,ok
+CohereLabs_tiny-aya-base,AIInstituteLNCC_manaca-1b-instruct,Tiny Aya Base,Manacá Instruct 1B,0.23063964929176856,2669,0.6110902959910078,2669,ok
+CohereLabs_tiny-aya-base,maritaca-ai_sabia-7b,Tiny Aya Base,Sabiá 7B,0.44855387153189286,2669,0.7201198950917946,2669,ok
+CohereLabs_tiny-aya-base,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Tiny Aya Base,Bode 13B,0.4770210964455461,2669,0.7339827650805545,2669,ok
+CohereLabs_tiny-aya-base,hfl_chinese-llama-2-13b,Tiny Aya Base,Chinese-LLaMA-2 13B,0.5114028137290032,2669,0.7534657174971899,2669,ok
+CohereLabs_tiny-aya-base,tokyotech-llm_Swallow-13b-hf,Tiny Aya Base,Swallow 13B,0.42769357808502695,2669,0.7133757961783439,2669,ok
+CohereLabs_tiny-aya-base,llm-jp_llm-jp-3-13b,Tiny Aya Base,LLM-jp-3 13B,0.44424855908581085,2669,0.7189958786062196,2669,ok
+CohereLabs_tiny-aya-base,llm-jp_llm-jp-3-172b,Tiny Aya Base,LLM-jp-3 172B,0.4927565611593556,2669,0.7470962907455976,2669,ok
+CohereLabs_tiny-aya-base,Aleph-Alpha_Kolibri-1-BF16,Tiny Aya Base,Kolibri,0.2037035857138782,2669,0.5964780816785313,2669,ok
+CohereLabs_tiny-aya-global,CohereLabs_tiny-aya-earth,Tiny Aya Global,Tiny Aya Earth,0.9319862528477093,2669,0.9662795054327463,2669,ok
+CohereLabs_tiny-aya-global,CohereLabs_tiny-aya-fire,Tiny Aya Global,Tiny Aya Fire,0.8473686177344544,2669,0.9243162233046085,2669,ok
+CohereLabs_tiny-aya-global,CohereLabs_tiny-aya-water,Tiny Aya Global,Tiny Aya Water,0.9252433197238572,2669,0.962907455976021,2669,ok
+CohereLabs_tiny-aya-global,CohereLabs_aya-expanse-8b,Tiny Aya Global,Aya Expanse 8B,0.5097865886466445,2669,0.7557137504683402,2669,ok
+CohereLabs_tiny-aya-global,CohereLabs_aya-expanse-32b,Tiny Aya Global,Aya Expanse 32B,0.46210027854044694,2669,0.7343574372424129,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-1.7B,Tiny Aya Global,EuroLLM 1.7B,0.5411872389751101,2669,0.772573997751967,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-1.7B-Instruct,Tiny Aya Global,EuroLLM 1.7B IT,0.5339423462480596,2668,0.7691154422788605,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-9B,Tiny Aya Global,EuroLLM 9B,0.5302711644503947,2669,0.7673285874859498,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-9B-Instruct,Tiny Aya Global,EuroLLM 9B IT,0.516930739313718,2669,0.760584488572499,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-22B-2512,Tiny Aya Global,EuroLLM 22B,0.5045153076962222,2669,0.7553390783064818,2669,ok
+CohereLabs_tiny-aya-global,utter-project_EuroLLM-22B-Instruct-2512,Tiny Aya Global,EuroLLM 22B IT,0.5163797397276212,2669,0.7613338328962158,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-E2B,Tiny Aya Global,Gemma 4 E2B,0.5125075261145132,2669,0.7598351442487823,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-E2B-it,Tiny Aya Global,Gemma 4 E2B IT,0.12073842373221848,2669,0.5563881603596853,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-E4B,Tiny Aya Global,Gemma 4 E4B,0.5187670818617018,2669,0.7632071937055077,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-E4B-it,Tiny Aya Global,Gemma 4 E4B IT,0.17707159162435712,2669,0.5841139003372049,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-12B,Tiny Aya Global,Gemma 4 12B,0.4628968538519824,2669,0.7366054702135632,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-12B-it,Tiny Aya Global,Gemma 4 12B IT,-0.034229931787757996,2669,0.47583364556013485,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-26B-A4B,Tiny Aya Global,Gemma 4 26B-A4B,0.48397810277605025,2669,0.747470962907456,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-26B-A4B-it,Tiny Aya Global,Gemma 4 26B-A4B IT,0.17827049722485827,2669,0.5908579992506556,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-31B,Tiny Aya Global,Gemma 4 31B,0.4680538628595515,2669,0.7392281753465717,2669,ok
+CohereLabs_tiny-aya-global,google_gemma-4-31B-it,Tiny Aya Global,Gemma 4 31B IT,0.1718472990423185,2669,0.58523791682278,2669,ok
+CohereLabs_tiny-aya-global,swiss-ai_Apertus-8B-2509,Tiny Aya Global,Apertus 8B,0.47147281801840135,2669,0.7392281753465717,2669,ok
+CohereLabs_tiny-aya-global,swiss-ai_Apertus-70B-2509,Tiny Aya Global,Apertus 70B,0.4837257197258557,2669,0.7463469464218808,2669,ok
+CohereLabs_tiny-aya-global,swiss-ai_Apertus-8B-Instruct-2509,Tiny Aya Global,Apertus IT 8B,0.5298541388759789,2669,0.7658298988385163,2669,ok
+CohereLabs_tiny-aya-global,swiss-ai_Apertus-70B-Instruct-2509,Tiny Aya Global,Apertus IT 70B,0.499534068750681,2669,0.7530910453353316,2669,ok
+CohereLabs_tiny-aya-global,openai_gpt-oss-120b,Tiny Aya Global,GPT-OSS 120B,0.5109266624136388,2669,0.7572124391157737,2669,ok
+CohereLabs_tiny-aya-global,OpenLLM-France_Claire-Mistral-7B-0.1,Tiny Aya Global,Claire 7B,0.44631514314905096,2669,0.720494567253653,2669,ok
+CohereLabs_tiny-aya-global,OpenLLM-France_Lucie-7B,Tiny Aya Global,Lucie 7B,0.41164889047209946,2669,0.704383664293743,2669,ok
+CohereLabs_tiny-aya-global,AIInstituteLNCC_manaca-1b-base,Tiny Aya Global,Manacá 1B,0.2122731185981217,2669,0.6028475084301237,2669,ok
+CohereLabs_tiny-aya-global,AIInstituteLNCC_manaca-1b-instruct,Tiny Aya Global,Manacá Instruct 1B,0.20214701657028314,2669,0.5987261146496815,2669,ok
+CohereLabs_tiny-aya-global,maritaca-ai_sabia-7b,Tiny Aya Global,Sabiá 7B,0.3532886601383645,2669,0.6740352191832147,2669,ok
+CohereLabs_tiny-aya-global,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Tiny Aya Global,Bode 13B,0.43795473834750154,2669,0.716373173473211,2669,ok
+CohereLabs_tiny-aya-global,hfl_chinese-llama-2-13b,Tiny Aya Global,Chinese-LLaMA-2 13B,0.48174395295070854,2669,0.7396028475084301,2669,ok
+CohereLabs_tiny-aya-global,tokyotech-llm_Swallow-13b-hf,Tiny Aya Global,Swallow 13B,0.41003635988261167,2669,0.7047583364556014,2669,ok
+CohereLabs_tiny-aya-global,llm-jp_llm-jp-3-13b,Tiny Aya Global,LLM-jp-3 13B,0.40337002172055975,2669,0.6998875983514425,2669,ok
+CohereLabs_tiny-aya-global,llm-jp_llm-jp-3-172b,Tiny Aya Global,LLM-jp-3 172B,0.42663221969281145,2669,0.7137504683402023,2669,ok
+CohereLabs_tiny-aya-global,Aleph-Alpha_Kolibri-1-BF16,Tiny Aya Global,Kolibri,0.17865660508631606,2669,0.5863619333083552,2669,ok
+CohereLabs_tiny-aya-earth,CohereLabs_tiny-aya-fire,Tiny Aya Earth,Tiny Aya Fire,0.865556705751312,2669,0.9333083551892094,2669,ok
+CohereLabs_tiny-aya-earth,CohereLabs_tiny-aya-water,Tiny Aya Earth,Tiny Aya Water,0.9328192465232537,2669,0.9666541775946047,2669,ok
+CohereLabs_tiny-aya-earth,CohereLabs_aya-expanse-8b,Tiny Aya Earth,Aya Expanse 8B,0.5143757316019365,2669,0.7579617834394905,2669,ok
+CohereLabs_tiny-aya-earth,CohereLabs_aya-expanse-32b,Tiny Aya Earth,Aya Expanse 32B,0.47000248574249137,2669,0.7381041588609967,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-1.7B,Tiny Aya Earth,EuroLLM 1.7B,0.536844837782162,2669,0.7703259647808168,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-1.7B-Instruct,Tiny Aya Earth,EuroLLM 1.7B IT,0.5402000150796472,2668,0.7721139430284858,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-9B,Tiny Aya Earth,EuroLLM 9B,0.5229220707665733,2669,0.7635818658673661,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-9B-Instruct,Tiny Aya Earth,EuroLLM 9B IT,0.5141124425789737,2669,0.7590857999250655,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-22B-2512,Tiny Aya Earth,EuroLLM 22B,0.5032968263127853,2669,0.7545897339827651,2669,ok
+CohereLabs_tiny-aya-earth,utter-project_EuroLLM-22B-Instruct-2512,Tiny Aya Earth,EuroLLM 22B IT,0.5136491755231067,2669,0.7598351442487823,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-E2B,Tiny Aya Earth,Gemma 4 E2B,0.5219745503138002,2669,0.7643312101910829,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-E2B-it,Tiny Aya Earth,Gemma 4 E2B IT,0.1129316363126208,2669,0.5526414387411015,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-E4B,Tiny Aya Earth,Gemma 4 E4B,0.5191383072311928,2669,0.7632071937055077,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-E4B-it,Tiny Aya Earth,Gemma 4 E4B IT,0.1707190317011596,2669,0.581116523042338,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-12B,Tiny Aya Earth,Gemma 4 12B,0.4695055528815698,2669,0.7396028475084301,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-12B-it,Tiny Aya Earth,Gemma 4 12B IT,-0.026018652299442325,2669,0.48032971150243536,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-26B-A4B,Tiny Aya Earth,Gemma 4 26B-A4B,0.48910199723645614,2669,0.7497189958786062,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-26B-A4B-it,Tiny Aya Earth,Gemma 4 26B-A4B IT,0.16940770557791832,2669,0.5863619333083552,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-31B,Tiny Aya Earth,Gemma 4 31B,0.47925050165099975,2669,0.744473585612589,2669,ok
+CohereLabs_tiny-aya-earth,google_gemma-4-31B-it,Tiny Aya Earth,Gemma 4 31B IT,0.17627082155420326,2669,0.5874859497939303,2669,ok
+CohereLabs_tiny-aya-earth,swiss-ai_Apertus-8B-2509,Tiny Aya Earth,Apertus 8B,0.47788208479576727,2669,0.7422255526414387,2669,ok
+CohereLabs_tiny-aya-earth,swiss-ai_Apertus-70B-2509,Tiny Aya Earth,Apertus 70B,0.4841616881257552,2669,0.7463469464218808,2669,ok
+CohereLabs_tiny-aya-earth,swiss-ai_Apertus-8B-Instruct-2509,Tiny Aya Earth,Apertus IT 8B,0.5329491610438026,2669,0.7673285874859498,2669,ok
+CohereLabs_tiny-aya-earth,swiss-ai_Apertus-70B-Instruct-2509,Tiny Aya Earth,Apertus IT 70B,0.5013738619040591,2669,0.7538403896590483,2669,ok
+CohereLabs_tiny-aya-earth,openai_gpt-oss-120b,Tiny Aya Earth,GPT-OSS 120B,0.5231667817189547,2669,0.7632071937055077,2669,ok
+CohereLabs_tiny-aya-earth,OpenLLM-France_Claire-Mistral-7B-0.1,Tiny Aya Earth,Claire 7B,0.4371523067523851,2669,0.7159985013113526,2669,ok
+CohereLabs_tiny-aya-earth,OpenLLM-France_Lucie-7B,Tiny Aya Earth,Lucie 7B,0.420462157433327,2669,0.7088797302360434,2669,ok
+CohereLabs_tiny-aya-earth,AIInstituteLNCC_manaca-1b-base,Tiny Aya Earth,Manacá 1B,0.20006618196363213,2669,0.5968527538403896,2669,ok
+CohereLabs_tiny-aya-earth,AIInstituteLNCC_manaca-1b-instruct,Tiny Aya Earth,Manacá Instruct 1B,0.1959624617887913,2669,0.5957287373548146,2669,ok
+CohereLabs_tiny-aya-earth,maritaca-ai_sabia-7b,Tiny Aya Earth,Sabiá 7B,0.34560477617795426,2669,0.6702884975646309,2669,ok
+CohereLabs_tiny-aya-earth,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Tiny Aya Earth,Bode 13B,0.4347367492400247,2669,0.7148744848257774,2669,ok
+CohereLabs_tiny-aya-earth,hfl_chinese-llama-2-13b,Tiny Aya Earth,Chinese-LLaMA-2 13B,0.4846066290687631,2669,0.7411015361558636,2669,ok
+CohereLabs_tiny-aya-earth,tokyotech-llm_Swallow-13b-hf,Tiny Aya Earth,Swallow 13B,0.40851410246052483,2669,0.7040089921318846,2669,ok
+CohereLabs_tiny-aya-earth,llm-jp_llm-jp-3-13b,Tiny Aya Earth,LLM-jp-3 13B,0.40468927744426264,2669,0.7006369426751592,2669,ok
+CohereLabs_tiny-aya-earth,llm-jp_llm-jp-3-172b,Tiny Aya Earth,LLM-jp-3 172B,0.4221712502973311,2669,0.7115024353690521,2669,ok
+CohereLabs_tiny-aya-earth,Aleph-Alpha_Kolibri-1-BF16,Tiny Aya Earth,Kolibri,0.18135180819780278,2669,0.5878606219557887,2669,ok
+CohereLabs_tiny-aya-fire,CohereLabs_tiny-aya-water,Tiny Aya Fire,Tiny Aya Water,0.8845236651025951,2669,0.9426751592356688,2669,ok
+CohereLabs_tiny-aya-fire,CohereLabs_aya-expanse-8b,Tiny Aya Fire,Aya Expanse 8B,0.5414629227925954,2669,0.7714499812663919,2669,ok
+CohereLabs_tiny-aya-fire,CohereLabs_aya-expanse-32b,Tiny Aya Fire,Aya Expanse 32B,0.5110434555138884,2669,0.7583364556013488,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-1.7B,Tiny Aya Fire,EuroLLM 1.7B,0.5641052784423859,2669,0.7838141626077183,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-1.7B-Instruct,Tiny Aya Fire,EuroLLM 1.7B IT,0.5644647038451358,2668,0.7841079460269865,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-9B,Tiny Aya Fire,EuroLLM 9B,0.5607913346095882,2669,0.7823154739602848,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-9B-Instruct,Tiny Aya Fire,EuroLLM 9B IT,0.5489362701955516,2669,0.7763207193705508,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-22B-2512,Tiny Aya Fire,EuroLLM 22B,0.5322070287699667,2669,0.7688272761333833,2669,ok
+CohereLabs_tiny-aya-fire,utter-project_EuroLLM-22B-Instruct-2512,Tiny Aya Fire,EuroLLM 22B IT,0.5410600146713456,2669,0.7733233420756838,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-E2B,Tiny Aya Fire,Gemma 4 E2B,0.5509603069702853,2669,0.778568752341701,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-E2B-it,Tiny Aya Fire,Gemma 4 E2B IT,0.11577687836618146,2669,0.554140127388535,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-E4B,Tiny Aya Fire,Gemma 4 E4B,0.5436030902978465,2669,0.7751967028849757,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-E4B-it,Tiny Aya Fire,Gemma 4 E4B IT,0.18689977646320433,2669,0.5893593106032222,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-12B,Tiny Aya Fire,Gemma 4 12B,0.47730150557087814,2669,0.7433495691270139,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-12B-it,Tiny Aya Fire,Gemma 4 12B IT,-0.035117581162175275,2669,0.47583364556013485,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-26B-A4B,Tiny Aya Fire,Gemma 4 26B-A4B,0.5213897278889738,2669,0.7654552266766579,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-26B-A4B-it,Tiny Aya Fire,Gemma 4 26B-A4B IT,0.17247261540820527,2669,0.5878606219557887,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-31B,Tiny Aya Fire,Gemma 4 31B,0.5175818116507388,2669,0.7632071937055077,2669,ok
+CohereLabs_tiny-aya-fire,google_gemma-4-31B-it,Tiny Aya Fire,Gemma 4 31B IT,0.17475274738366778,2669,0.5867366054702136,2669,ok
+CohereLabs_tiny-aya-fire,swiss-ai_Apertus-8B-2509,Tiny Aya Fire,Apertus 8B,0.5068251633587456,2669,0.756463094792057,2669,ok
+CohereLabs_tiny-aya-fire,swiss-ai_Apertus-70B-2509,Tiny Aya Fire,Apertus 70B,0.5162996278668084,2669,0.7620831772199326,2669,ok
+CohereLabs_tiny-aya-fire,swiss-ai_Apertus-8B-Instruct-2509,Tiny Aya Fire,Apertus IT 8B,0.5690761806302836,2669,0.7853128512551517,2669,ok
+CohereLabs_tiny-aya-fire,swiss-ai_Apertus-70B-Instruct-2509,Tiny Aya Fire,Apertus IT 70B,0.542454931551908,2669,0.7740726863994005,2669,ok
+CohereLabs_tiny-aya-fire,openai_gpt-oss-120b,Tiny Aya Fire,GPT-OSS 120B,0.5533973557404219,2669,0.7781940801798426,2669,ok
+CohereLabs_tiny-aya-fire,OpenLLM-France_Claire-Mistral-7B-0.1,Tiny Aya Fire,Claire 7B,0.47271428086474193,2669,0.7339827650805545,2669,ok
+CohereLabs_tiny-aya-fire,OpenLLM-France_Lucie-7B,Tiny Aya Fire,Lucie 7B,0.43384376066379127,2669,0.7156238291494942,2669,ok
+CohereLabs_tiny-aya-fire,AIInstituteLNCC_manaca-1b-base,Tiny Aya Fire,Manacá 1B,0.19698642867728924,2669,0.5953540651929562,2669,ok
+CohereLabs_tiny-aya-fire,AIInstituteLNCC_manaca-1b-instruct,Tiny Aya Fire,Manacá Instruct 1B,0.20333986429340672,2669,0.5994754589733983,2669,ok
+CohereLabs_tiny-aya-fire,maritaca-ai_sabia-7b,Tiny Aya Fire,Sabiá 7B,0.3841950038565626,2669,0.6897714499812664,2669,ok
+CohereLabs_tiny-aya-fire,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Tiny Aya Fire,Bode 13B,0.455455157051151,2669,0.725365305357812,2669,ok
+CohereLabs_tiny-aya-fire,hfl_chinese-llama-2-13b,Tiny Aya Fire,Chinese-LLaMA-2 13B,0.503960607169198,2669,0.7508430123641814,2669,ok
+CohereLabs_tiny-aya-fire,tokyotech-llm_Swallow-13b-hf,Tiny Aya Fire,Swallow 13B,0.4324650645577013,2669,0.7159985013113526,2669,ok
+CohereLabs_tiny-aya-fire,llm-jp_llm-jp-3-13b,Tiny Aya Fire,LLM-jp-3 13B,0.4344380719249397,2669,0.7156238291494942,2669,ok
+CohereLabs_tiny-aya-fire,llm-jp_llm-jp-3-172b,Tiny Aya Fire,LLM-jp-3 172B,0.4522015740309632,2669,0.726489321843387,2669,ok
+CohereLabs_tiny-aya-fire,Aleph-Alpha_Kolibri-1-BF16,Tiny Aya Fire,Kolibri,0.17976958437956994,2669,0.5871112776320719,2669,ok
+CohereLabs_tiny-aya-water,CohereLabs_aya-expanse-8b,Tiny Aya Water,Aya Expanse 8B,0.5408217942245371,2669,0.7710753091045335,2669,ok
+CohereLabs_tiny-aya-water,CohereLabs_aya-expanse-32b,Tiny Aya Water,Aya Expanse 32B,0.48648519799291345,2669,0.7459722742600224,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-1.7B,Tiny Aya Water,EuroLLM 1.7B,0.5575823475799658,2669,0.7804421131509929,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-1.7B-Instruct,Tiny Aya Water,EuroLLM 1.7B IT,0.5549323442513006,2668,0.7792353823088456,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-9B,Tiny Aya Water,EuroLLM 9B,0.5422017600766255,2669,0.7729486699138254,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-9B-Instruct,Tiny Aya Water,EuroLLM 9B IT,0.5303454488050687,2669,0.7669539153240914,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-22B-2512,Tiny Aya Water,EuroLLM 22B,0.5258114137159853,2669,0.7654552266766579,2669,ok
+CohereLabs_tiny-aya-water,utter-project_EuroLLM-22B-Instruct-2512,Tiny Aya Water,EuroLLM 22B IT,0.5316405735340217,2669,0.7684526039715249,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-E2B,Tiny Aya Water,Gemma 4 E2B,0.5324649029613233,2669,0.7692019482952417,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-E2B-it,Tiny Aya Water,Gemma 4 E2B IT,0.13230816803239312,2669,0.5627575871112777,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-E4B,Tiny Aya Water,Gemma 4 E4B,0.5236163146302699,2669,0.7650805545147995,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-E4B-it,Tiny Aya Water,Gemma 4 E4B IT,0.1929609196208044,2669,0.5927313600599475,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-12B,Tiny Aya Water,Gemma 4 12B,0.4650795626623059,2669,0.7369801423754215,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-12B-it,Tiny Aya Water,Gemma 4 12B IT,-0.04130230286616525,2669,0.47321094042712625,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-26B-A4B,Tiny Aya Water,Gemma 4 26B-A4B,0.4984682619470848,2669,0.7538403896590483,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-26B-A4B-it,Tiny Aya Water,Gemma 4 26B-A4B IT,0.18249926948557416,2669,0.5927313600599475,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-31B,Tiny Aya Water,Gemma 4 31B,0.4870185114476021,2669,0.7478456350693143,2669,ok
+CohereLabs_tiny-aya-water,google_gemma-4-31B-it,Tiny Aya Water,Gemma 4 31B IT,0.18737552146413675,2669,0.5931060322218059,2669,ok
+CohereLabs_tiny-aya-water,swiss-ai_Apertus-8B-2509,Tiny Aya Water,Apertus 8B,0.48531578120771013,2669,0.7455976020981641,2669,ok
+CohereLabs_tiny-aya-water,swiss-ai_Apertus-70B-2509,Tiny Aya Water,Apertus 70B,0.5024567524349469,2669,0.7549644061446235,2669,ok
+CohereLabs_tiny-aya-water,swiss-ai_Apertus-8B-Instruct-2509,Tiny Aya Water,Apertus IT 8B,0.5503992446099303,2669,0.7759460472086924,2669,ok
+CohereLabs_tiny-aya-water,swiss-ai_Apertus-70B-Instruct-2509,Tiny Aya Water,Apertus IT 70B,0.5163641093864141,2669,0.7609591607343574,2669,ok
+CohereLabs_tiny-aya-water,openai_gpt-oss-120b,Tiny Aya Water,GPT-OSS 120B,0.531761661470921,2669,0.7673285874859498,2669,ok
+CohereLabs_tiny-aya-water,OpenLLM-France_Claire-Mistral-7B-0.1,Tiny Aya Water,Claire 7B,0.4656650705393244,2669,0.7306107156238292,2669,ok
+CohereLabs_tiny-aya-water,OpenLLM-France_Lucie-7B,Tiny Aya Water,Lucie 7B,0.4299148247821693,2669,0.7137504683402023,2669,ok
+CohereLabs_tiny-aya-water,AIInstituteLNCC_manaca-1b-base,Tiny Aya Water,Manacá 1B,0.21957215271380173,2669,0.6069689022105658,2669,ok
+CohereLabs_tiny-aya-water,AIInstituteLNCC_manaca-1b-instruct,Tiny Aya Water,Manacá Instruct 1B,0.21269756138439605,2669,0.6043461970775571,2669,ok
+CohereLabs_tiny-aya-water,maritaca-ai_sabia-7b,Tiny Aya Water,Sabiá 7B,0.375655455669073,2669,0.6856500562008243,2669,ok
+CohereLabs_tiny-aya-water,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Tiny Aya Water,Bode 13B,0.44989243286663344,2669,0.7227426002248033,2669,ok
+CohereLabs_tiny-aya-water,hfl_chinese-llama-2-13b,Tiny Aya Water,Chinese-LLaMA-2 13B,0.5060256727824556,2669,0.7519670288497564,2669,ok
+CohereLabs_tiny-aya-water,tokyotech-llm_Swallow-13b-hf,Tiny Aya Water,Swallow 13B,0.42718782166215497,2669,0.7133757961783439,2669,ok
+CohereLabs_tiny-aya-water,llm-jp_llm-jp-3-13b,Tiny Aya Water,LLM-jp-3 13B,0.4155584367268529,2669,0.7062570251030349,2669,ok
+CohereLabs_tiny-aya-water,llm-jp_llm-jp-3-172b,Tiny Aya Water,LLM-jp-3 172B,0.43650430194132056,2669,0.7186212064443612,2669,ok
+CohereLabs_tiny-aya-water,Aleph-Alpha_Kolibri-1-BF16,Tiny Aya Water,Kolibri,0.19945407716412528,2669,0.597227426002248,2669,ok
+CohereLabs_aya-expanse-8b,CohereLabs_aya-expanse-32b,Aya Expanse 8B,Aya Expanse 32B,0.6935907478358786,2669,0.8475084301236419,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-1.7B,Aya Expanse 8B,EuroLLM 1.7B,0.6007938271782292,2669,0.8010490820532035,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-1.7B-Instruct,Aya Expanse 8B,EuroLLM 1.7B IT,0.6073370967278092,2668,0.8043478260869565,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-9B,Aya Expanse 8B,EuroLLM 9B,0.5991829691989137,2669,0.8002997377294867,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-9B-Instruct,Aya Expanse 8B,EuroLLM 9B IT,0.5842319602541216,2669,0.7928062944923192,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-22B-2512,Aya Expanse 8B,EuroLLM 22B,0.6047334664217027,2669,0.8032971150243536,2669,ok
+CohereLabs_aya-expanse-8b,utter-project_EuroLLM-22B-Instruct-2512,Aya Expanse 8B,EuroLLM 22B IT,0.58506940672689,2669,0.793555638816036,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-E2B,Aya Expanse 8B,Gemma 4 E2B,0.577266963920956,2669,0.7898089171974523,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-E2B-it,Aya Expanse 8B,Gemma 4 E2B IT,0.10684535034812642,2669,0.5518920944173847,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-E4B,Aya Expanse 8B,Gemma 4 E4B,0.5717969764639621,2669,0.7871862120644436,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-E4B-it,Aya Expanse 8B,Gemma 4 E4B IT,0.21189798974797186,2669,0.6043461970775571,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-12B,Aya Expanse 8B,Gemma 4 12B,0.5010570172796518,2669,0.7523417010116148,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-12B-it,Aya Expanse 8B,Gemma 4 12B IT,0.05843756275901393,2669,0.5267890595728737,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-26B-A4B,Aya Expanse 8B,Gemma 4 26B-A4B,0.5437268513146104,2669,0.7736980142375421,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-26B-A4B-it,Aya Expanse 8B,Gemma 4 26B-A4B IT,0.2104367446841059,2669,0.6058448857249906,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-31B,Aya Expanse 8B,Gemma 4 31B,0.5440211030209158,2669,0.7736980142375421,2669,ok
+CohereLabs_aya-expanse-8b,google_gemma-4-31B-it,Aya Expanse 8B,Gemma 4 31B IT,0.12306745233533091,2669,0.5612588984638441,2669,ok
+CohereLabs_aya-expanse-8b,swiss-ai_Apertus-8B-2509,Aya Expanse 8B,Apertus 8B,0.5406025110836215,2669,0.7714499812663919,2669,ok
+CohereLabs_aya-expanse-8b,swiss-ai_Apertus-70B-2509,Aya Expanse 8B,Apertus 70B,0.555715171111613,2669,0.7793180966654177,2669,ok
+CohereLabs_aya-expanse-8b,swiss-ai_Apertus-8B-Instruct-2509,Aya Expanse 8B,Apertus IT 8B,0.5534910699901002,2669,0.7770700636942676,2669,ok
+CohereLabs_aya-expanse-8b,swiss-ai_Apertus-70B-Instruct-2509,Aya Expanse 8B,Apertus IT 70B,0.5518871584845169,2669,0.7770700636942676,2669,ok
+CohereLabs_aya-expanse-8b,openai_gpt-oss-120b,Aya Expanse 8B,GPT-OSS 120B,0.5732170315455086,2669,0.7871862120644436,2669,ok
+CohereLabs_aya-expanse-8b,OpenLLM-France_Claire-Mistral-7B-0.1,Aya Expanse 8B,Claire 7B,0.5281323326847096,2669,0.7632071937055077,2669,ok
+CohereLabs_aya-expanse-8b,OpenLLM-France_Lucie-7B,Aya Expanse 8B,Lucie 7B,0.4592264899815967,2669,0.7291120269763957,2669,ok
+CohereLabs_aya-expanse-8b,AIInstituteLNCC_manaca-1b-base,Aya Expanse 8B,Manacá 1B,0.2604864543841962,2669,0.6290745597602098,2669,ok
+CohereLabs_aya-expanse-8b,AIInstituteLNCC_manaca-1b-instruct,Aya Expanse 8B,Manacá Instruct 1B,0.25755459892714067,2669,0.6279505432746347,2669,ok
+CohereLabs_aya-expanse-8b,maritaca-ai_sabia-7b,Aya Expanse 8B,Sabiá 7B,0.4710795155875541,2669,0.7347321094042712,2669,ok
+CohereLabs_aya-expanse-8b,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Aya Expanse 8B,Bode 13B,0.4884931844881463,2669,0.7433495691270139,2669,ok
+CohereLabs_aya-expanse-8b,hfl_chinese-llama-2-13b,Aya Expanse 8B,Chinese-LLaMA-2 13B,0.5280386102052387,2669,0.7635818658673661,2669,ok
+CohereLabs_aya-expanse-8b,tokyotech-llm_Swallow-13b-hf,Aya Expanse 8B,Swallow 13B,0.48012836489129274,2669,0.7399775196702885,2669,ok
+CohereLabs_aya-expanse-8b,llm-jp_llm-jp-3-13b,Aya Expanse 8B,LLM-jp-3 13B,0.4579614628184575,2669,0.7283626826526789,2669,ok
+CohereLabs_aya-expanse-8b,llm-jp_llm-jp-3-172b,Aya Expanse 8B,LLM-jp-3 172B,0.5006503287601505,2669,0.750468340202323,2669,ok
+CohereLabs_aya-expanse-8b,Aleph-Alpha_Kolibri-1-BF16,Aya Expanse 8B,Kolibri,0.21981745577090755,2669,0.6088422630198577,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-1.7B,Aya Expanse 32B,EuroLLM 1.7B,0.5874042491278842,2669,0.7961783439490446,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-1.7B-Instruct,Aya Expanse 32B,EuroLLM 1.7B IT,0.6028591237743075,2668,0.8039730134932533,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-9B,Aya Expanse 32B,EuroLLM 9B,0.61736269100206,2669,0.8111652304233795,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-9B-Instruct,Aya Expanse 32B,EuroLLM 9B IT,0.5979427739865221,2669,0.8014237542150618,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-22B-2512,Aya Expanse 32B,EuroLLM 22B,0.656860700386437,2669,0.8313975271637317,2669,ok
+CohereLabs_aya-expanse-32b,utter-project_EuroLLM-22B-Instruct-2512,Aya Expanse 32B,EuroLLM 22B IT,0.6382713966700884,2669,0.8224053952791308,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-E2B,Aya Expanse 32B,Gemma 4 E2B,0.5991543742730753,2669,0.803671787186212,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-E2B-it,Aya Expanse 32B,Gemma 4 E2B IT,0.10826791902794498,2669,0.5485200449606594,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-E4B,Aya Expanse 32B,Gemma 4 E4B,0.6038355122950055,2669,0.8062944923192207,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-E4B-it,Aya Expanse 32B,Gemma 4 E4B IT,0.23437048323334722,2669,0.6114649681528662,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-12B,Aya Expanse 32B,Gemma 4 12B,0.5426786104737734,2669,0.7774447358561258,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-12B-it,Aya Expanse 32B,Gemma 4 12B IT,0.030741363652394754,2669,0.5061820906706632,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-26B-A4B,Aya Expanse 32B,Gemma 4 26B-A4B,0.6116057105379717,2669,0.8115399025852379,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-26B-A4B-it,Aya Expanse 32B,Gemma 4 26B-A4B IT,0.17917856885666955,2669,0.5919820157362308,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-31B,Aya Expanse 32B,Gemma 4 31B,0.6110040222999982,2669,0.8107905582615211,2669,ok
+CohereLabs_aya-expanse-32b,google_gemma-4-31B-it,Aya Expanse 32B,Gemma 4 31B IT,0.14770998845372318,2669,0.5728737354814537,2669,ok
+CohereLabs_aya-expanse-32b,swiss-ai_Apertus-8B-2509,Aya Expanse 32B,Apertus 8B,0.5656430161457271,2669,0.7868115399025852,2669,ok
+CohereLabs_aya-expanse-32b,swiss-ai_Apertus-70B-2509,Aya Expanse 32B,Apertus 70B,0.6022322651328402,2669,0.8059198201573623,2669,ok
+CohereLabs_aya-expanse-32b,swiss-ai_Apertus-8B-Instruct-2509,Aya Expanse 32B,Apertus IT 8B,0.5570199505470311,2669,0.7796927688272761,2669,ok
+CohereLabs_aya-expanse-32b,swiss-ai_Apertus-70B-Instruct-2509,Aya Expanse 32B,Apertus IT 70B,0.6045353624748784,2669,0.8059198201573623,2669,ok
+CohereLabs_aya-expanse-32b,openai_gpt-oss-120b,Aya Expanse 32B,GPT-OSS 120B,0.5587437687108822,2669,0.781566129636568,2669,ok
+CohereLabs_aya-expanse-32b,OpenLLM-France_Claire-Mistral-7B-0.1,Aya Expanse 32B,Claire 7B,0.4949527888006352,2669,0.7440989134507306,2669,ok
+CohereLabs_aya-expanse-32b,OpenLLM-France_Lucie-7B,Aya Expanse 32B,Lucie 7B,0.4596557312865794,2669,0.7279880104908205,2669,ok
+CohereLabs_aya-expanse-32b,AIInstituteLNCC_manaca-1b-base,Aya Expanse 32B,Manacá 1B,0.23184908039855268,2669,0.6114649681528662,2669,ok
+CohereLabs_aya-expanse-32b,AIInstituteLNCC_manaca-1b-instruct,Aya Expanse 32B,Manacá Instruct 1B,0.22551979686554044,2669,0.6095916073435744,2669,ok
+CohereLabs_aya-expanse-32b,maritaca-ai_sabia-7b,Aya Expanse 32B,Sabiá 7B,0.44793226386905655,2669,0.7208692394155114,2669,ok
+CohereLabs_aya-expanse-32b,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Aya Expanse 32B,Bode 13B,0.4850909477962808,2669,0.7392281753465717,2669,ok
+CohereLabs_aya-expanse-32b,hfl_chinese-llama-2-13b,Aya Expanse 32B,Chinese-LLaMA-2 13B,0.4909153170799178,2669,0.7437242412888723,2669,ok
+CohereLabs_aya-expanse-32b,tokyotech-llm_Swallow-13b-hf,Aya Expanse 32B,Swallow 13B,0.44541511655589805,2669,0.7223679280629449,2669,ok
+CohereLabs_aya-expanse-32b,llm-jp_llm-jp-3-13b,Aya Expanse 32B,LLM-jp-3 13B,0.44266097192910164,2669,0.7189958786062196,2669,ok
+CohereLabs_aya-expanse-32b,llm-jp_llm-jp-3-172b,Aya Expanse 32B,LLM-jp-3 172B,0.48861920441203666,2669,0.7448482577744474,2669,ok
+CohereLabs_aya-expanse-32b,Aleph-Alpha_Kolibri-1-BF16,Aya Expanse 32B,Kolibri,0.23807571424243093,2669,0.61521168977145,2669,ok
+utter-project_EuroLLM-1.7B,utter-project_EuroLLM-1.7B-Instruct,EuroLLM 1.7B,EuroLLM 1.7B IT,0.8888064804765776,2668,0.9449025487256372,2669,ok
+utter-project_EuroLLM-1.7B,utter-project_EuroLLM-9B,EuroLLM 1.7B,EuroLLM 9B,0.6823805619102614,2669,0.8426376920194829,2669,ok
+utter-project_EuroLLM-1.7B,utter-project_EuroLLM-9B-Instruct,EuroLLM 1.7B,EuroLLM 9B IT,0.6765103172279272,2669,0.839640314724616,2669,ok
+utter-project_EuroLLM-1.7B,utter-project_EuroLLM-22B-2512,EuroLLM 1.7B,EuroLLM 22B,0.6814074482071815,2669,0.8426376920194829,2669,ok
+utter-project_EuroLLM-1.7B,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 1.7B,EuroLLM 22B IT,0.6554246770582082,2669,0.8298988385162982,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-E2B,EuroLLM 1.7B,Gemma 4 E2B,0.6046712078338836,2669,0.8051704758336455,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-E2B-it,EuroLLM 1.7B,Gemma 4 E2B IT,0.15694592909007782,2669,0.5747470962907456,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-E4B,EuroLLM 1.7B,Gemma 4 E4B,0.5912620813778168,2669,0.7988010490820532,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-E4B-it,EuroLLM 1.7B,Gemma 4 E4B IT,0.24286170346663075,2669,0.6174597227426002,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-12B,EuroLLM 1.7B,Gemma 4 12B,0.5387503011429412,2669,0.7736980142375421,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-12B-it,EuroLLM 1.7B,Gemma 4 12B IT,-0.007201065724478775,2669,0.4896965155488947,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-26B-A4B,EuroLLM 1.7B,Gemma 4 26B-A4B,0.5906104882776606,2669,0.7995503934057699,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-26B-A4B-it,EuroLLM 1.7B,Gemma 4 26B-A4B IT,0.16857168873616768,2669,0.5859872611464968,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-31B,EuroLLM 1.7B,Gemma 4 31B,0.589771632148785,2669,0.7988010490820532,2669,ok
+utter-project_EuroLLM-1.7B,google_gemma-4-31B-it,EuroLLM 1.7B,Gemma 4 31B IT,0.1291708735828463,2669,0.5638816035968528,2669,ok
+utter-project_EuroLLM-1.7B,swiss-ai_Apertus-8B-2509,EuroLLM 1.7B,Apertus 8B,0.5908261546377355,2669,0.7980517047583364,2669,ok
+utter-project_EuroLLM-1.7B,swiss-ai_Apertus-70B-2509,EuroLLM 1.7B,Apertus 70B,0.60209551183702,2669,0.8044211315099288,2669,ok
+utter-project_EuroLLM-1.7B,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 1.7B,Apertus IT 8B,0.5893184249476107,2669,0.7954289996253279,2669,ok
+utter-project_EuroLLM-1.7B,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 1.7B,Apertus IT 70B,0.6158508452900473,2669,0.8104158860996628,2669,ok
+utter-project_EuroLLM-1.7B,openai_gpt-oss-120b,EuroLLM 1.7B,GPT-OSS 120B,0.5811898681138042,2669,0.7920569501686024,2669,ok
+utter-project_EuroLLM-1.7B,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 1.7B,Claire 7B,0.5404705076708733,2669,0.7680779318096665,2669,ok
+utter-project_EuroLLM-1.7B,OpenLLM-France_Lucie-7B,EuroLLM 1.7B,Lucie 7B,0.46602220627650337,2669,0.7317347321094043,2669,ok
+utter-project_EuroLLM-1.7B,AIInstituteLNCC_manaca-1b-base,EuroLLM 1.7B,Manacá 1B,0.21137385878908213,2669,0.6024728362682653,2669,ok
+utter-project_EuroLLM-1.7B,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 1.7B,Manacá Instruct 1B,0.20874101609105816,2669,0.6020981641064069,2669,ok
+utter-project_EuroLLM-1.7B,maritaca-ai_sabia-7b,EuroLLM 1.7B,Sabiá 7B,0.48624936034628896,2669,0.7411015361558636,2669,ok
+utter-project_EuroLLM-1.7B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 1.7B,Bode 13B,0.5113514253485951,2669,0.7534657174971899,2669,ok
+utter-project_EuroLLM-1.7B,hfl_chinese-llama-2-13b,EuroLLM 1.7B,Chinese-LLaMA-2 13B,0.5450747846769091,2669,0.7714499812663919,2669,ok
+utter-project_EuroLLM-1.7B,tokyotech-llm_Swallow-13b-hf,EuroLLM 1.7B,Swallow 13B,0.4467102758803123,2669,0.7231172723866617,2669,ok
+utter-project_EuroLLM-1.7B,llm-jp_llm-jp-3-13b,EuroLLM 1.7B,LLM-jp-3 13B,0.478525860740754,2669,0.7377294866991383,2669,ok
+utter-project_EuroLLM-1.7B,llm-jp_llm-jp-3-172b,EuroLLM 1.7B,LLM-jp-3 172B,0.5189588791043361,2669,0.7598351442487823,2669,ok
+utter-project_EuroLLM-1.7B,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 1.7B,Kolibri,0.24176411172566334,2669,0.618209067066317,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,utter-project_EuroLLM-9B,EuroLLM 1.7B IT,EuroLLM 9B,0.6790162831068937,2668,0.841079460269865,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,utter-project_EuroLLM-9B-Instruct,EuroLLM 1.7B IT,EuroLLM 9B IT,0.6731543726934444,2668,0.8380809595202399,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,utter-project_EuroLLM-22B-2512,EuroLLM 1.7B IT,EuroLLM 22B,0.6764438452284228,2668,0.8403298350824587,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 1.7B IT,EuroLLM 22B IT,0.6549713699089795,2668,0.8298350824587706,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-E2B,EuroLLM 1.7B IT,Gemma 4 E2B,0.6216429988335384,2668,0.8137181409295352,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-E2B-it,EuroLLM 1.7B IT,Gemma 4 E2B IT,0.1460403962247872,2668,0.5689655172413793,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-E4B,EuroLLM 1.7B IT,Gemma 4 E4B,0.5914337679227418,2668,0.7991004497751124,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-E4B-it,EuroLLM 1.7B IT,Gemma 4 E4B IT,0.22165993646362323,2668,0.6064467766116941,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-12B,EuroLLM 1.7B IT,Gemma 4 12B,0.5326206875987716,2668,0.7709895052473763,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-12B-it,EuroLLM 1.7B IT,Gemma 4 12B IT,-0.003730526656394322,2668,0.4910044977511244,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-26B-A4B,EuroLLM 1.7B IT,Gemma 4 26B-A4B,0.5921626319948279,2668,0.800599700149925,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-26B-A4B-it,EuroLLM 1.7B IT,Gemma 4 26B-A4B IT,0.17401292321030232,2668,0.5888305847076462,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-31B,EuroLLM 1.7B IT,Gemma 4 31B,0.5791240479811206,2668,0.7938530734632684,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,google_gemma-4-31B-it,EuroLLM 1.7B IT,Gemma 4 31B IT,0.13639472020437934,2668,0.5674662668665668,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,swiss-ai_Apertus-8B-2509,EuroLLM 1.7B IT,Apertus 8B,0.5865119064373334,2668,0.7961019490254873,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,swiss-ai_Apertus-70B-2509,EuroLLM 1.7B IT,Apertus 70B,0.5930808719589317,2668,0.8002248875562219,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 1.7B IT,Apertus IT 8B,0.5898237612568138,2668,0.795727136431784,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 1.7B IT,Apertus IT 70B,0.599403508292078,2668,0.8024737631184408,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,openai_gpt-oss-120b,EuroLLM 1.7B IT,GPT-OSS 120B,0.5883634527124426,2668,0.795727136431784,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 1.7B IT,Claire 7B,0.5205771561994611,2668,0.7578710644677661,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,OpenLLM-France_Lucie-7B,EuroLLM 1.7B IT,Lucie 7B,0.4682572959749005,2668,0.7327586206896551,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,AIInstituteLNCC_manaca-1b-base,EuroLLM 1.7B IT,Manacá 1B,0.2204149939777628,2668,0.6068215892053973,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 1.7B IT,Manacá Instruct 1B,0.2161833839822746,2668,0.6056971514242878,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,maritaca-ai_sabia-7b,EuroLLM 1.7B IT,Sabiá 7B,0.48412728927166243,2668,0.739880059970015,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 1.7B IT,Bode 13B,0.5025482588521175,2668,0.7488755622188905,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,hfl_chinese-llama-2-13b,EuroLLM 1.7B IT,Chinese-LLaMA-2 13B,0.5428355153332596,2668,0.77023988005997,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,tokyotech-llm_Swallow-13b-hf,EuroLLM 1.7B IT,Swallow 13B,0.45329679737758516,2668,0.7263868065967016,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,llm-jp_llm-jp-3-13b,EuroLLM 1.7B IT,LLM-jp-3 13B,0.4703694727895904,2668,0.7335082458770614,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,llm-jp_llm-jp-3-172b,EuroLLM 1.7B IT,LLM-jp-3 172B,0.5277208987129883,2668,0.7642428785607196,2669,ok
+utter-project_EuroLLM-1.7B-Instruct,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 1.7B IT,Kolibri,0.21881666368292202,2668,0.6064467766116941,2669,ok
+utter-project_EuroLLM-9B,utter-project_EuroLLM-9B-Instruct,EuroLLM 9B,EuroLLM 9B IT,0.8426791294914854,2669,0.9220681903334582,2669,ok
+utter-project_EuroLLM-9B,utter-project_EuroLLM-22B-2512,EuroLLM 9B,EuroLLM 22B,0.7539817832562544,2669,0.8786062195578869,2669,ok
+utter-project_EuroLLM-9B,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 9B,EuroLLM 22B IT,0.7052077948400292,2669,0.854627201198951,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-E2B,EuroLLM 9B,Gemma 4 E2B,0.6331248460015149,2669,0.8194080179842638,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-E2B-it,EuroLLM 9B,Gemma 4 E2B IT,0.16051746563313707,2669,0.5762457849381791,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-E4B,EuroLLM 9B,Gemma 4 E4B,0.6471333854746243,2669,0.8265267890595729,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-E4B-it,EuroLLM 9B,Gemma 4 E4B IT,0.23461152692262743,2669,0.6129636568002997,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-12B,EuroLLM 9B,Gemma 4 12B,0.5655645627195114,2669,0.7871862120644436,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-12B-it,EuroLLM 9B,Gemma 4 12B IT,-0.004644818876419918,2669,0.49044585987261147,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-26B-A4B,EuroLLM 9B,Gemma 4 26B-A4B,0.6297615399483555,2669,0.8190333458224054,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-26B-A4B-it,EuroLLM 9B,Gemma 4 26B-A4B IT,0.19087296070262566,2669,0.597227426002248,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-31B,EuroLLM 9B,Gemma 4 31B,0.6518605498527481,2669,0.8295241663544398,2669,ok
+utter-project_EuroLLM-9B,google_gemma-4-31B-it,EuroLLM 9B,Gemma 4 31B IT,0.12928558456146977,2669,0.5638816035968528,2669,ok
+utter-project_EuroLLM-9B,swiss-ai_Apertus-8B-2509,EuroLLM 9B,Apertus 8B,0.6375058974805052,2669,0.8212813787935557,2669,ok
+utter-project_EuroLLM-9B,swiss-ai_Apertus-70B-2509,EuroLLM 9B,Apertus 70B,0.6442817273938368,2669,0.8254027725739977,2669,ok
+utter-project_EuroLLM-9B,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 9B,Apertus IT 8B,0.616278460073441,2669,0.8089171974522293,2669,ok
+utter-project_EuroLLM-9B,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 9B,Apertus IT 70B,0.6610386385665813,2669,0.8328962158111652,2669,ok
+utter-project_EuroLLM-9B,openai_gpt-oss-120b,EuroLLM 9B,GPT-OSS 120B,0.5975603718708653,2669,0.8002997377294867,2669,ok
+utter-project_EuroLLM-9B,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 9B,Claire 7B,0.5319174541746376,2669,0.7635818658673661,2669,ok
+utter-project_EuroLLM-9B,OpenLLM-France_Lucie-7B,EuroLLM 9B,Lucie 7B,0.4602656054218231,2669,0.7287373548145373,2669,ok
+utter-project_EuroLLM-9B,AIInstituteLNCC_manaca-1b-base,EuroLLM 9B,Manacá 1B,0.2638897044765047,2669,0.6286998875983515,2669,ok
+utter-project_EuroLLM-9B,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 9B,Manacá Instruct 1B,0.23591956043514511,2669,0.6155863619333084,2669,ok
+utter-project_EuroLLM-9B,maritaca-ai_sabia-7b,EuroLLM 9B,Sabiá 7B,0.4984651138059581,2669,0.7470962907455976,2669,ok
+utter-project_EuroLLM-9B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 9B,Bode 13B,0.5295187603499723,2669,0.762457849381791,2669,ok
+utter-project_EuroLLM-9B,hfl_chinese-llama-2-13b,EuroLLM 9B,Chinese-LLaMA-2 13B,0.5467423868735751,2669,0.7721993255901086,2669,ok
+utter-project_EuroLLM-9B,tokyotech-llm_Swallow-13b-hf,EuroLLM 9B,Swallow 13B,0.4707058132845342,2669,0.7351067815661296,2669,ok
+utter-project_EuroLLM-9B,llm-jp_llm-jp-3-13b,EuroLLM 9B,LLM-jp-3 13B,0.45494719116357996,2669,0.7257399775196703,2669,ok
+utter-project_EuroLLM-9B,llm-jp_llm-jp-3-172b,EuroLLM 9B,LLM-jp-3 172B,0.5113952627089975,2669,0.7560884226301986,2669,ok
+utter-project_EuroLLM-9B,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 9B,Kolibri,0.23327313919446477,2669,0.6137130011240165,2669,ok
+utter-project_EuroLLM-9B-Instruct,utter-project_EuroLLM-22B-2512,EuroLLM 9B IT,EuroLLM 22B,0.7071395109260475,2669,0.8553765455226676,2669,ok
+utter-project_EuroLLM-9B-Instruct,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 9B IT,EuroLLM 22B IT,0.6948274096659688,2669,0.8493817909329336,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-E2B,EuroLLM 9B IT,Gemma 4 E2B,0.6349944043415928,2669,0.8201573623079805,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-E2B-it,EuroLLM 9B IT,Gemma 4 E2B IT,0.1734053058940497,2669,0.5829898838516299,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-E4B,EuroLLM 9B IT,Gemma 4 E4B,0.6383603978855733,2669,0.8220307231172724,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-E4B-it,EuroLLM 9B IT,Gemma 4 E4B IT,0.2518872822663111,2669,0.6219557886849008,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-12B,EuroLLM 9B IT,Gemma 4 12B,0.5523565454124985,2669,0.7804421131509929,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-12B-it,EuroLLM 9B IT,Gemma 4 12B IT,-0.008463801003999629,2669,0.48894717122517795,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-26B-A4B,EuroLLM 9B IT,Gemma 4 26B-A4B,0.6103713331805627,2669,0.8092918696140877,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-26B-A4B-it,EuroLLM 9B IT,Gemma 4 26B-A4B IT,0.18507033477917034,2669,0.594230048707381,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-31B,EuroLLM 9B IT,Gemma 4 31B,0.621736355689881,2669,0.8145372798801049,2669,ok
+utter-project_EuroLLM-9B-Instruct,google_gemma-4-31B-it,EuroLLM 9B IT,Gemma 4 31B IT,0.12470512653771461,2669,0.5616335706257025,2669,ok
+utter-project_EuroLLM-9B-Instruct,swiss-ai_Apertus-8B-2509,EuroLLM 9B IT,Apertus 8B,0.5968132279857177,2669,0.8010490820532035,2669,ok
+utter-project_EuroLLM-9B-Instruct,swiss-ai_Apertus-70B-2509,EuroLLM 9B IT,Apertus 70B,0.6218080094800541,2669,0.8141626077182466,2669,ok
+utter-project_EuroLLM-9B-Instruct,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 9B IT,Apertus IT 8B,0.6193816036818565,2669,0.8104158860996628,2669,ok
+utter-project_EuroLLM-9B-Instruct,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 9B IT,Apertus IT 70B,0.6385489654732899,2669,0.821656050955414,2669,ok
+utter-project_EuroLLM-9B-Instruct,openai_gpt-oss-120b,EuroLLM 9B IT,GPT-OSS 120B,0.6022733731334337,2669,0.802547770700637,2669,ok
+utter-project_EuroLLM-9B-Instruct,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 9B IT,Claire 7B,0.5479628975053735,2669,0.7718246534282502,2669,ok
+utter-project_EuroLLM-9B-Instruct,OpenLLM-France_Lucie-7B,EuroLLM 9B IT,Lucie 7B,0.46904656663740396,2669,0.7332334207568377,2669,ok
+utter-project_EuroLLM-9B-Instruct,AIInstituteLNCC_manaca-1b-base,EuroLLM 9B IT,Manacá 1B,0.24417820129663817,2669,0.6189584113900337,2669,ok
+utter-project_EuroLLM-9B-Instruct,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 9B IT,Manacá Instruct 1B,0.2222247033695345,2669,0.6088422630198577,2669,ok
+utter-project_EuroLLM-9B-Instruct,maritaca-ai_sabia-7b,EuroLLM 9B IT,Sabiá 7B,0.4982091980845007,2669,0.7470962907455976,2669,ok
+utter-project_EuroLLM-9B-Instruct,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 9B IT,Bode 13B,0.5366685547237965,2669,0.7662045710003746,2669,ok
+utter-project_EuroLLM-9B-Instruct,hfl_chinese-llama-2-13b,EuroLLM 9B IT,Chinese-LLaMA-2 13B,0.5287042557792688,2669,0.7632071937055077,2669,ok
+utter-project_EuroLLM-9B-Instruct,tokyotech-llm_Swallow-13b-hf,EuroLLM 9B IT,Swallow 13B,0.4676813581782117,2669,0.7336080929186961,2669,ok
+utter-project_EuroLLM-9B-Instruct,llm-jp_llm-jp-3-13b,EuroLLM 9B IT,LLM-jp-3 13B,0.44133103735065193,2669,0.7189958786062196,2669,ok
+utter-project_EuroLLM-9B-Instruct,llm-jp_llm-jp-3-172b,EuroLLM 9B IT,LLM-jp-3 172B,0.5054387451225625,2669,0.7530910453353316,2669,ok
+utter-project_EuroLLM-9B-Instruct,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 9B IT,Kolibri,0.2656591874173995,2669,0.6301985762457849,2669,ok
+utter-project_EuroLLM-22B-2512,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 22B,EuroLLM 22B IT,0.8519194932752815,2669,0.9273136005994754,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-E2B,EuroLLM 22B,Gemma 4 E2B,0.6403769300896168,2669,0.8239040839265642,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-E2B-it,EuroLLM 22B,Gemma 4 E2B IT,0.15870962626634222,2669,0.5739977519670288,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-E4B,EuroLLM 22B,Gemma 4 E4B,0.6420565973202411,2669,0.8250281004121394,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-E4B-it,EuroLLM 22B,Gemma 4 E4B IT,0.24335790362519458,2669,0.6159610340951668,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-12B,EuroLLM 22B,Gemma 4 12B,0.5718002255317135,2669,0.7916822780067441,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-12B-it,EuroLLM 22B,Gemma 4 12B IT,-0.010225653056153498,2669,0.48520044960659425,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-26B-A4B,EuroLLM 22B,Gemma 4 26B-A4B,0.6377326066150732,2669,0.8242787560884226,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-26B-A4B-it,EuroLLM 22B,Gemma 4 26B-A4B IT,0.17007792357440196,2669,0.5874859497939303,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-31B,EuroLLM 22B,Gemma 4 31B,0.650947233735673,2669,0.8302735106781566,2669,ok
+utter-project_EuroLLM-22B-2512,google_gemma-4-31B-it,EuroLLM 22B,Gemma 4 31B IT,0.14025639790301395,2669,0.56912701386287,2669,ok
+utter-project_EuroLLM-22B-2512,swiss-ai_Apertus-8B-2509,EuroLLM 22B,Apertus 8B,0.64037603920136,2669,0.8235294117647058,2669,ok
+utter-project_EuroLLM-22B-2512,swiss-ai_Apertus-70B-2509,EuroLLM 22B,Apertus 70B,0.6589594810125344,2669,0.833645560134882,2669,ok
+utter-project_EuroLLM-22B-2512,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 22B,Apertus IT 8B,0.6052111732196823,2669,0.803671787186212,2669,ok
+utter-project_EuroLLM-22B-2512,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 22B,Apertus IT 70B,0.6624844073654457,2669,0.8343949044585988,2669,ok
+utter-project_EuroLLM-22B-2512,openai_gpt-oss-120b,EuroLLM 22B,GPT-OSS 120B,0.5829156446019811,2669,0.793555638816036,2669,ok
+utter-project_EuroLLM-22B-2512,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 22B,Claire 7B,0.524602870110929,2669,0.7590857999250655,2669,ok
+utter-project_EuroLLM-22B-2512,OpenLLM-France_Lucie-7B,EuroLLM 22B,Lucie 7B,0.4418363813096122,2669,0.7189958786062196,2669,ok
+utter-project_EuroLLM-22B-2512,AIInstituteLNCC_manaca-1b-base,EuroLLM 22B,Manacá 1B,0.2526882063574566,2669,0.6219557886849008,2669,ok
+utter-project_EuroLLM-22B-2512,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 22B,Manacá Instruct 1B,0.2255918263693817,2669,0.6095916073435744,2669,ok
+utter-project_EuroLLM-22B-2512,maritaca-ai_sabia-7b,EuroLLM 22B,Sabiá 7B,0.4998679972983169,2669,0.7470962907455976,2669,ok
+utter-project_EuroLLM-22B-2512,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 22B,Bode 13B,0.5147541710548195,2669,0.7542150618209067,2669,ok
+utter-project_EuroLLM-22B-2512,hfl_chinese-llama-2-13b,EuroLLM 22B,Chinese-LLaMA-2 13B,0.5103044518689663,2669,0.7534657174971899,2669,ok
+utter-project_EuroLLM-22B-2512,tokyotech-llm_Swallow-13b-hf,EuroLLM 22B,Swallow 13B,0.44242922354454733,2669,0.7208692394155114,2669,ok
+utter-project_EuroLLM-22B-2512,llm-jp_llm-jp-3-13b,EuroLLM 22B,LLM-jp-3 13B,0.4233947909248483,2669,0.7092544023979018,2669,ok
+utter-project_EuroLLM-22B-2512,llm-jp_llm-jp-3-172b,EuroLLM 22B,LLM-jp-3 172B,0.48109738615623077,2669,0.7411015361558636,2669,ok
+utter-project_EuroLLM-22B-2512,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 22B,Kolibri,0.24706424162783214,2669,0.6197077557137505,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-E2B,EuroLLM 22B IT,Gemma 4 E2B,0.6231831324443793,2669,0.8156612963656801,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-E2B-it,EuroLLM 22B IT,Gemma 4 E2B IT,0.15770987286091612,2669,0.5732484076433121,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-E4B,EuroLLM 22B IT,Gemma 4 E4B,0.6278744921405944,2669,0.8182840014986886,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-E4B-it,EuroLLM 22B IT,Gemma 4 E4B IT,0.2659988673466089,2669,0.627201198950918,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-12B,EuroLLM 22B IT,Gemma 4 12B,0.5758875173782253,2669,0.7939303109778943,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-12B-it,EuroLLM 22B IT,Gemma 4 12B IT,-0.003487851695841309,2669,0.48819782690146124,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-26B-A4B,EuroLLM 22B IT,Gemma 4 26B-A4B,0.6186620188742185,2669,0.8152866242038217,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-26B-A4B-it,EuroLLM 22B IT,Gemma 4 26B-A4B IT,0.19398247088486004,2669,0.5994754589733983,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-31B,EuroLLM 22B IT,Gemma 4 31B,0.6258104407635697,2669,0.8182840014986886,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,google_gemma-4-31B-it,EuroLLM 22B IT,Gemma 4 31B IT,0.14483208288474392,2669,0.5713750468340202,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,swiss-ai_Apertus-8B-2509,EuroLLM 22B IT,Apertus 8B,0.5942158161572219,2669,0.8010490820532035,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,swiss-ai_Apertus-70B-2509,EuroLLM 22B IT,Apertus 70B,0.6262746980398303,2669,0.8179093293368302,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,swiss-ai_Apertus-8B-Instruct-2509,EuroLLM 22B IT,Apertus IT 8B,0.6111427659832791,2669,0.8066691644810791,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,swiss-ai_Apertus-70B-Instruct-2509,EuroLLM 22B IT,Apertus IT 70B,0.6560787624161565,2669,0.8313975271637317,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,openai_gpt-oss-120b,EuroLLM 22B IT,GPT-OSS 120B,0.5494019141810621,2669,0.7770700636942676,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,OpenLLM-France_Claire-Mistral-7B-0.1,EuroLLM 22B IT,Claire 7B,0.5278458889708039,2669,0.760584488572499,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,OpenLLM-France_Lucie-7B,EuroLLM 22B IT,Lucie 7B,0.430105596603247,2669,0.7130011240164855,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,AIInstituteLNCC_manaca-1b-base,EuroLLM 22B IT,Manacá 1B,0.2634447804428061,2669,0.627201198950918,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,AIInstituteLNCC_manaca-1b-instruct,EuroLLM 22B IT,Manacá Instruct 1B,0.2422239987173605,2669,0.6178343949044586,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,maritaca-ai_sabia-7b,EuroLLM 22B IT,Sabiá 7B,0.46753759887192986,2669,0.7306107156238292,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,EuroLLM 22B IT,Bode 13B,0.5120798691744517,2669,0.7527163731734732,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,hfl_chinese-llama-2-13b,EuroLLM 22B IT,Chinese-LLaMA-2 13B,0.5000404189521959,2669,0.7482203072311727,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,tokyotech-llm_Swallow-13b-hf,EuroLLM 22B IT,Swallow 13B,0.44545399231099886,2669,0.7223679280629449,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,llm-jp_llm-jp-3-13b,EuroLLM 22B IT,LLM-jp-3 13B,0.4369840788349525,2669,0.7159985013113526,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,llm-jp_llm-jp-3-172b,EuroLLM 22B IT,LLM-jp-3 172B,0.47203495254579053,2669,0.7366054702135632,2669,ok
+utter-project_EuroLLM-22B-Instruct-2512,Aleph-Alpha_Kolibri-1-BF16,EuroLLM 22B IT,Kolibri,0.2637196379711874,2669,0.6279505432746347,2669,ok
+google_gemma-4-E2B,google_gemma-4-E2B-it,Gemma 4 E2B,Gemma 4 E2B IT,0.16062333955216138,2669,0.5739977519670288,2669,ok
+google_gemma-4-E2B,google_gemma-4-E4B,Gemma 4 E2B,Gemma 4 E4B,0.7483198745467878,2669,0.8774822030723117,2669,ok
+google_gemma-4-E2B,google_gemma-4-E4B-it,Gemma 4 E2B,Gemma 4 E4B IT,0.22478128457402866,2669,0.6054702135631322,2669,ok
+google_gemma-4-E2B,google_gemma-4-12B,Gemma 4 E2B,Gemma 4 12B,0.6563268165983595,2669,0.833645560134882,2669,ok
+google_gemma-4-E2B,google_gemma-4-12B-it,Gemma 4 E2B,Gemma 4 12B IT,0.03863916518186829,2669,0.5084301236418134,2669,ok
+google_gemma-4-E2B,google_gemma-4-26B-A4B,Gemma 4 E2B,Gemma 4 26B-A4B,0.7428914845658756,2669,0.8759835144248782,2669,ok
+google_gemma-4-E2B,google_gemma-4-26B-A4B-it,Gemma 4 E2B,Gemma 4 26B-A4B IT,0.1737120116122026,2669,0.5897339827650806,2669,ok
+google_gemma-4-E2B,google_gemma-4-31B,Gemma 4 E2B,Gemma 4 31B,0.7296970484869255,2669,0.8692394155114275,2669,ok
+google_gemma-4-E2B,google_gemma-4-31B-it,Gemma 4 E2B,Gemma 4 31B IT,0.1451021676680908,2669,0.5713750468340202,2669,ok
+google_gemma-4-E2B,swiss-ai_Apertus-8B-2509,Gemma 4 E2B,Apertus 8B,0.6176846721187004,2669,0.8130385912326714,2669,ok
+google_gemma-4-E2B,swiss-ai_Apertus-70B-2509,Gemma 4 E2B,Apertus 70B,0.6543175898166806,2669,0.8321468714874485,2669,ok
+google_gemma-4-E2B,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 E2B,Apertus IT 8B,0.5972805162057431,2669,0.7999250655676283,2669,ok
+google_gemma-4-E2B,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 E2B,Apertus IT 70B,0.6674454578235495,2669,0.8373922817534657,2669,ok
+google_gemma-4-E2B,openai_gpt-oss-120b,Gemma 4 E2B,GPT-OSS 120B,0.6018630725495849,2669,0.8032971150243536,2669,ok
+google_gemma-4-E2B,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 E2B,Claire 7B,0.4991984692849726,2669,0.7455976020981641,2669,ok
+google_gemma-4-E2B,OpenLLM-France_Lucie-7B,Gemma 4 E2B,Lucie 7B,0.44847416787857286,2669,0.7219932559010865,2669,ok
+google_gemma-4-E2B,AIInstituteLNCC_manaca-1b-base,Gemma 4 E2B,Manacá 1B,0.2187813175417001,2669,0.6039715249156987,2669,ok
+google_gemma-4-E2B,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 E2B,Manacá Instruct 1B,0.2222899404993605,2669,0.6073435743724241,2669,ok
+google_gemma-4-E2B,maritaca-ai_sabia-7b,Gemma 4 E2B,Sabiá 7B,0.4550385687653812,2669,0.7238666167103784,2669,ok
+google_gemma-4-E2B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 E2B,Bode 13B,0.4922679101126578,2669,0.7422255526414387,2669,ok
+google_gemma-4-E2B,hfl_chinese-llama-2-13b,Gemma 4 E2B,Chinese-LLaMA-2 13B,0.53023675754617,2669,0.7632071937055077,2669,ok
+google_gemma-4-E2B,tokyotech-llm_Swallow-13b-hf,Gemma 4 E2B,Swallow 13B,0.44554727188979626,2669,0.7223679280629449,2669,ok
+google_gemma-4-E2B,llm-jp_llm-jp-3-13b,Gemma 4 E2B,LLM-jp-3 13B,0.4480132227582215,2669,0.7212439115773698,2669,ok
+google_gemma-4-E2B,llm-jp_llm-jp-3-172b,Gemma 4 E2B,LLM-jp-3 172B,0.49742359227823574,2669,0.7493443237167479,2669,ok
+google_gemma-4-E2B,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 E2B,Kolibri,0.2365871989164724,2669,0.6137130011240165,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-E4B,Gemma 4 E2B IT,Gemma 4 E4B,0.17564605575989836,2669,0.581116523042338,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-E4B-it,Gemma 4 E2B IT,Gemma 4 E4B IT,0.2680796051085168,2669,0.6380666916448108,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-12B,Gemma 4 E2B IT,Gemma 4 12B,0.16736434392409524,2669,0.5754964406144624,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-12B-it,Gemma 4 E2B IT,Gemma 4 12B IT,0.02649790677868854,2669,0.520044960659423,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-26B-A4B,Gemma 4 E2B IT,Gemma 4 26B-A4B,0.16540258392763818,2669,0.5736230798051705,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-26B-A4B-it,Gemma 4 E2B IT,Gemma 4 26B-A4B IT,0.19416774389780242,2669,0.5953540651929562,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-31B,Gemma 4 E2B IT,Gemma 4 31B,0.16839347576090719,2669,0.5758711127763207,2669,ok
+google_gemma-4-E2B-it,google_gemma-4-31B-it,Gemma 4 E2B IT,Gemma 4 31B IT,0.17957550901485783,2669,0.5904833270887972,2669,ok
+google_gemma-4-E2B-it,swiss-ai_Apertus-8B-2509,Gemma 4 E2B IT,Apertus 8B,0.18820277631269877,2669,0.5886099662795055,2669,ok
+google_gemma-4-E2B-it,swiss-ai_Apertus-70B-2509,Gemma 4 E2B IT,Apertus 70B,0.18349957560154373,2669,0.5844885724990633,2669,ok
+google_gemma-4-E2B-it,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 E2B IT,Apertus IT 8B,0.2528444787119591,2669,0.6249531659797677,2669,ok
+google_gemma-4-E2B-it,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 E2B IT,Apertus IT 70B,0.1934355891945793,2669,0.591232671412514,2669,ok
+google_gemma-4-E2B-it,openai_gpt-oss-120b,Gemma 4 E2B IT,GPT-OSS 120B,0.1266658230825789,2669,0.560134881978269,2669,ok
+google_gemma-4-E2B-it,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 E2B IT,Claire 7B,0.1826580089035076,2669,0.5953540651929562,2669,ok
+google_gemma-4-E2B-it,OpenLLM-France_Lucie-7B,Gemma 4 E2B IT,Lucie 7B,0.1632825129468253,2669,0.5837392281753466,2669,ok
+google_gemma-4-E2B-it,AIInstituteLNCC_manaca-1b-base,Gemma 4 E2B IT,Manacá 1B,0.13838031379714014,2669,0.5728737354814537,2669,ok
+google_gemma-4-E2B-it,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 E2B IT,Manacá Instruct 1B,0.09910570256199912,2669,0.5522667665792431,2669,ok
+google_gemma-4-E2B-it,maritaca-ai_sabia-7b,Gemma 4 E2B IT,Sabiá 7B,0.21267857072082827,2669,0.6095916073435744,2669,ok
+google_gemma-4-E2B-it,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 E2B IT,Bode 13B,0.22002531189900196,2669,0.6137130011240165,2669,ok
+google_gemma-4-E2B-it,hfl_chinese-llama-2-13b,Gemma 4 E2B IT,Chinese-LLaMA-2 13B,0.20997601807490518,2669,0.6069689022105658,2669,ok
+google_gemma-4-E2B-it,tokyotech-llm_Swallow-13b-hf,Gemma 4 E2B IT,Swallow 13B,0.13897612747599594,2669,0.5698763581865868,2669,ok
+google_gemma-4-E2B-it,llm-jp_llm-jp-3-13b,Gemma 4 E2B IT,LLM-jp-3 13B,0.14270665039082633,2669,0.5739977519670288,2669,ok
+google_gemma-4-E2B-it,llm-jp_llm-jp-3-172b,Gemma 4 E2B IT,LLM-jp-3 172B,0.10966146442161119,2669,0.554140127388535,2669,ok
+google_gemma-4-E2B-it,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 E2B IT,Kolibri,0.1907175292000594,2669,0.5983514424878231,2669,ok
+google_gemma-4-E4B,google_gemma-4-E4B-it,Gemma 4 E4B,Gemma 4 E4B IT,0.26191070353372675,2669,0.6238291494941925,2669,ok
+google_gemma-4-E4B,google_gemma-4-12B,Gemma 4 E4B,Gemma 4 12B,0.6980877220888295,2669,0.8542525290370926,2669,ok
+google_gemma-4-E4B,google_gemma-4-12B-it,Gemma 4 E4B,Gemma 4 12B IT,0.019161156783589407,2669,0.4975646309479206,2669,ok
+google_gemma-4-E4B,google_gemma-4-26B-A4B,Gemma 4 E4B,Gemma 4 26B-A4B,0.7444594028146385,2669,0.8771075309104533,2669,ok
+google_gemma-4-E4B,google_gemma-4-26B-A4B-it,Gemma 4 E4B,Gemma 4 26B-A4B IT,0.18758476084217404,2669,0.5968527538403896,2669,ok
+google_gemma-4-E4B,google_gemma-4-31B,Gemma 4 E4B,Gemma 4 31B,0.7530305869590772,2669,0.880854252529037,2669,ok
+google_gemma-4-E4B,google_gemma-4-31B-it,Gemma 4 E4B,Gemma 4 31B IT,0.16994837333888715,2669,0.5837392281753466,2669,ok
+google_gemma-4-E4B,swiss-ai_Apertus-8B-2509,Gemma 4 E4B,Apertus 8B,0.6438486169115655,2669,0.8261521168977145,2669,ok
+google_gemma-4-E4B,swiss-ai_Apertus-70B-2509,Gemma 4 E4B,Apertus 70B,0.6542514669149707,2669,0.8325215436493069,2669,ok
+google_gemma-4-E4B,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 E4B,Apertus IT 8B,0.6083878185039527,2669,0.8055451479955039,2669,ok
+google_gemma-4-E4B,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 E4B,Apertus IT 70B,0.6660647664913985,2669,0.8370176095916073,2669,ok
+google_gemma-4-E4B,openai_gpt-oss-120b,Gemma 4 E4B,GPT-OSS 120B,0.6022313967788432,2669,0.803671787186212,2669,ok
+google_gemma-4-E4B,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 E4B,Claire 7B,0.5035229906533801,2669,0.747470962907456,2669,ok
+google_gemma-4-E4B,OpenLLM-France_Lucie-7B,Gemma 4 E4B,Lucie 7B,0.4599789876500261,2669,0.7276133383289621,2669,ok
+google_gemma-4-E4B,AIInstituteLNCC_manaca-1b-base,Gemma 4 E4B,Manacá 1B,0.2262963512081133,2669,0.6073435743724241,2669,ok
+google_gemma-4-E4B,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 E4B,Manacá Instruct 1B,0.20881476252271533,2669,0.600224803297115,2669,ok
+google_gemma-4-E4B,maritaca-ai_sabia-7b,Gemma 4 E4B,Sabiá 7B,0.45193251822373265,2669,0.7219932559010865,2669,ok
+google_gemma-4-E4B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 E4B,Bode 13B,0.4951060275547095,2669,0.7433495691270139,2669,ok
+google_gemma-4-E4B,hfl_chinese-llama-2-13b,Gemma 4 E4B,Chinese-LLaMA-2 13B,0.5208891981214124,2669,0.7583364556013488,2669,ok
+google_gemma-4-E4B,tokyotech-llm_Swallow-13b-hf,Gemma 4 E4B,Swallow 13B,0.4643173297886595,2669,0.7317347321094043,2669,ok
+google_gemma-4-E4B,llm-jp_llm-jp-3-13b,Gemma 4 E4B,LLM-jp-3 13B,0.45216550321205684,2669,0.7231172723866617,2669,ok
+google_gemma-4-E4B,llm-jp_llm-jp-3-172b,Gemma 4 E4B,LLM-jp-3 172B,0.4800381972948838,2669,0.7407268639940052,2669,ok
+google_gemma-4-E4B,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 E4B,Kolibri,0.24694124846729826,2669,0.6185837392281753,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-12B,Gemma 4 E4B IT,Gemma 4 12B,0.23186195040567728,2669,0.6069689022105658,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-12B-it,Gemma 4 E4B IT,Gemma 4 12B IT,0.0178207889029318,2669,0.517047583364556,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-26B-A4B,Gemma 4 E4B IT,Gemma 4 26B-A4B,0.24613970678795258,2669,0.6133383289621581,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-26B-A4B-it,Gemma 4 E4B IT,Gemma 4 26B-A4B IT,0.24103445655890288,2669,0.6185837392281753,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-31B,Gemma 4 E4B IT,Gemma 4 31B,0.22998734648633265,2669,0.6058448857249906,2669,ok
+google_gemma-4-E4B-it,google_gemma-4-31B-it,Gemma 4 E4B IT,Gemma 4 31B IT,0.17330831795191204,2669,0.5874859497939303,2669,ok
+google_gemma-4-E4B-it,swiss-ai_Apertus-8B-2509,Gemma 4 E4B IT,Apertus 8B,0.2477468714838042,2669,0.6178343949044586,2669,ok
+google_gemma-4-E4B-it,swiss-ai_Apertus-70B-2509,Gemma 4 E4B IT,Apertus 70B,0.2522027306849149,2669,0.618209067066317,2669,ok
+google_gemma-4-E4B-it,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 E4B IT,Apertus IT 8B,0.33841912160256976,2669,0.6676657924316224,2669,ok
+google_gemma-4-E4B-it,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 E4B IT,Apertus IT 70B,0.2618216420811583,2669,0.6249531659797677,2669,ok
+google_gemma-4-E4B-it,openai_gpt-oss-120b,Gemma 4 E4B IT,GPT-OSS 120B,0.19619577046809433,2669,0.5946047208692394,2669,ok
+google_gemma-4-E4B-it,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 E4B IT,Claire 7B,0.290318475245927,2669,0.649306856500562,2669,ok
+google_gemma-4-E4B-it,OpenLLM-France_Lucie-7B,Gemma 4 E4B IT,Lucie 7B,0.24843083752026168,2669,0.6264518546272012,2669,ok
+google_gemma-4-E4B-it,AIInstituteLNCC_manaca-1b-base,Gemma 4 E4B IT,Manacá 1B,0.15667291990839688,2669,0.5826152116897715,2669,ok
+google_gemma-4-E4B-it,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 E4B IT,Manacá Instruct 1B,0.13582168772956463,2669,0.5710003746721618,2669,ok
+google_gemma-4-E4B-it,maritaca-ai_sabia-7b,Gemma 4 E4B IT,Sabiá 7B,0.26442516256679444,2669,0.6358186586736605,2669,ok
+google_gemma-4-E4B-it,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 E4B IT,Bode 13B,0.3019939670719002,2669,0.6549269389284376,2669,ok
+google_gemma-4-E4B-it,hfl_chinese-llama-2-13b,Gemma 4 E4B IT,Chinese-LLaMA-2 13B,0.2333542244314003,2669,0.6189584113900337,2669,ok
+google_gemma-4-E4B-it,tokyotech-llm_Swallow-13b-hf,Gemma 4 E4B IT,Swallow 13B,0.20634418297185345,2669,0.6035968527538403,2669,ok
+google_gemma-4-E4B-it,llm-jp_llm-jp-3-13b,Gemma 4 E4B IT,LLM-jp-3 13B,0.18096486045349403,2669,0.5934807043836643,2669,ok
+google_gemma-4-E4B-it,llm-jp_llm-jp-3-172b,Gemma 4 E4B IT,LLM-jp-3 172B,0.21014657243792484,2669,0.6043461970775571,2669,ok
+google_gemma-4-E4B-it,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 E4B IT,Kolibri,0.25006812031548925,2669,0.6283252154364931,2669,ok
+google_gemma-4-12B,google_gemma-4-12B-it,Gemma 4 12B,Gemma 4 12B IT,0.043676467139574675,2669,0.5076807793180966,2669,ok
+google_gemma-4-12B,google_gemma-4-26B-A4B,Gemma 4 12B,Gemma 4 26B-A4B,0.6724105604682081,2669,0.843761708505058,2669,ok
+google_gemma-4-12B,google_gemma-4-26B-A4B-it,Gemma 4 12B,Gemma 4 26B-A4B IT,0.1673915870699247,2669,0.5874859497939303,2669,ok
+google_gemma-4-12B,google_gemma-4-31B,Gemma 4 12B,Gemma 4 31B,0.6830578004734145,2669,0.8482577744473586,2669,ok
+google_gemma-4-12B,google_gemma-4-31B-it,Gemma 4 12B,Gemma 4 31B IT,0.16971466361997528,2669,0.5833645560134882,2669,ok
+google_gemma-4-12B,swiss-ai_Apertus-8B-2509,Gemma 4 12B,Apertus 8B,0.5672008239119458,2669,0.7898089171974523,2669,ok
+google_gemma-4-12B,swiss-ai_Apertus-70B-2509,Gemma 4 12B,Apertus 70B,0.6028549604690151,2669,0.8089171974522293,2669,ok
+google_gemma-4-12B,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 12B,Apertus IT 8B,0.5466125040273743,2669,0.7751967028849757,2669,ok
+google_gemma-4-12B,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 12B,Apertus IT 70B,0.6280890002104625,2669,0.8194080179842638,2669,ok
+google_gemma-4-12B,openai_gpt-oss-120b,Gemma 4 12B,GPT-OSS 120B,0.5349276464631166,2669,0.7710753091045335,2669,ok
+google_gemma-4-12B,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 12B,Claire 7B,0.43554363337497976,2669,0.7118771075309105,2669,ok
+google_gemma-4-12B,OpenLLM-France_Lucie-7B,Gemma 4 12B,Lucie 7B,0.3831058394991968,2669,0.6882727613338329,2669,ok
+google_gemma-4-12B,AIInstituteLNCC_manaca-1b-base,Gemma 4 12B,Manacá 1B,0.24560089544262406,2669,0.6159610340951668,2669,ok
+google_gemma-4-12B,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 12B,Manacá Instruct 1B,0.2364324667173788,2669,0.6133383289621581,2669,ok
+google_gemma-4-12B,maritaca-ai_sabia-7b,Gemma 4 12B,Sabiá 7B,0.42189315495382,2669,0.7058823529411765,2669,ok
+google_gemma-4-12B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 12B,Bode 13B,0.44613876406102426,2669,0.7174971899587861,2669,ok
+google_gemma-4-12B,hfl_chinese-llama-2-13b,Gemma 4 12B,Chinese-LLaMA-2 13B,0.4720809588021972,2669,0.7332334207568377,2669,ok
+google_gemma-4-12B,tokyotech-llm_Swallow-13b-hf,Gemma 4 12B,Swallow 13B,0.42036679442009783,2669,0.7096290745597602,2669,ok
+google_gemma-4-12B,llm-jp_llm-jp-3-13b,Gemma 4 12B,LLM-jp-3 13B,0.45412537156583926,2669,0.7234919445485201,2669,ok
+google_gemma-4-12B,llm-jp_llm-jp-3-172b,Gemma 4 12B,LLM-jp-3 172B,0.4699685611213097,2669,0.7358561258898464,2669,ok
+google_gemma-4-12B,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 12B,Kolibri,0.1759073518310126,2669,0.5814911952041963,2669,ok
+google_gemma-4-12B-it,google_gemma-4-26B-A4B,Gemma 4 12B IT,Gemma 4 26B-A4B,0.0182967822684541,2669,0.4930685650056201,2669,ok
+google_gemma-4-12B-it,google_gemma-4-26B-A4B-it,Gemma 4 12B IT,Gemma 4 26B-A4B IT,-0.011817651549999756,2669,0.49082053203446985,2669,ok
+google_gemma-4-12B-it,google_gemma-4-31B,Gemma 4 12B IT,Gemma 4 31B,0.018721384900630175,2669,0.4945672536530536,2669,ok
+google_gemma-4-12B-it,google_gemma-4-31B-it,Gemma 4 12B IT,Gemma 4 31B IT,0.05040411677249259,2669,0.5264143874110153,2669,ok
+google_gemma-4-12B-it,swiss-ai_Apertus-8B-2509,Gemma 4 12B IT,Apertus 8B,-0.040620821975251145,2669,0.4690895466466842,2669,ok
+google_gemma-4-12B-it,swiss-ai_Apertus-70B-2509,Gemma 4 12B IT,Apertus 70B,-0.014419322449890479,2669,0.4792056950168602,2669,ok
+google_gemma-4-12B-it,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 12B IT,Apertus IT 8B,-0.038436762463185954,2669,0.47770700636942676,2669,ok
+google_gemma-4-12B-it,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 12B IT,Apertus IT 70B,0.0013453544004643882,2669,0.49044585987261147,2669,ok
+google_gemma-4-12B-it,openai_gpt-oss-120b,Gemma 4 12B IT,GPT-OSS 120B,-0.03393277703432414,2669,0.4773323342075684,2669,ok
+google_gemma-4-12B-it,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 12B IT,Claire 7B,-0.04281730600705939,2669,0.48632446609216934,2669,ok
+google_gemma-4-12B-it,OpenLLM-France_Lucie-7B,Gemma 4 12B IT,Lucie 7B,-0.08726622995266607,2669,0.46047208692394154,2669,ok
+google_gemma-4-12B-it,AIInstituteLNCC_manaca-1b-base,Gemma 4 12B IT,Manacá 1B,-0.04682414650386055,2669,0.48332708879730235,2669,ok
+google_gemma-4-12B-it,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 12B IT,Manacá Instruct 1B,-0.04356296391578814,2669,0.48295241663544397,2669,ok
+google_gemma-4-12B-it,maritaca-ai_sabia-7b,Gemma 4 12B IT,Sabiá 7B,-0.006906670677126222,2669,0.5028100412139378,2669,ok
+google_gemma-4-12B-it,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 12B IT,Bode 13B,-0.043002771377058206,2669,0.48594979393031096,2669,ok
+google_gemma-4-12B-it,hfl_chinese-llama-2-13b,Gemma 4 12B IT,Chinese-LLaMA-2 13B,-0.023842366538760585,2669,0.49194454852004493,2669,ok
+google_gemma-4-12B-it,tokyotech-llm_Swallow-13b-hf,Gemma 4 12B IT,Swallow 13B,-0.06926790786357825,2669,0.4660921693518172,2669,ok
+google_gemma-4-12B-it,llm-jp_llm-jp-3-13b,Gemma 4 12B IT,LLM-jp-3 13B,-0.0725339587586561,2669,0.4687148744848258,2669,ok
+google_gemma-4-12B-it,llm-jp_llm-jp-3-172b,Gemma 4 12B IT,LLM-jp-3 172B,-0.029442304293352036,2669,0.4840764331210191,2669,ok
+google_gemma-4-12B-it,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 12B IT,Kolibri,-0.06923287242629658,2669,0.4713375796178344,2669,ok
+google_gemma-4-26B-A4B,google_gemma-4-26B-A4B-it,Gemma 4 26B-A4B,Gemma 4 26B-A4B IT,0.1673336354782407,2669,0.5878606219557887,2669,ok
+google_gemma-4-26B-A4B,google_gemma-4-31B,Gemma 4 26B-A4B,Gemma 4 31B,0.784558196207454,2669,0.8973398276508056,2669,ok
+google_gemma-4-26B-A4B,google_gemma-4-31B-it,Gemma 4 26B-A4B,Gemma 4 31B IT,0.16928475809651758,2669,0.5829898838516299,2669,ok
+google_gemma-4-26B-A4B,swiss-ai_Apertus-8B-2509,Gemma 4 26B-A4B,Apertus 8B,0.6223315446493449,2669,0.8171599850131135,2669,ok
+google_gemma-4-26B-A4B,swiss-ai_Apertus-70B-2509,Gemma 4 26B-A4B,Apertus 70B,0.666095540735059,2669,0.8400149868864744,2669,ok
+google_gemma-4-26B-A4B,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 26B-A4B,Apertus IT 8B,0.5817535521521191,2669,0.7928062944923192,2669,ok
+google_gemma-4-26B-A4B,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 26B-A4B,Apertus IT 70B,0.6586456658203106,2669,0.8347695766204571,2669,ok
+google_gemma-4-26B-A4B,openai_gpt-oss-120b,Gemma 4 26B-A4B,GPT-OSS 120B,0.5684555913084018,2669,0.7879355563881604,2669,ok
+google_gemma-4-26B-A4B,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 26B-A4B,Claire 7B,0.47705298167718124,2669,0.732484076433121,2669,ok
+google_gemma-4-26B-A4B,OpenLLM-France_Lucie-7B,Gemma 4 26B-A4B,Lucie 7B,0.4423056484618957,2669,0.7178718621206445,2669,ok
+google_gemma-4-26B-A4B,AIInstituteLNCC_manaca-1b-base,Gemma 4 26B-A4B,Manacá 1B,0.23600889124736182,2669,0.6103409516672911,2669,ok
+google_gemma-4-26B-A4B,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 26B-A4B,Manacá Instruct 1B,0.22193934826837663,2669,0.6054702135631322,2669,ok
+google_gemma-4-26B-A4B,maritaca-ai_sabia-7b,Gemma 4 26B-A4B,Sabiá 7B,0.4442682983256694,2669,0.7167478456350693,2669,ok
+google_gemma-4-26B-A4B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 26B-A4B,Bode 13B,0.45682827187025804,2669,0.7223679280629449,2669,ok
+google_gemma-4-26B-A4B,hfl_chinese-llama-2-13b,Gemma 4 26B-A4B,Chinese-LLaMA-2 13B,0.49414974488642066,2669,0.7440989134507306,2669,ok
+google_gemma-4-26B-A4B,tokyotech-llm_Swallow-13b-hf,Gemma 4 26B-A4B,Swallow 13B,0.4212322914349464,2669,0.7100037467216186,2669,ok
+google_gemma-4-26B-A4B,llm-jp_llm-jp-3-13b,Gemma 4 26B-A4B,LLM-jp-3 13B,0.4186805714496047,2669,0.7051330086174598,2669,ok
+google_gemma-4-26B-A4B,llm-jp_llm-jp-3-172b,Gemma 4 26B-A4B,LLM-jp-3 172B,0.44646777967637663,2669,0.7242412888722368,2669,ok
+google_gemma-4-26B-A4B,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 26B-A4B,Kolibri,0.24428660211922548,2669,0.6155863619333084,2669,ok
+google_gemma-4-26B-A4B-it,google_gemma-4-31B,Gemma 4 26B-A4B IT,Gemma 4 31B,0.1634694133176601,2669,0.5856125889846384,2669,ok
+google_gemma-4-26B-A4B-it,google_gemma-4-31B-it,Gemma 4 26B-A4B IT,Gemma 4 31B IT,0.15315646148196546,2669,0.5762457849381791,2669,ok
+google_gemma-4-26B-A4B-it,swiss-ai_Apertus-8B-2509,Gemma 4 26B-A4B IT,Apertus 8B,0.1810820157153561,2669,0.5931060322218059,2669,ok
+google_gemma-4-26B-A4B-it,swiss-ai_Apertus-70B-2509,Gemma 4 26B-A4B IT,Apertus 70B,0.1832321900371046,2669,0.5949793930310978,2669,ok
+google_gemma-4-26B-A4B-it,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 26B-A4B IT,Apertus IT 8B,0.23352380041599924,2669,0.6174597227426002,2669,ok
+google_gemma-4-26B-A4B-it,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 26B-A4B IT,Apertus IT 70B,0.19689044510727827,2669,0.6009741476208318,2669,ok
+google_gemma-4-26B-A4B-it,openai_gpt-oss-120b,Gemma 4 26B-A4B IT,GPT-OSS 120B,0.16840512245816686,2669,0.5856125889846384,2669,ok
+google_gemma-4-26B-A4B-it,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 26B-A4B IT,Claire 7B,0.18990649587593592,2669,0.5931060322218059,2669,ok
+google_gemma-4-26B-A4B-it,OpenLLM-France_Lucie-7B,Gemma 4 26B-A4B IT,Lucie 7B,0.1664166702380443,2669,0.5822405395279131,2669,ok
+google_gemma-4-26B-A4B-it,AIInstituteLNCC_manaca-1b-base,Gemma 4 26B-A4B IT,Manacá 1B,0.14762343947591108,2669,0.572124391157737,2669,ok
+google_gemma-4-26B-A4B-it,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 26B-A4B IT,Manacá Instruct 1B,0.12495894831533404,2669,0.5612588984638441,2669,ok
+google_gemma-4-26B-A4B-it,maritaca-ai_sabia-7b,Gemma 4 26B-A4B IT,Sabiá 7B,0.2087220304491295,2669,0.6028475084301237,2669,ok
+google_gemma-4-26B-A4B-it,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 26B-A4B IT,Bode 13B,0.21588408882468388,2669,0.606219557886849,2669,ok
+google_gemma-4-26B-A4B-it,hfl_chinese-llama-2-13b,Gemma 4 26B-A4B IT,Chinese-LLaMA-2 13B,0.1948257882030258,2669,0.5964780816785313,2669,ok
+google_gemma-4-26B-A4B-it,tokyotech-llm_Swallow-13b-hf,Gemma 4 26B-A4B IT,Swallow 13B,0.18055953130665464,2669,0.590108654926939,2669,ok
+google_gemma-4-26B-A4B-it,llm-jp_llm-jp-3-13b,Gemma 4 26B-A4B IT,LLM-jp-3 13B,0.1758275230231063,2669,0.5867366054702136,2669,ok
+google_gemma-4-26B-A4B-it,llm-jp_llm-jp-3-172b,Gemma 4 26B-A4B IT,LLM-jp-3 172B,0.1601310623501428,2669,0.5803671787186212,2669,ok
+google_gemma-4-26B-A4B-it,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 26B-A4B IT,Kolibri,0.12775288488065678,2669,0.5623829149494193,2669,ok
+google_gemma-4-31B,google_gemma-4-31B-it,Gemma 4 31B,Gemma 4 31B IT,0.1496107639455155,2669,0.5732484076433121,2669,ok
+google_gemma-4-31B,swiss-ai_Apertus-8B-2509,Gemma 4 31B,Apertus 8B,0.6341211168753497,2669,0.8224053952791308,2669,ok
+google_gemma-4-31B,swiss-ai_Apertus-70B-2509,Gemma 4 31B,Apertus 70B,0.6766003702802913,2669,0.8445110528287748,2669,ok
+google_gemma-4-31B,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 31B,Apertus IT 8B,0.5820633702134456,2669,0.7928062944923192,2669,ok
+google_gemma-4-31B,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 31B,Apertus IT 70B,0.6595390497931397,2669,0.8347695766204571,2669,ok
+google_gemma-4-31B,openai_gpt-oss-120b,Gemma 4 31B,GPT-OSS 120B,0.5873286381655068,2669,0.7969276882727613,2669,ok
+google_gemma-4-31B,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 31B,Claire 7B,0.49078580072565553,2669,0.7399775196702885,2669,ok
+google_gemma-4-31B,OpenLLM-France_Lucie-7B,Gemma 4 31B,Lucie 7B,0.4388236375710938,2669,0.716373173473211,2669,ok
+google_gemma-4-31B,AIInstituteLNCC_manaca-1b-base,Gemma 4 31B,Manacá 1B,0.21273819119691864,2669,0.5991007868115399,2669,ok
+google_gemma-4-31B,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 31B,Manacá Instruct 1B,0.2003629033710879,2669,0.5949793930310978,2669,ok
+google_gemma-4-31B,maritaca-ai_sabia-7b,Gemma 4 31B,Sabiá 7B,0.46256724908753083,2669,0.726489321843387,2669,ok
+google_gemma-4-31B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 31B,Bode 13B,0.47497677290101176,2669,0.7321094042712627,2669,ok
+google_gemma-4-31B,hfl_chinese-llama-2-13b,Gemma 4 31B,Chinese-LLaMA-2 13B,0.5159205222376807,2669,0.7553390783064818,2669,ok
+google_gemma-4-31B,tokyotech-llm_Swallow-13b-hf,Gemma 4 31B,Swallow 13B,0.4360927369436308,2669,0.7174971899587861,2669,ok
+google_gemma-4-31B,llm-jp_llm-jp-3-13b,Gemma 4 31B,LLM-jp-3 13B,0.43872534690888615,2669,0.7156238291494942,2669,ok
+google_gemma-4-31B,llm-jp_llm-jp-3-172b,Gemma 4 31B,LLM-jp-3 172B,0.4691845960728459,2669,0.735481453727988,2669,ok
+google_gemma-4-31B,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 31B,Kolibri,0.24325912186473042,2669,0.6155863619333084,2669,ok
+google_gemma-4-31B-it,swiss-ai_Apertus-8B-2509,Gemma 4 31B IT,Apertus 8B,0.12468349094954256,2669,0.5612588984638441,2669,ok
+google_gemma-4-31B-it,swiss-ai_Apertus-70B-2509,Gemma 4 31B IT,Apertus 70B,0.14552945318223762,2669,0.5713750468340202,2669,ok
+google_gemma-4-31B-it,swiss-ai_Apertus-8B-Instruct-2509,Gemma 4 31B IT,Apertus IT 8B,0.1778112201354416,2669,0.5886099662795055,2669,ok
+google_gemma-4-31B-it,swiss-ai_Apertus-70B-Instruct-2509,Gemma 4 31B IT,Apertus IT 70B,0.1374022584186589,2669,0.5676283252154365,2669,ok
+google_gemma-4-31B-it,openai_gpt-oss-120b,Gemma 4 31B IT,GPT-OSS 120B,0.1296782241442784,2669,0.5642562757587112,2669,ok
+google_gemma-4-31B-it,OpenLLM-France_Claire-Mistral-7B-0.1,Gemma 4 31B IT,Claire 7B,0.164474814822107,2669,0.5829898838516299,2669,ok
+google_gemma-4-31B-it,OpenLLM-France_Lucie-7B,Gemma 4 31B IT,Lucie 7B,0.08496074485023807,2669,0.5428999625327838,2669,ok
+google_gemma-4-31B-it,AIInstituteLNCC_manaca-1b-base,Gemma 4 31B IT,Manacá 1B,0.0746114333485838,2669,0.538029224428625,2669,ok
+google_gemma-4-31B-it,AIInstituteLNCC_manaca-1b-instruct,Gemma 4 31B IT,Manacá Instruct 1B,0.06978809710117558,2669,0.5354065192956163,2669,ok
+google_gemma-4-31B-it,maritaca-ai_sabia-7b,Gemma 4 31B IT,Sabiá 7B,0.13019574012927107,2669,0.5657549644061446,2669,ok
+google_gemma-4-31B-it,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Gemma 4 31B IT,Bode 13B,0.1382573967825403,2669,0.5698763581865868,2669,ok
+google_gemma-4-31B-it,hfl_chinese-llama-2-13b,Gemma 4 31B IT,Chinese-LLaMA-2 13B,0.17496460601250974,2669,0.5878606219557887,2669,ok
+google_gemma-4-31B-it,tokyotech-llm_Swallow-13b-hf,Gemma 4 31B IT,Swallow 13B,0.09839006198203812,2669,0.5492693892843762,2669,ok
+google_gemma-4-31B-it,llm-jp_llm-jp-3-13b,Gemma 4 31B IT,LLM-jp-3 13B,0.09977114826680365,2669,0.5503934057699513,2669,ok
+google_gemma-4-31B-it,llm-jp_llm-jp-3-172b,Gemma 4 31B IT,LLM-jp-3 172B,0.09429966562731287,2669,0.5470213563132259,2669,ok
+google_gemma-4-31B-it,Aleph-Alpha_Kolibri-1-BF16,Gemma 4 31B IT,Kolibri,0.17385449328542352,2669,0.5874859497939303,2669,ok
+swiss-ai_Apertus-8B-2509,swiss-ai_Apertus-70B-2509,Apertus 8B,Apertus 70B,0.7330494563379867,2669,0.8699887598351442,2669,ok
+swiss-ai_Apertus-8B-2509,swiss-ai_Apertus-8B-Instruct-2509,Apertus 8B,Apertus IT 8B,0.718881509077206,2669,0.8602472836268266,2669,ok
+swiss-ai_Apertus-8B-2509,swiss-ai_Apertus-70B-Instruct-2509,Apertus 8B,Apertus IT 70B,0.7224803234975408,2669,0.8639940052454103,2669,ok
+swiss-ai_Apertus-8B-2509,openai_gpt-oss-120b,Apertus 8B,GPT-OSS 120B,0.5834087744819534,2669,0.7939303109778943,2669,ok
+swiss-ai_Apertus-8B-2509,OpenLLM-France_Claire-Mistral-7B-0.1,Apertus 8B,Claire 7B,0.5346014689308071,2669,0.7639565380292245,2669,ok
+swiss-ai_Apertus-8B-2509,OpenLLM-France_Lucie-7B,Apertus 8B,Lucie 7B,0.46959858611427524,2669,0.7328587485949793,2669,ok
+swiss-ai_Apertus-8B-2509,AIInstituteLNCC_manaca-1b-base,Apertus 8B,Manacá 1B,0.25248834097106737,2669,0.6215811165230424,2669,ok
+swiss-ai_Apertus-8B-2509,AIInstituteLNCC_manaca-1b-instruct,Apertus 8B,Manacá Instruct 1B,0.22227367897240619,2669,0.6077182465342825,2669,ok
+swiss-ai_Apertus-8B-2509,maritaca-ai_sabia-7b,Apertus 8B,Sabiá 7B,0.5187279559732552,2669,0.756463094792057,2669,ok
+swiss-ai_Apertus-8B-2509,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Apertus 8B,Bode 13B,0.5306642614853729,2669,0.7620831772199326,2669,ok
+swiss-ai_Apertus-8B-2509,hfl_chinese-llama-2-13b,Apertus 8B,Chinese-LLaMA-2 13B,0.5216716562012328,2669,0.7590857999250655,2669,ok
+swiss-ai_Apertus-8B-2509,tokyotech-llm_Swallow-13b-hf,Apertus 8B,Swallow 13B,0.4536976078293706,2669,0.726489321843387,2669,ok
+swiss-ai_Apertus-8B-2509,llm-jp_llm-jp-3-13b,Apertus 8B,LLM-jp-3 13B,0.4259245604218103,2669,0.710378418883477,2669,ok
+swiss-ai_Apertus-8B-2509,llm-jp_llm-jp-3-172b,Apertus 8B,LLM-jp-3 172B,0.45924803262386044,2669,0.7302360434619708,2669,ok
+swiss-ai_Apertus-8B-2509,Aleph-Alpha_Kolibri-1-BF16,Apertus 8B,Kolibri,0.2823790114931928,2669,0.637317347321094,2669,ok
+swiss-ai_Apertus-70B-2509,swiss-ai_Apertus-8B-Instruct-2509,Apertus 70B,Apertus IT 8B,0.6708025546321945,2669,0.8366429374297489,2669,ok
+swiss-ai_Apertus-70B-2509,swiss-ai_Apertus-70B-Instruct-2509,Apertus 70B,Apertus IT 70B,0.8476549865229109,2669,0.9258149119520419,2669,ok
+swiss-ai_Apertus-70B-2509,openai_gpt-oss-120b,Apertus 70B,GPT-OSS 120B,0.5827479873942868,2669,0.7943049831397527,2669,ok
+swiss-ai_Apertus-70B-2509,OpenLLM-France_Claire-Mistral-7B-0.1,Apertus 70B,Claire 7B,0.5123972362103291,2669,0.7515923566878981,2669,ok
+swiss-ai_Apertus-70B-2509,OpenLLM-France_Lucie-7B,Apertus 70B,Lucie 7B,0.4448310421118317,2669,0.7197452229299363,2669,ok
+swiss-ai_Apertus-70B-2509,AIInstituteLNCC_manaca-1b-base,Apertus 70B,Manacá 1B,0.24284231731884512,2669,0.61521168977145,2669,ok
+swiss-ai_Apertus-70B-2509,AIInstituteLNCC_manaca-1b-instruct,Apertus 70B,Manacá Instruct 1B,0.2295860110032178,2669,0.6103409516672911,2669,ok
+swiss-ai_Apertus-70B-2509,maritaca-ai_sabia-7b,Apertus 70B,Sabiá 7B,0.5109355986036264,2669,0.7515923566878981,2669,ok
+swiss-ai_Apertus-70B-2509,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Apertus 70B,Bode 13B,0.5172174565227581,2669,0.7542150618209067,2669,ok
+swiss-ai_Apertus-70B-2509,hfl_chinese-llama-2-13b,Apertus 70B,Chinese-LLaMA-2 13B,0.5294423538755366,2669,0.762457849381791,2669,ok
+swiss-ai_Apertus-70B-2509,tokyotech-llm_Swallow-13b-hf,Apertus 70B,Swallow 13B,0.4651442021355163,2669,0.7321094042712627,2669,ok
+swiss-ai_Apertus-70B-2509,llm-jp_llm-jp-3-13b,Apertus 70B,LLM-jp-3 13B,0.42234759146398976,2669,0.7077557137504683,2669,ok
+swiss-ai_Apertus-70B-2509,llm-jp_llm-jp-3-172b,Apertus 70B,LLM-jp-3 172B,0.4761480758091462,2669,0.7388535031847133,2669,ok
+swiss-ai_Apertus-70B-2509,Aleph-Alpha_Kolibri-1-BF16,Apertus 70B,Kolibri,0.2677879796130624,2669,0.6286998875983515,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,Apertus IT 8B,Apertus IT 70B,0.6804345603820591,2669,0.8411390033720495,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,openai_gpt-oss-120b,Apertus IT 8B,GPT-OSS 120B,0.5798113451452199,2669,0.7905582615211689,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,OpenLLM-France_Claire-Mistral-7B-0.1,Apertus IT 8B,Claire 7B,0.5798741227497506,2669,0.7890595728737355,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,OpenLLM-France_Lucie-7B,Apertus IT 8B,Lucie 7B,0.48704079951677565,2669,0.7429748969651555,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,AIInstituteLNCC_manaca-1b-base,Apertus IT 8B,Manacá 1B,0.22723100727138557,2669,0.612214312476583,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,AIInstituteLNCC_manaca-1b-instruct,Apertus IT 8B,Manacá Instruct 1B,0.18230678022964644,2669,0.590108654926939,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,maritaca-ai_sabia-7b,Apertus IT 8B,Sabiá 7B,0.4855045560466905,2669,0.7418508804795804,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Apertus IT 8B,Bode 13B,0.5984686170519172,2669,0.7984263769201948,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,hfl_chinese-llama-2-13b,Apertus IT 8B,Chinese-LLaMA-2 13B,0.5274195120912569,2669,0.7632071937055077,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,tokyotech-llm_Swallow-13b-hf,Apertus IT 8B,Swallow 13B,0.4479444131206634,2669,0.7238666167103784,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,llm-jp_llm-jp-3-13b,Apertus IT 8B,LLM-jp-3 13B,0.42600543249979,2669,0.7122517796927689,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,llm-jp_llm-jp-3-172b,Apertus IT 8B,LLM-jp-3 172B,0.4668654059616731,2669,0.7336080929186961,2669,ok
+swiss-ai_Apertus-8B-Instruct-2509,Aleph-Alpha_Kolibri-1-BF16,Apertus IT 8B,Kolibri,0.3403979845242856,2669,0.6691644810790558,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,openai_gpt-oss-120b,Apertus IT 70B,GPT-OSS 120B,0.593232042434898,2669,0.7988010490820532,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,OpenLLM-France_Claire-Mistral-7B-0.1,Apertus IT 70B,Claire 7B,0.5220792081126059,2669,0.7575871112776321,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,OpenLLM-France_Lucie-7B,Apertus IT 70B,Lucie 7B,0.4495345851790784,2669,0.7227426002248033,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,AIInstituteLNCC_manaca-1b-base,Apertus IT 70B,Manacá 1B,0.25179740215807495,2669,0.621206444361184,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,AIInstituteLNCC_manaca-1b-instruct,Apertus IT 70B,Manacá Instruct 1B,0.24682154923384333,2669,0.6200824278756089,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,maritaca-ai_sabia-7b,Apertus IT 70B,Sabiá 7B,0.5165374137261934,2669,0.7553390783064818,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Apertus IT 70B,Bode 13B,0.5255250382404836,2669,0.7594604720869239,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,hfl_chinese-llama-2-13b,Apertus IT 70B,Chinese-LLaMA-2 13B,0.5268972921268836,2669,0.7617085050580742,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,tokyotech-llm_Swallow-13b-hf,Apertus IT 70B,Swallow 13B,0.46043662499828264,2669,0.7298613713001124,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,llm-jp_llm-jp-3-13b,Apertus IT 70B,LLM-jp-3 13B,0.4608551886553585,2669,0.7279880104908205,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,llm-jp_llm-jp-3-172b,Apertus IT 70B,LLM-jp-3 172B,0.499047324248841,2669,0.7500936680404646,2669,ok
+swiss-ai_Apertus-70B-Instruct-2509,Aleph-Alpha_Kolibri-1-BF16,Apertus IT 70B,Kolibri,0.26536993014431914,2669,0.6286998875983515,2669,ok
+openai_gpt-oss-120b,OpenLLM-France_Claire-Mistral-7B-0.1,GPT-OSS 120B,Claire 7B,0.5181733338162245,2669,0.7572124391157737,2669,ok
+openai_gpt-oss-120b,OpenLLM-France_Lucie-7B,GPT-OSS 120B,Lucie 7B,0.45588327825612035,2669,0.7268639940052454,2669,ok
+openai_gpt-oss-120b,AIInstituteLNCC_manaca-1b-base,GPT-OSS 120B,Manacá 1B,0.19018270774235066,2669,0.5923566878980892,2669,ok
+openai_gpt-oss-120b,AIInstituteLNCC_manaca-1b-instruct,GPT-OSS 120B,Manacá Instruct 1B,0.1773880182668102,2669,0.5867366054702136,2669,ok
+openai_gpt-oss-120b,maritaca-ai_sabia-7b,GPT-OSS 120B,Sabiá 7B,0.4386575933661811,2669,0.7174971899587861,2669,ok
+openai_gpt-oss-120b,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,GPT-OSS 120B,Bode 13B,0.487542479744181,2669,0.7418508804795804,2669,ok
+openai_gpt-oss-120b,hfl_chinese-llama-2-13b,GPT-OSS 120B,Chinese-LLaMA-2 13B,0.5141015283192516,2669,0.7560884226301986,2669,ok
+openai_gpt-oss-120b,tokyotech-llm_Swallow-13b-hf,GPT-OSS 120B,Swallow 13B,0.47583240328163773,2669,0.7377294866991383,2669,ok
+openai_gpt-oss-120b,llm-jp_llm-jp-3-13b,GPT-OSS 120B,LLM-jp-3 13B,0.4265486344892638,2669,0.7118771075309105,2669,ok
+openai_gpt-oss-120b,llm-jp_llm-jp-3-172b,GPT-OSS 120B,LLM-jp-3 172B,0.4613106816858079,2669,0.7309853877856876,2669,ok
+openai_gpt-oss-120b,Aleph-Alpha_Kolibri-1-BF16,GPT-OSS 120B,Kolibri,0.19838842758363492,2669,0.5968527538403896,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,OpenLLM-France_Lucie-7B,Claire 7B,Lucie 7B,0.5080575938796553,2669,0.7553390783064818,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,AIInstituteLNCC_manaca-1b-base,Claire 7B,Manacá 1B,0.25739907010480445,2669,0.6320719370550768,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,AIInstituteLNCC_manaca-1b-instruct,Claire 7B,Manacá Instruct 1B,0.22697468341911595,2669,0.6159610340951668,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,maritaca-ai_sabia-7b,Claire 7B,Sabiá 7B,0.5418768102847114,2669,0.7729486699138254,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Claire 7B,Bode 13B,0.635895539299256,2669,0.8197826901461222,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,hfl_chinese-llama-2-13b,Claire 7B,Chinese-LLaMA-2 13B,0.6090074903882712,2669,0.8055451479955039,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,tokyotech-llm_Swallow-13b-hf,Claire 7B,Swallow 13B,0.5544626075774061,2669,0.7774447358561258,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,llm-jp_llm-jp-3-13b,Claire 7B,LLM-jp-3 13B,0.5421475402006364,2669,0.772573997751967,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,llm-jp_llm-jp-3-172b,Claire 7B,LLM-jp-3 172B,0.5406595377909829,2669,0.7699512926189584,2669,ok
+OpenLLM-France_Claire-Mistral-7B-0.1,Aleph-Alpha_Kolibri-1-BF16,Claire 7B,Kolibri,0.26586975260045975,2669,0.6358186586736605,2669,ok
+OpenLLM-France_Lucie-7B,AIInstituteLNCC_manaca-1b-base,Lucie 7B,Manacá 1B,0.2750287774634031,2669,0.6391907081303859,2669,ok
+OpenLLM-France_Lucie-7B,AIInstituteLNCC_manaca-1b-instruct,Lucie 7B,Manacá Instruct 1B,0.2587309805096876,2669,0.6305732484076433,2669,ok
+OpenLLM-France_Lucie-7B,maritaca-ai_sabia-7b,Lucie 7B,Sabiá 7B,0.4286948318675414,2669,0.7156238291494942,2669,ok
+OpenLLM-France_Lucie-7B,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Lucie 7B,Bode 13B,0.5058944513083384,2669,0.7542150618209067,2669,ok
+OpenLLM-France_Lucie-7B,hfl_chinese-llama-2-13b,Lucie 7B,Chinese-LLaMA-2 13B,0.47252964426877475,2669,0.7369801423754215,2669,ok
+OpenLLM-France_Lucie-7B,tokyotech-llm_Swallow-13b-hf,Lucie 7B,Swallow 13B,0.4084787739923366,2669,0.704383664293743,2669,ok
+OpenLLM-France_Lucie-7B,llm-jp_llm-jp-3-13b,Lucie 7B,LLM-jp-3 13B,0.3970138843504149,2669,0.6995129261895842,2669,ok
+OpenLLM-France_Lucie-7B,llm-jp_llm-jp-3-172b,Lucie 7B,LLM-jp-3 172B,0.4017758233422698,2669,0.7006369426751592,2669,ok
+OpenLLM-France_Lucie-7B,Aleph-Alpha_Kolibri-1-BF16,Lucie 7B,Kolibri,0.25893148844563246,2669,0.6309479205695017,2669,ok
+AIInstituteLNCC_manaca-1b-base,AIInstituteLNCC_manaca-1b-instruct,Manacá 1B,Manacá Instruct 1B,0.8274414023073463,2669,0.9142000749344323,2669,ok
+AIInstituteLNCC_manaca-1b-base,maritaca-ai_sabia-7b,Manacá 1B,Sabiá 7B,0.2947391590213895,2669,0.6500562008242787,2669,ok
+AIInstituteLNCC_manaca-1b-base,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Manacá 1B,Bode 13B,0.2810830407733496,2669,0.6436867740726864,2669,ok
+AIInstituteLNCC_manaca-1b-base,hfl_chinese-llama-2-13b,Manacá 1B,Chinese-LLaMA-2 13B,0.2720174743583705,2669,0.6376920194829524,2669,ok
+AIInstituteLNCC_manaca-1b-base,tokyotech-llm_Swallow-13b-hf,Manacá 1B,Swallow 13B,0.2545317012558665,2669,0.6275758711127764,2669,ok
+AIInstituteLNCC_manaca-1b-base,llm-jp_llm-jp-3-13b,Manacá 1B,LLM-jp-3 13B,0.25164357533791315,2669,0.6279505432746347,2669,ok
+AIInstituteLNCC_manaca-1b-base,llm-jp_llm-jp-3-172b,Manacá 1B,LLM-jp-3 172B,0.25022961269189054,2669,0.6245784938179093,2669,ok
+AIInstituteLNCC_manaca-1b-base,Aleph-Alpha_Kolibri-1-BF16,Manacá 1B,Kolibri,0.10819259316215353,2669,0.5571375046834021,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,maritaca-ai_sabia-7b,Manacá Instruct 1B,Sabiá 7B,0.26996614689700577,2669,0.6369426751592356,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Manacá Instruct 1B,Bode 13B,0.2520388042329837,2669,0.6283252154364931,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,hfl_chinese-llama-2-13b,Manacá Instruct 1B,Chinese-LLaMA-2 13B,0.2782776280824546,2669,0.6403147246159611,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,tokyotech-llm_Swallow-13b-hf,Manacá Instruct 1B,Swallow 13B,0.24346818672284384,2669,0.6219557886849008,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,llm-jp_llm-jp-3-13b,Manacá Instruct 1B,LLM-jp-3 13B,0.250649048259874,2669,0.6268265267890596,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,llm-jp_llm-jp-3-172b,Manacá Instruct 1B,LLM-jp-3 172B,0.2626391475108761,2669,0.6309479205695017,2669,ok
+AIInstituteLNCC_manaca-1b-instruct,Aleph-Alpha_Kolibri-1-BF16,Manacá Instruct 1B,Kolibri,0.06557294727312571,2669,0.535031847133758,2669,ok
+maritaca-ai_sabia-7b,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Sabiá 7B,Bode 13B,0.580567760210688,2669,0.7920569501686024,2669,ok
+maritaca-ai_sabia-7b,hfl_chinese-llama-2-13b,Sabiá 7B,Chinese-LLaMA-2 13B,0.5325684988007158,2669,0.7673285874859498,2669,ok
+maritaca-ai_sabia-7b,tokyotech-llm_Swallow-13b-hf,Sabiá 7B,Swallow 13B,0.46003813518603126,2669,0.7302360434619708,2669,ok
+maritaca-ai_sabia-7b,llm-jp_llm-jp-3-13b,Sabiá 7B,LLM-jp-3 13B,0.4537224172202537,2669,0.7283626826526789,2669,ok
+maritaca-ai_sabia-7b,llm-jp_llm-jp-3-172b,Sabiá 7B,LLM-jp-3 172B,0.4387675568255735,2669,0.7189958786062196,2669,ok
+maritaca-ai_sabia-7b,Aleph-Alpha_Kolibri-1-BF16,Sabiá 7B,Kolibri,0.23965013786250378,2669,0.6223304608467591,2669,ok
+recogna-nlp_bode-13b-alpaca-pt-br-no-peft,hfl_chinese-llama-2-13b,Bode 13B,Chinese-LLaMA-2 13B,0.6264079997697194,2669,0.8141626077182466,2669,ok
+recogna-nlp_bode-13b-alpaca-pt-br-no-peft,tokyotech-llm_Swallow-13b-hf,Bode 13B,Swallow 13B,0.5432277090330091,2669,0.7718246534282502,2669,ok
+recogna-nlp_bode-13b-alpaca-pt-br-no-peft,llm-jp_llm-jp-3-13b,Bode 13B,LLM-jp-3 13B,0.5022905698142058,2669,0.7527163731734732,2669,ok
+recogna-nlp_bode-13b-alpaca-pt-br-no-peft,llm-jp_llm-jp-3-172b,Bode 13B,LLM-jp-3 172B,0.5009795553387799,2669,0.7500936680404646,2669,ok
+recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Aleph-Alpha_Kolibri-1-BF16,Bode 13B,Kolibri,0.2577769806295817,2669,0.6316972648932184,2669,ok
+hfl_chinese-llama-2-13b,tokyotech-llm_Swallow-13b-hf,Chinese-LLaMA-2 13B,Swallow 13B,0.5914080251277865,2669,0.7958036717871863,2669,ok
+hfl_chinese-llama-2-13b,llm-jp_llm-jp-3-13b,Chinese-LLaMA-2 13B,LLM-jp-3 13B,0.548888192780859,2669,0.7751967028849757,2669,ok
+hfl_chinese-llama-2-13b,llm-jp_llm-jp-3-172b,Chinese-LLaMA-2 13B,LLM-jp-3 172B,0.5440318853760229,2669,0.7718246534282502,2669,ok
+hfl_chinese-llama-2-13b,Aleph-Alpha_Kolibri-1-BF16,Chinese-LLaMA-2 13B,Kolibri,0.22281850514146032,2669,0.6129636568002997,2669,ok
+tokyotech-llm_Swallow-13b-hf,llm-jp_llm-jp-3-13b,Swallow 13B,LLM-jp-3 13B,0.5598707510837463,2669,0.7800674409891345,2669,ok
+tokyotech-llm_Swallow-13b-hf,llm-jp_llm-jp-3-172b,Swallow 13B,LLM-jp-3 172B,0.5504612446165672,2669,0.7751967028849757,2669,ok
+tokyotech-llm_Swallow-13b-hf,Aleph-Alpha_Kolibri-1-BF16,Swallow 13B,Kolibri,0.15413104788748544,2669,0.5773698014237543,2669,ok
+llm-jp_llm-jp-3-13b,llm-jp_llm-jp-3-172b,LLM-jp-3 13B,LLM-jp-3 172B,0.656405616446924,2669,0.8280254777070064,2669,ok
+llm-jp_llm-jp-3-13b,Aleph-Alpha_Kolibri-1-BF16,LLM-jp-3 13B,Kolibri,0.14830036117624787,2669,0.5762457849381791,2669,ok
+llm-jp_llm-jp-3-172b,Aleph-Alpha_Kolibri-1-BF16,LLM-jp-3 172B,Kolibri,0.13782223483450678,2669,0.5683776695391533,2669,ok

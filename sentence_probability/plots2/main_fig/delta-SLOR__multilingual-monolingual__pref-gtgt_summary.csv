@@ -1,0 +1,57 @@
+panel,panel_set,annotation_value,annotation_column,Target language,model_name,n,n_source_contrasts,n_models,mean,median,N_failure,failure_rate
+a,multilingual,>>,Target language preference annotation,de,CohereLabs_aya-expanse-32b,240,240,1,0.24433814143396446,0.3333686533193765,66,0.275
+a,multilingual,>>,Target language preference annotation,de,google_gemma-4-31B,240,240,1,0.44781352610224434,0.40826197795269925,59,0.24583333333333332
+a,multilingual,>>,Target language preference annotation,de,swiss-ai_Apertus-70B-2509,240,240,1,0.32699209033265536,0.39392105656441023,55,0.22916666666666666
+a,multilingual,>>,Target language preference annotation,de,utter-project_EuroLLM-22B-2512,240,240,1,0.24243180695465405,0.24193630623382878,84,0.35
+a,multilingual,>>,English preference annotation,en,CohereLabs_aya-expanse-32b,1424,1424,1,1.8298389366192467,1.7979151788817815,49,0.03441011235955056
+a,multilingual,>>,English preference annotation,en,google_gemma-4-31B,1424,1424,1,1.881781267626748,1.880371635084316,54,0.037921348314606744
+a,multilingual,>>,English preference annotation,en,swiss-ai_Apertus-70B-2509,1424,1424,1,1.7753672694466673,1.7356666489563746,58,0.04073033707865169
+a,multilingual,>>,English preference annotation,en,utter-project_EuroLLM-22B-2512,1424,1424,1,1.751997192513417,1.7196554088414668,52,0.03651685393258427
+a,multilingual,>>,Target language preference annotation,fr,CohereLabs_aya-expanse-32b,390,390,1,0.8313663610375498,0.7579800821076854,65,0.16666666666666666
+a,multilingual,>>,Target language preference annotation,fr,google_gemma-4-31B,390,390,1,0.8351019751273403,0.7210066184666659,56,0.14358974358974358
+a,multilingual,>>,Target language preference annotation,fr,swiss-ai_Apertus-70B-2509,390,390,1,0.9122944879806536,0.7378559187418996,40,0.10256410256410256
+a,multilingual,>>,Target language preference annotation,fr,utter-project_EuroLLM-22B-2512,390,390,1,0.7589095295376075,0.6900822762344432,59,0.15128205128205127
+a,multilingual,>>,Target language preference annotation,ja,CohereLabs_aya-expanse-32b,291,291,1,0.5239991872307856,0.5606810221005816,94,0.3230240549828179
+a,multilingual,>>,Target language preference annotation,ja,google_gemma-4-31B,291,291,1,0.620586799656675,0.800320472956348,101,0.3470790378006873
+a,multilingual,>>,Target language preference annotation,ja,swiss-ai_Apertus-70B-2509,291,291,1,0.38655700516339225,0.5018164894973944,111,0.38144329896907214
+a,multilingual,>>,Target language preference annotation,ja,utter-project_EuroLLM-22B-2512,291,291,1,0.3167919999584718,0.4608566896894191,106,0.3642611683848797
+a,multilingual,>>,Target language preference annotation,pt,CohereLabs_aya-expanse-32b,260,260,1,0.05651071266069707,0.09604431867101004,116,0.4461538461538462
+a,multilingual,>>,Target language preference annotation,pt,google_gemma-4-31B,260,260,1,0.21813014155820007,0.22794801449967175,99,0.38076923076923075
+a,multilingual,>>,Target language preference annotation,pt,swiss-ai_Apertus-70B-2509,260,260,1,0.09783412013103457,0.14134470491958195,115,0.4423076923076923
+a,multilingual,>>,Target language preference annotation,pt,utter-project_EuroLLM-22B-2512,260,260,1,0.10507142668645653,0.1011373874256145,117,0.45
+a,multilingual,>>,Target language preference annotation,sv,CohereLabs_aya-expanse-32b,264,264,1,0.008932789693054022,0.18321246974159688,108,0.4090909090909091
+a,multilingual,>>,Target language preference annotation,sv,google_gemma-4-31B,264,264,1,0.3519551254967234,0.35442698762475544,84,0.3181818181818182
+a,multilingual,>>,Target language preference annotation,sv,swiss-ai_Apertus-70B-2509,264,264,1,0.28244903898953494,0.36905065531854353,78,0.29545454545454547
+a,multilingual,>>,Target language preference annotation,sv,utter-project_EuroLLM-22B-2512,264,264,1,0.5675583476356446,0.556706032825149,79,0.29924242424242425
+a,multilingual,>>,Target language preference annotation,zh,CohereLabs_aya-expanse-32b,173,173,1,0.7390030007022627,0.6981663488175149,47,0.27167630057803466
+a,multilingual,>>,Target language preference annotation,zh,google_gemma-4-31B,173,173,1,0.8262882339672768,0.6944608352742794,45,0.26011560693641617
+a,multilingual,>>,Target language preference annotation,zh,swiss-ai_Apertus-70B-2509,173,173,1,0.37979179131492624,0.2253601758167987,59,0.34104046242774566
+a,multilingual,>>,Target language preference annotation,zh,utter-project_EuroLLM-22B-2512,173,173,1,0.6546128854665082,0.4574469830274759,48,0.2774566473988439
+b,monolingual-setA,>>,Target language preference annotation,de,OpenLLM-France_Lucie-7B,240,240,1,0.23286075216817423,0.25347240659275716,69,0.2875
+b,monolingual-setA,>>,Target language preference annotation,de,hfl_chinese-llama-2-13b,240,240,1,-0.10884708122995912,-0.03252392388181202,128,0.5333333333333333
+b,monolingual-setA,>>,Target language preference annotation,de,llm-jp_llm-jp-3-13b,240,240,1,-0.1594794965221364,-0.10792625969705025,138,0.575
+b,monolingual-setA,>>,Target language preference annotation,de,maritaca-ai_sabia-7b,240,240,1,-0.027473107359061368,0.11718099930928985,93,0.3875
+b,monolingual-setA,>>,English preference annotation,en,OpenLLM-France_Lucie-7B,1424,1424,1,1.5358208175314034,1.461432795092597,41,0.028792134831460675
+b,monolingual-setA,>>,English preference annotation,en,hfl_chinese-llama-2-13b,1424,1424,1,1.6188457653256585,1.5847497742290195,26,0.018258426966292134
+b,monolingual-setA,>>,English preference annotation,en,llm-jp_llm-jp-3-13b,1424,1424,1,1.7557121983191457,1.7171372860596774,22,0.01544943820224719
+b,monolingual-setA,>>,English preference annotation,en,maritaca-ai_sabia-7b,1424,1424,1,1.549484222717954,1.5702031290434761,113,0.07935393258426966
+b,monolingual-setA,>>,Target language preference annotation,fr,OpenLLM-France_Lucie-7B,390,390,1,0.8104485606650839,0.6867084912275379,76,0.19487179487179487
+b,monolingual-setA,>>,Target language preference annotation,fr,hfl_chinese-llama-2-13b,390,390,1,0.39287589459962546,0.34046379904523816,82,0.21025641025641026
+b,monolingual-setA,>>,Target language preference annotation,fr,llm-jp_llm-jp-3-13b,390,390,1,0.29167159303927925,0.27489078840775427,131,0.33589743589743587
+b,monolingual-setA,>>,Target language preference annotation,fr,maritaca-ai_sabia-7b,390,390,1,0.5470171881673633,0.4105962663037166,89,0.2282051282051282
+b,monolingual-setA,>>,Target language preference annotation,ja,OpenLLM-France_Lucie-7B,291,291,1,-0.027527803673959537,-0.02994037026284424,165,0.5670103092783505
+b,monolingual-setA,>>,Target language preference annotation,ja,hfl_chinese-llama-2-13b,291,291,1,-0.1564176966150632,-0.02894878158512926,148,0.5085910652920962
+b,monolingual-setA,>>,Target language preference annotation,ja,llm-jp_llm-jp-3-13b,291,291,1,0.5247002961616498,0.5239300450191622,105,0.36082474226804123
+b,monolingual-setA,>>,Target language preference annotation,ja,maritaca-ai_sabia-7b,291,291,1,-0.2708920852637435,-0.2328693179347918,188,0.6460481099656358
+b,monolingual-setA,>>,Target language preference annotation,pt,OpenLLM-France_Lucie-7B,260,260,1,-0.2699941013260343,-0.21790133864228325,157,0.6038461538461538
+b,monolingual-setA,>>,Target language preference annotation,pt,hfl_chinese-llama-2-13b,260,260,1,-0.22523520768874603,-0.1677345112559385,152,0.5846153846153846
+b,monolingual-setA,>>,Target language preference annotation,pt,llm-jp_llm-jp-3-13b,260,260,1,-0.1025175409865108,-0.055437261559664885,136,0.5230769230769231
+b,monolingual-setA,>>,Target language preference annotation,pt,maritaca-ai_sabia-7b,260,260,1,0.14300507084133246,0.14963413817164634,107,0.4115384615384615
+b,monolingual-setA,>>,Target language preference annotation,sv,OpenLLM-France_Lucie-7B,264,264,1,-0.002966070253574948,-0.021602045975702224,134,0.5075757575757576
+b,monolingual-setA,>>,Target language preference annotation,sv,hfl_chinese-llama-2-13b,264,264,1,0.07257054828474407,0.07688500166895729,118,0.44696969696969696
+b,monolingual-setA,>>,Target language preference annotation,sv,llm-jp_llm-jp-3-13b,264,264,1,0.013686757223353323,0.10731248240115696,115,0.4356060606060606
+b,monolingual-setA,>>,Target language preference annotation,sv,maritaca-ai_sabia-7b,264,264,1,0.1360693533291358,0.17919897994174527,106,0.4015151515151515
+b,monolingual-setA,>>,Target language preference annotation,zh,OpenLLM-France_Lucie-7B,173,173,1,0.014812510057828647,0.003451927713432168,85,0.4913294797687861
+b,monolingual-setA,>>,Target language preference annotation,zh,hfl_chinese-llama-2-13b,173,173,1,0.7654181534707871,0.6608499600825164,45,0.26011560693641617
+b,monolingual-setA,>>,Target language preference annotation,zh,llm-jp_llm-jp-3-13b,173,173,1,0.4044705674490256,0.4030581148416359,64,0.3699421965317919
+b,monolingual-setA,>>,Target language preference annotation,zh,maritaca-ai_sabia-7b,173,173,1,0.018834902486492246,-0.1126618215572113,92,0.5317919075144508

@@ -1,0 +1,29 @@
+annotation_value,annotation_column,Target language,model_name,n,n_source_contrasts,n_models,mean,median,N_failure,failure_rate
+>>,Target language preference annotation,de,CohereLabs_aya-expanse-32b,240,240,1,0.24433814143396446,0.3333686533193765,66,0.275
+>>,Target language preference annotation,de,google_gemma-4-31B,240,240,1,0.44781352610224434,0.40826197795269925,59,0.24583333333333332
+>>,Target language preference annotation,de,swiss-ai_Apertus-70B-2509,240,240,1,0.32699209033265536,0.39392105656441023,55,0.22916666666666666
+>>,Target language preference annotation,de,utter-project_EuroLLM-22B-2512,240,240,1,0.24243180695465405,0.24193630623382878,84,0.35
+>>,English preference annotation,en,CohereLabs_aya-expanse-32b,1424,1424,1,1.8298389366192467,1.7979151788817815,49,0.03441011235955056
+>>,English preference annotation,en,google_gemma-4-31B,1424,1424,1,1.881781267626748,1.880371635084316,54,0.037921348314606744
+>>,English preference annotation,en,swiss-ai_Apertus-70B-2509,1424,1424,1,1.7753672694466673,1.7356666489563746,58,0.04073033707865169
+>>,English preference annotation,en,utter-project_EuroLLM-22B-2512,1424,1424,1,1.751997192513417,1.7196554088414668,52,0.03651685393258427
+>>,Target language preference annotation,fr,CohereLabs_aya-expanse-32b,390,390,1,0.8313663610375498,0.7579800821076854,65,0.16666666666666666
+>>,Target language preference annotation,fr,google_gemma-4-31B,390,390,1,0.8351019751273403,0.7210066184666659,56,0.14358974358974358
+>>,Target language preference annotation,fr,swiss-ai_Apertus-70B-2509,390,390,1,0.9122944879806536,0.7378559187418996,40,0.10256410256410256
+>>,Target language preference annotation,fr,utter-project_EuroLLM-22B-2512,390,390,1,0.7589095295376075,0.6900822762344432,59,0.15128205128205127
+>>,Target language preference annotation,ja,CohereLabs_aya-expanse-32b,291,291,1,0.5239991872307856,0.5606810221005816,94,0.3230240549828179
+>>,Target language preference annotation,ja,google_gemma-4-31B,291,291,1,0.620586799656675,0.800320472956348,101,0.3470790378006873
+>>,Target language preference annotation,ja,swiss-ai_Apertus-70B-2509,291,291,1,0.38655700516339225,0.5018164894973944,111,0.38144329896907214
+>>,Target language preference annotation,ja,utter-project_EuroLLM-22B-2512,291,291,1,0.3167919999584718,0.4608566896894191,106,0.3642611683848797
+>>,Target language preference annotation,pt,CohereLabs_aya-expanse-32b,260,260,1,0.05651071266069707,0.09604431867101004,116,0.4461538461538462
+>>,Target language preference annotation,pt,google_gemma-4-31B,260,260,1,0.21813014155820007,0.22794801449967175,99,0.38076923076923075
+>>,Target language preference annotation,pt,swiss-ai_Apertus-70B-2509,260,260,1,0.09783412013103457,0.14134470491958195,115,0.4423076923076923
+>>,Target language preference annotation,pt,utter-project_EuroLLM-22B-2512,260,260,1,0.10507142668645653,0.1011373874256145,117,0.45
+>>,Target language preference annotation,sv,CohereLabs_aya-expanse-32b,264,264,1,0.008932789693054022,0.18321246974159688,108,0.4090909090909091
+>>,Target language preference annotation,sv,google_gemma-4-31B,264,264,1,0.3519551254967234,0.35442698762475544,84,0.3181818181818182
+>>,Target language preference annotation,sv,swiss-ai_Apertus-70B-2509,264,264,1,0.28244903898953494,0.36905065531854353,78,0.29545454545454547
+>>,Target language preference annotation,sv,utter-project_EuroLLM-22B-2512,264,264,1,0.5675583476356446,0.556706032825149,79,0.29924242424242425
+>>,Target language preference annotation,zh,CohereLabs_aya-expanse-32b,173,173,1,0.7390030007022627,0.6981663488175149,47,0.27167630057803466
+>>,Target language preference annotation,zh,google_gemma-4-31B,173,173,1,0.8262882339672768,0.6944608352742794,45,0.26011560693641617
+>>,Target language preference annotation,zh,swiss-ai_Apertus-70B-2509,173,173,1,0.37979179131492624,0.2253601758167987,59,0.34104046242774566
+>>,Target language preference annotation,zh,utter-project_EuroLLM-22B-2512,173,173,1,0.6546128854665082,0.4574469830274759,48,0.2774566473988439

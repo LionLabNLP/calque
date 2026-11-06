@@ -1,0 +1,23 @@
+RQ1 violin analyses: statistical summary (from the existing RQ1_LMM_* results)
+==============================================================================
+Scope: these LMMs are the inferential counterparts of violin_main_a (English-centric models: English vs non-English languages) and violin_main_b (non-English-centric models: focus vs other languages). They use ALL 39 statistical models (viz_data2.STAT_MODEL_SECTIONS; a superset of the plotted line-plot models) and the failure-rate rows (side-specific > / >> filter), not only the few models drawn in the violins, so they generalise over a larger model set than the figures show. They test differences in MEAN ΔSLOR, not whole distributions.
+
+A: English-centric (violin_main_a counterpart)
+------------------------------------------------------------------------------
+  en - mean(non-English)
+      paper-primary (model x language intercepts; Satterthwaite t): +1.295 [1.156, 1.435] p = < 0.001; Satterthwaite t (df = 227.28); N = 121,212, models = 28
+
+B: non-English-centric (violin_main_b counterpart)
+------------------------------------------------------------------------------
+  focus - other non-English languages (is_focus)
+      paper-primary (model x language intercepts; Satterthwaite t; singular fit): +0.406 [0.298, 0.513] p = < 0.001; Satterthwaite t (df = 59.09); N = 29,359, models = 11
+
+Verification checks
+------------------------------------------------------------------------------
+  [ok] English-centric analysis uses all 28 English-centric statistical models: 28 models
+  [ok] non-English-centric analysis uses all 11 non-English-centric statistical models (incl. Manacá 1B): 11 models
+  [ok] non-English-centric analysis excludes English rows
+  [ok] no duplicated (model, sentence pair) observation
+  [ok] each English source row enters the English category exactly once (not once per target language): 46,480 English observations = 46,480 English source rows of the English-centric models
+  [ATTENTION] English sentence pairs shared by several origin languages: 6123 model x English sentence pairs occur under >= 2 origin languages (14586 of 64740 English rows); 176 of them have different saved ΔSLOR
+  [ok] every LMM CI / p-value equals estimate ± crit x SE under its stated inference: 0 mismatches

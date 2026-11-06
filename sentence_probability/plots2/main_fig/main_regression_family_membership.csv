@@ -1,0 +1,28 @@
+family,family_label,model_id,model_name,registry_family,instruction_tuned,model_size_b,n_regression_rows,in_regression
+aya,Aya,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,Aya Expanse,True,8.028,2669,True
+aya,Aya,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,Aya Expanse,True,32.296,2669,True
+aya,Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Tiny Aya,False,3.349,2669,True
+aya,Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Tiny Aya,True,3.349,2669,True
+aya,Aya,CohereLabs/tiny-aya-earth,CohereLabs_tiny-aya-earth,Tiny Aya,True,3.349,2669,True
+aya,Aya,CohereLabs/tiny-aya-fire,CohereLabs_tiny-aya-fire,Tiny Aya,True,3.349,2669,True
+aya,Aya,CohereLabs/tiny-aya-water,CohereLabs_tiny-aya-water,Tiny Aya,True,3.349,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,EuroLLM,False,1.657,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,EuroLLM,True,1.657,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,EuroLLM,False,9.154,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,EuroLLM,True,9.154,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,EuroLLM,False,22.639,2669,True
+eurollm,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,EuroLLM,True,22.639,2669,True
+gemma,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,Gemma 4,False,2.3,2669,True
+gemma,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,Gemma 4,True,2.3,2669,True
+gemma,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,Gemma 4,False,4.5,2669,True
+gemma,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,Gemma 4,True,4.5,2669,True
+gemma,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,Gemma 4,False,11.95,2669,True
+gemma,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,Gemma 4,True,11.95,2669,True
+gemma,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,Gemma 4,False,3.8,2669,True
+gemma,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,Gemma 4,True,3.8,2669,True
+gemma,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,Gemma 4,False,30.7,2669,True
+gemma,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,Gemma 4,True,30.7,2669,True
+apertus,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,Apertus,False,8.053,2669,True
+apertus,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,Apertus,False,70.6,2669,True
+apertus,Apertus,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,Apertus,True,8.053,2669,True
+apertus,Apertus,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,Apertus,True,70.6,2669,True

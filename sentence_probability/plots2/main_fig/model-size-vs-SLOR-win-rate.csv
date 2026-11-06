@@ -1,0 +1,18 @@
+model_name,display_name,family,instruction_tuned,model_size,model_size_definition,N_total,N_win,N_tie,N_loss,win_rate,win_rate_percent,main_family
+CohereLabs_aya-expanse-32b,Aya Expanse 32B,Aya Expanse,True,32.296,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1509,0,1160,0.5653802922442862,56.53802922442862,aya
+CohereLabs_aya-expanse-8b,Aya Expanse 8B,Aya Expanse,True,8.028,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1382,0,1287,0.5177969276882728,51.77969276882728,aya
+CohereLabs_tiny-aya-base,Tiny Aya Base,Tiny Aya,False,3.349,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1569,0,1100,0.5878606219557887,58.78606219557887,aya
+CohereLabs_tiny-aya-earth,Tiny Aya Earth,Tiny Aya,True,3.349,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1454,0,1215,0.5447733233420757,54.477332334207574,aya
+CohereLabs_tiny-aya-fire,Tiny Aya Fire,Tiny Aya,True,3.349,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1452,0,1217,0.544023979018359,54.4023979018359,aya
+CohereLabs_tiny-aya-global,Tiny Aya Global,Tiny Aya,True,3.349,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1460,0,1209,0.5470213563132259,54.70213563132259,aya
+CohereLabs_tiny-aya-water,Tiny Aya Water,Tiny Aya,True,3.349,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1443,0,1226,0.5406519295616335,54.06519295616336,aya
+swiss-ai_Apertus-70B-2509,Apertus 70B,Apertus,False,70.6,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1581,0,1088,0.5923566878980892,59.23566878980891,apertus
+swiss-ai_Apertus-70B-Instruct-2509,Apertus 70B Instruct,Apertus,True,70.6,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1523,0,1146,0.5706257025103035,57.06257025103035,apertus
+swiss-ai_Apertus-8B-2509,Apertus 8B,Apertus,False,8.053,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1522,0,1147,0.5702510303484452,57.02510303484451,apertus
+swiss-ai_Apertus-8B-Instruct-2509,Apertus 8B Instruct,Apertus,True,8.053,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1389,0,1280,0.5204196328212813,52.04196328212814,apertus
+utter-project_EuroLLM-1.7B,EuroLLM 1.7B,EuroLLM,False,1.657,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1457,0,1212,0.5458973398276508,54.589733982765075,eurollm
+utter-project_EuroLLM-1.7B-Instruct,EuroLLM 1.7B Instruct,EuroLLM,True,1.657,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1465,1,1203,0.5488947171225178,54.88947171225178,eurollm
+utter-project_EuroLLM-22B-2512,EuroLLM 22B,EuroLLM,False,22.639,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1511,0,1158,0.566129636568003,56.6129636568003,eurollm
+utter-project_EuroLLM-22B-Instruct-2512,EuroLLM 22B Instruct,EuroLLM,True,22.639,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1519,0,1150,0.56912701386287,56.912701386287004,eurollm
+utter-project_EuroLLM-9B,EuroLLM 9B,EuroLLM,False,9.154,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1467,0,1202,0.5496440614462346,54.96440614462345,eurollm
+utter-project_EuroLLM-9B-Instruct,EuroLLM 9B Instruct,EuroLLM,True,9.154,"total_parameters_b (billions; total parameters, incl. MoE)",2669,1459,0,1210,0.5466466841513675,54.66466841513675,eurollm

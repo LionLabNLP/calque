@@ -1,0 +1,217 @@
+order,section,model_id,model_name,label,language,language_name,group,N_native,N_transferred,N_both,N_neither,N_total,denominator,probability,status
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,de,German,all groups,63,70,0,290,423,133,0.5263157894736842,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,sv,Swedish,all groups,175,84,0,181,440,259,0.32432432432432434,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,fr,French,all groups,148,68,0,307,523,216,0.3148148148148148,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,pt,Portuguese,all groups,80,40,0,326,446,120,0.3333333333333333,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,zh,Chinese,all groups,44,4,0,272,320,48,0.08333333333333333,ok
+0,Tiny Aya,CohereLabs/tiny-aya-base,CohereLabs_tiny-aya-base,Base,ja,Japanese,all groups,115,0,0,404,519,115,0.0,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,de,German,all groups,81,58,1,283,423,139,0.4172661870503597,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,sv,Swedish,all groups,162,71,2,205,440,233,0.30472103004291845,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,fr,French,all groups,172,66,0,285,523,238,0.2773109243697479,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,pt,Portuguese,all groups,91,32,0,323,446,123,0.2601626016260163,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,zh,Chinese,all groups,44,11,0,265,320,55,0.2,ok
+1,Tiny Aya,CohereLabs/tiny-aya-global,CohereLabs_tiny-aya-global,Global,ja,Japanese,all groups,47,1,0,471,519,48,0.020833333333333332,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,de,German,all groups,186,14,0,223,423,200,0.07,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,sv,Swedish,all groups,45,58,1,336,440,103,0.5631067961165048,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,fr,French,all groups,252,66,4,201,523,318,0.20754716981132076,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,pt,Portuguese,all groups,151,31,2,262,446,182,0.17032967032967034,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,zh,Chinese,all groups,118,10,0,192,320,128,0.078125,ok
+2,Aya Expanse,CohereLabs/aya-expanse-8b,CohereLabs_aya-expanse-8b,8B,ja,Japanese,all groups,164,0,0,355,519,164,0.0,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,de,German,all groups,172,20,8,223,423,192,0.10416666666666667,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,sv,Swedish,all groups,151,63,0,226,440,214,0.29439252336448596,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,fr,French,all groups,320,19,1,183,523,339,0.05604719764011799,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,pt,Portuguese,all groups,178,43,0,225,446,221,0.19457013574660634,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,zh,Chinese,all groups,140,10,1,169,320,150,0.06666666666666667,ok
+3,Aya Expanse,CohereLabs/aya-expanse-32b,CohereLabs_aya-expanse-32b,32B,ja,Japanese,all groups,200,0,0,319,519,200,0.0,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,de,German,all groups,38,107,0,278,423,145,0.7379310344827587,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,sv,Swedish,all groups,147,72,0,221,440,219,0.3287671232876712,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,fr,French,all groups,180,66,0,277,523,246,0.2682926829268293,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,pt,Portuguese,all groups,80,66,0,300,446,146,0.4520547945205479,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,zh,Chinese,all groups,45,23,1,251,320,68,0.3382352941176471,ok
+4,EuroLLM,utter-project/EuroLLM-1.7B,utter-project_EuroLLM-1.7B,1.7B,ja,Japanese,all groups,72,7,0,440,519,79,0.08860759493670886,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,de,German,all groups,55,87,0,281,423,142,0.6126760563380281,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,sv,Swedish,all groups,160,35,0,245,440,195,0.1794871794871795,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,fr,French,all groups,170,58,2,293,523,228,0.2543859649122807,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,pt,Portuguese,all groups,92,29,0,325,446,121,0.2396694214876033,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,zh,Chinese,all groups,36,11,0,273,320,47,0.23404255319148937,ok
+5,EuroLLM,utter-project/EuroLLM-1.7B-Instruct,utter-project_EuroLLM-1.7B-Instruct,1.7B IT,ja,Japanese,all groups,72,6,0,441,519,78,0.07692307692307693,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,de,German,all groups,123,74,0,226,423,197,0.3756345177664975,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,sv,Swedish,all groups,193,96,0,151,440,289,0.33217993079584773,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,fr,French,all groups,254,37,0,232,523,291,0.12714776632302405,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,pt,Portuguese,all groups,120,44,0,282,446,164,0.2682926829268293,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,zh,Chinese,all groups,106,15,1,198,320,121,0.12396694214876033,ok
+6,EuroLLM,utter-project/EuroLLM-9B,utter-project_EuroLLM-9B,9B,ja,Japanese,all groups,132,0,0,387,519,132,0.0,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,de,German,all groups,165,32,5,221,423,197,0.16243654822335024,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,sv,Swedish,all groups,235,52,3,150,440,287,0.18118466898954705,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,fr,French,all groups,279,21,0,223,523,300,0.07,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,pt,Portuguese,all groups,149,26,4,267,446,175,0.14857142857142858,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,zh,Chinese,all groups,111,15,0,194,320,126,0.11904761904761904,ok
+7,EuroLLM,utter-project/EuroLLM-9B-Instruct,utter-project_EuroLLM-9B-Instruct,9B IT,ja,Japanese,all groups,110,0,0,409,519,110,0.0,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,de,German,all groups,102,81,0,240,423,183,0.4426229508196721,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,sv,Swedish,all groups,185,115,0,140,440,300,0.38333333333333336,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,fr,French,all groups,248,73,0,202,523,321,0.22741433021806853,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,pt,Portuguese,all groups,90,30,0,326,446,120,0.25,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,zh,Chinese,all groups,66,30,2,222,320,96,0.3125,ok
+8,EuroLLM,utter-project/EuroLLM-22B-2512,utter-project_EuroLLM-22B-2512,22B,ja,Japanese,all groups,130,6,0,383,519,136,0.04411764705882353,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,de,German,all groups,1,0,0,422,423,1,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,fr,French,all groups,21,0,0,502,523,21,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,pt,Portuguese,all groups,3,0,0,443,446,3,0.0,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,zh,Chinese,all groups,61,17,2,240,320,78,0.21794871794871795,ok
+9,EuroLLM,utter-project/EuroLLM-22B-Instruct-2512,utter-project_EuroLLM-22B-Instruct-2512,22B IT,ja,Japanese,all groups,1,0,0,518,519,1,0.0,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,de,German,all groups,130,45,0,248,423,175,0.2571428571428571,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,sv,Swedish,all groups,230,35,0,175,440,265,0.1320754716981132,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,fr,French,all groups,198,66,0,259,523,264,0.25,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,pt,Portuguese,all groups,79,50,0,317,446,129,0.3875968992248062,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,zh,Chinese,all groups,74,1,0,245,320,75,0.013333333333333334,ok
+10,Gemma 4,google/gemma-4-E2B,google_gemma-4-E2B,E2B,ja,Japanese,all groups,87,0,0,432,519,87,0.0,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,de,German,all groups,2,18,0,403,423,20,0.9,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,sv,Swedish,all groups,31,16,0,393,440,47,0.3404255319148936,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,fr,French,all groups,36,21,0,466,523,57,0.3684210526315789,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,pt,Portuguese,all groups,18,22,0,406,446,40,0.55,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,zh,Chinese,all groups,21,9,0,290,320,30,0.3,ok
+11,Gemma 4,google/gemma-4-E2B-it,google_gemma-4-E2B-it,E2B IT,ja,Japanese,all groups,28,1,0,490,519,29,0.034482758620689655,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,de,German,all groups,88,99,0,236,423,187,0.5294117647058824,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,sv,Swedish,all groups,166,116,0,158,440,282,0.41134751773049644,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,fr,French,all groups,234,94,2,193,523,328,0.2865853658536585,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,pt,Portuguese,all groups,91,77,0,278,446,168,0.4583333333333333,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,zh,Chinese,all groups,78,13,0,229,320,91,0.14285714285714285,ok
+12,Gemma 4,google/gemma-4-E4B,google_gemma-4-E4B,E4B,ja,Japanese,all groups,43,0,0,476,519,43,0.0,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,fr,French,all groups,26,3,0,494,523,29,0.10344827586206896,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,pt,Portuguese,all groups,1,3,0,442,446,4,0.75,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,zh,Chinese,all groups,33,12,0,275,320,45,0.26666666666666666,ok
+13,Gemma 4,google/gemma-4-E4B-it,google_gemma-4-E4B-it,E4B IT,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,de,German,all groups,88,96,0,239,423,184,0.5217391304347826,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,sv,Swedish,all groups,213,109,0,118,440,322,0.3385093167701863,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,fr,French,all groups,228,98,0,197,523,326,0.3006134969325153,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,pt,Portuguese,all groups,128,88,0,230,446,216,0.4074074074074074,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,zh,Chinese,all groups,91,12,0,217,320,103,0.11650485436893204,ok
+14,Gemma 4,google/gemma-4-12B,google_gemma-4-12B,12B,ja,Japanese,all groups,98,2,0,419,519,100,0.02,ok
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,fr,French,all groups,0,0,0,523,523,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,pt,Portuguese,all groups,0,0,0,446,446,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,zh,Chinese,all groups,0,0,0,320,320,0,,no native/transferred match (N_native + N_transferred = 0)
+15,Gemma 4,google/gemma-4-12B-it,google_gemma-4-12B-it,12B IT,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,de,German,all groups,76,121,0,226,423,197,0.6142131979695431,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,sv,Swedish,all groups,211,93,0,136,440,304,0.3059210526315789,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,fr,French,all groups,295,59,0,169,523,354,0.16666666666666666,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,pt,Portuguese,all groups,156,77,0,213,446,233,0.33047210300429186,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,zh,Chinese,all groups,112,18,0,190,320,130,0.13846153846153847,ok
+16,Gemma 4,google/gemma-4-26B-A4B,google_gemma-4-26B-A4B,26B-A4B,ja,Japanese,all groups,170,3,0,346,519,173,0.017341040462427744,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,fr,French,all groups,0,0,0,523,523,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,pt,Portuguese,all groups,2,0,0,444,446,2,0.0,ok
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,zh,Chinese,all groups,0,0,0,320,320,0,,no native/transferred match (N_native + N_transferred = 0)
+17,Gemma 4,google/gemma-4-26B-A4B-it,google_gemma-4-26B-A4B-it,26B-A4B IT,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,de,German,all groups,98,63,0,262,423,161,0.391304347826087,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,sv,Swedish,all groups,166,99,1,174,440,265,0.37358490566037733,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,fr,French,all groups,261,28,0,234,523,289,0.09688581314878893,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,pt,Portuguese,all groups,68,51,1,326,446,119,0.42857142857142855,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,zh,Chinese,all groups,126,8,0,186,320,134,0.05970149253731343,ok
+18,Gemma 4,google/gemma-4-31B,google_gemma-4-31B,31B,ja,Japanese,all groups,145,5,0,369,519,150,0.03333333333333333,ok
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,fr,French,all groups,0,0,0,523,523,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,pt,Portuguese,all groups,0,0,0,446,446,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,zh,Chinese,all groups,0,0,0,320,320,0,,no native/transferred match (N_native + N_transferred = 0)
+19,Gemma 4,google/gemma-4-31B-it,google_gemma-4-31B-it,31B IT,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,de,German,all groups,105,66,0,252,423,171,0.38596491228070173,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,sv,Swedish,all groups,195,120,0,125,440,315,0.38095238095238093,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,fr,French,all groups,250,54,0,219,523,304,0.17763157894736842,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,pt,Portuguese,all groups,123,75,0,248,446,198,0.3787878787878788,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,zh,Chinese,all groups,73,25,1,221,320,98,0.25510204081632654,ok
+20,Apertus,swiss-ai/Apertus-8B-2509,swiss-ai_Apertus-8B-2509,8B,ja,Japanese,all groups,111,0,0,408,519,111,0.0,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,de,German,all groups,134,58,0,231,423,192,0.3020833333333333,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,sv,Swedish,all groups,217,121,1,101,440,338,0.35798816568047337,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,fr,French,all groups,292,39,0,192,523,331,0.11782477341389729,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,pt,Portuguese,all groups,146,81,0,219,446,227,0.3568281938325991,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,zh,Chinese,all groups,113,4,0,203,320,117,0.03418803418803419,ok
+21,Apertus,swiss-ai/Apertus-70B-2509,swiss-ai_Apertus-70B-2509,70B,ja,Japanese,all groups,138,0,0,381,519,138,0.0,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,de,German,all groups,113,80,0,230,423,193,0.41450777202072536,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,sv,Swedish,all groups,189,137,3,111,440,326,0.42024539877300615,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,fr,French,all groups,220,62,0,241,523,282,0.2198581560283688,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,pt,Portuguese,all groups,127,62,0,257,446,189,0.328042328042328,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,zh,Chinese,all groups,91,33,2,194,320,124,0.2661290322580645,ok
+22,Apertus IT,swiss-ai/Apertus-8B-Instruct-2509,swiss-ai_Apertus-8B-Instruct-2509,8B,ja,Japanese,all groups,134,0,0,385,519,134,0.0,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,de,German,all groups,143,68,2,210,423,211,0.3222748815165877,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,sv,Swedish,all groups,211,129,1,99,440,340,0.37941176470588234,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,fr,French,all groups,264,76,1,182,523,340,0.2235294117647059,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,pt,Portuguese,all groups,139,69,0,238,446,208,0.3317307692307692,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,zh,Chinese,all groups,100,11,1,208,320,111,0.0990990990990991,ok
+23,Apertus IT,swiss-ai/Apertus-70B-Instruct-2509,swiss-ai_Apertus-70B-Instruct-2509,70B,ja,Japanese,all groups,118,0,0,401,519,118,0.0,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,de,German,all groups,121,39,108,155,423,160,0.24375,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,sv,Swedish,all groups,133,103,116,88,440,236,0.4364406779661017,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,fr,French,all groups,333,25,36,129,523,358,0.06983240223463687,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,pt,Portuguese,all groups,161,59,57,169,446,220,0.2681818181818182,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,zh,Chinese,all groups,134,5,0,181,320,139,0.03597122302158273,ok
+24,GPT-OSS,openai/gpt-oss-120b,openai_gpt-oss-120b,120B,ja,Japanese,all groups,115,0,0,404,519,115,0.0,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,de,German,all groups,20,44,0,359,423,64,0.6875,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,sv,Swedish,all groups,46,95,0,299,440,141,0.6737588652482269,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,fr,French,all groups,126,52,0,345,523,178,0.29213483146067415,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,pt,Portuguese,all groups,13,34,0,399,446,47,0.723404255319149,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,zh,Chinese,all groups,40,20,0,260,320,60,0.3333333333333333,ok
+25,Other non-English-centric models,OpenLLM-France/Claire-Mistral-7B-0.1,OpenLLM-France_Claire-Mistral-7B-0.1,Claire 7B,ja,Japanese,all groups,26,22,0,471,519,48,0.4583333333333333,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,de,German,all groups,124,48,0,251,423,172,0.27906976744186046,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,sv,Swedish,all groups,11,2,0,427,440,13,0.15384615384615385,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,fr,French,all groups,238,18,0,267,523,256,0.0703125,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,pt,Portuguese,all groups,17,23,0,406,446,40,0.575,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,zh,Chinese,all groups,8,4,0,308,320,12,0.3333333333333333,ok
+26,Other non-English-centric models,OpenLLM-France/Lucie-7B,OpenLLM-France_Lucie-7B,Lucie 7B,ja,Japanese,all groups,14,1,0,504,519,15,0.06666666666666667,ok
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,fr,French,all groups,0,0,0,523,523,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,pt,Portuguese,all groups,0,0,0,446,446,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,zh,Chinese,all groups,0,0,0,320,320,0,,no native/transferred match (N_native + N_transferred = 0)
+27,Other non-English-centric models,AIInstituteLNCC/manaca-1b-base,AIInstituteLNCC_manaca-1b-base,Manacá 1B,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,de,German,all groups,0,0,0,423,423,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,sv,Swedish,all groups,0,0,0,440,440,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,fr,French,all groups,0,0,0,523,523,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,pt,Portuguese,all groups,0,0,0,446,446,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,zh,Chinese,all groups,0,0,0,320,320,0,,no native/transferred match (N_native + N_transferred = 0)
+28,Other non-English-centric models,AIInstituteLNCC/manaca-1b-instruct,AIInstituteLNCC_manaca-1b-instruct,Manacá Instruct 1B,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,de,German,all groups,13,10,0,400,423,23,0.43478260869565216,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,sv,Swedish,all groups,23,22,2,393,440,45,0.4888888888888889,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,fr,French,all groups,73,34,1,415,523,107,0.3177570093457944,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,pt,Portuguese,all groups,71,67,4,304,446,138,0.4855072463768116,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,zh,Chinese,all groups,9,3,0,308,320,12,0.25,ok
+29,Other non-English-centric models,maritaca-ai/sabia-7b,maritaca-ai_sabia-7b,Sabiá 7B,ja,Japanese,all groups,1,0,0,518,519,1,0.0,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,de,German,all groups,41,37,0,345,423,78,0.47435897435897434,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,sv,Swedish,all groups,133,87,0,220,440,220,0.39545454545454545,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,fr,French,all groups,129,107,0,287,523,236,0.4533898305084746,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,pt,Portuguese,all groups,53,58,0,335,446,111,0.5225225225225225,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,zh,Chinese,all groups,38,17,0,265,320,55,0.3090909090909091,ok
+30,Other non-English-centric models,recogna-nlp/bode-13b-alpaca-pt-br-no-peft,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,Bode 13B,ja,Japanese,all groups,23,1,0,495,519,24,0.041666666666666664,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,de,German,all groups,46,21,0,356,423,67,0.31343283582089554,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,sv,Swedish,all groups,29,10,0,401,440,39,0.2564102564102564,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,fr,French,all groups,72,15,0,436,523,87,0.1724137931034483,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,pt,Portuguese,all groups,34,17,0,395,446,51,0.3333333333333333,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,zh,Chinese,all groups,57,7,1,255,320,64,0.109375,ok
+31,Other non-English-centric models,hfl/chinese-llama-2-13b,hfl_chinese-llama-2-13b,Chinese-LLaMA-2 13B,ja,Japanese,all groups,14,0,0,505,519,14,0.0,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,de,German,all groups,11,40,0,372,423,51,0.7843137254901961,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,sv,Swedish,all groups,28,33,0,379,440,61,0.5409836065573771,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,fr,French,all groups,106,37,0,380,523,143,0.25874125874125875,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,pt,Portuguese,all groups,17,35,0,394,446,52,0.6730769230769231,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,zh,Chinese,all groups,46,15,0,259,320,61,0.2459016393442623,ok
+32,Other non-English-centric models,tokyotech-llm/Swallow-13b-hf,tokyotech-llm_Swallow-13b-hf,Swallow 13B,ja,Japanese,all groups,157,0,0,362,519,157,0.0,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,de,German,all groups,6,16,0,401,423,22,0.7272727272727273,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,sv,Swedish,all groups,10,8,0,422,440,18,0.4444444444444444,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,fr,French,all groups,27,40,0,456,523,67,0.5970149253731343,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,pt,Portuguese,all groups,6,18,0,422,446,24,0.75,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,zh,Chinese,all groups,36,8,0,276,320,44,0.18181818181818182,ok
+33,Other non-English-centric models,llm-jp/llm-jp-3-13b,llm-jp_llm-jp-3-13b,LLM-jp-3 13B,ja,Japanese,all groups,110,1,0,408,519,111,0.009009009009009009,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,de,German,all groups,16,63,0,344,423,79,0.7974683544303798,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,sv,Swedish,all groups,38,25,0,377,440,63,0.3968253968253968,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,fr,French,all groups,106,48,0,369,523,154,0.3116883116883117,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,pt,Portuguese,all groups,36,56,1,353,446,92,0.6086956521739131,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,zh,Chinese,all groups,66,8,0,246,320,74,0.10810810810810811,ok
+34,Other non-English-centric models,llm-jp/llm-jp-3-172b,llm-jp_llm-jp-3-172b,LLM-jp-3 172B,ja,Japanese,all groups,108,3,0,408,519,111,0.02702702702702703,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,de,German,all groups,8,39,0,376,423,47,0.8297872340425532,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,sv,Swedish,all groups,0,3,0,437,440,3,1.0,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,fr,French,all groups,13,32,0,478,523,45,0.7111111111111111,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,pt,Portuguese,all groups,3,7,0,436,446,10,0.7,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,zh,Chinese,all groups,3,2,0,315,320,5,0.4,ok
+35,Other non-English-centric models,Aleph-Alpha/Kolibri-1-BF16,Aleph-Alpha_Kolibri-1-BF16,Kolibri,ja,Japanese,all groups,0,0,0,519,519,0,,no native/transferred match (N_native + N_transferred = 0)

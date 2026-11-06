@@ -1,0 +1,29 @@
+annotation_value,annotation_column,Target language,model_name,n,n_source_contrasts,n_models,mean,median,N_failure,failure_rate
+>>,Target language preference annotation,de,OpenLLM-France_Claire-Mistral-7B-0.1,240,240,1,-0.25376929743461857,-0.2422740029319277,146,0.6083333333333333
+>>,Target language preference annotation,de,hfl_chinese-llama-2-13b,240,240,1,-0.22581873139531605,-0.19790850861204978,151,0.6291666666666667
+>>,Target language preference annotation,de,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,240,240,1,-0.2522342661137733,-0.2354186331232331,142,0.5916666666666667
+>>,Target language preference annotation,de,tokyotech-llm_Swallow-13b-hf,240,240,1,-0.276386643289481,-0.2786735251338941,149,0.6208333333333333
+>>,English preference annotation,en,OpenLLM-France_Claire-Mistral-7B-0.1,1424,1424,1,1.3427966593762697,1.305748184344598,182,0.12780898876404495
+>>,English preference annotation,en,hfl_chinese-llama-2-13b,1424,1424,1,1.3148836118907599,1.3098142219410784,107,0.07514044943820225
+>>,English preference annotation,en,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,1424,1424,1,1.176598572713357,1.188453217844168,213,0.14957865168539325
+>>,English preference annotation,en,tokyotech-llm_Swallow-13b-hf,1424,1424,1,1.2027618934732902,1.187709443519513,158,0.11095505617977527
+>>,Target language preference annotation,fr,OpenLLM-France_Claire-Mistral-7B-0.1,390,390,1,0.7987123614548616,0.668220603658789,48,0.12307692307692308
+>>,Target language preference annotation,fr,hfl_chinese-llama-2-13b,390,390,1,0.6874210747948121,0.6221929448699073,61,0.1564102564102564
+>>,Target language preference annotation,fr,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,390,390,1,0.8172523632587205,0.8033221578039957,58,0.14871794871794872
+>>,Target language preference annotation,fr,tokyotech-llm_Swallow-13b-hf,390,390,1,0.6731055798552045,0.5586283591065913,75,0.19230769230769232
+>>,Target language preference annotation,ja,OpenLLM-France_Claire-Mistral-7B-0.1,291,291,1,-0.09620521955590126,-0.08070459143103426,175,0.6013745704467354
+>>,Target language preference annotation,ja,hfl_chinese-llama-2-13b,291,291,1,-0.019476766902449854,0.1776743222028014,90,0.30927835051546393
+>>,Target language preference annotation,ja,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,291,291,1,-0.15293941389831714,-0.0700082352989253,154,0.5292096219931272
+>>,Target language preference annotation,ja,tokyotech-llm_Swallow-13b-hf,291,291,1,0.6733211337689962,0.6897647482427685,51,0.17525773195876287
+>>,Target language preference annotation,pt,OpenLLM-France_Claire-Mistral-7B-0.1,260,260,1,-0.2845488157765225,-0.23599701933562756,162,0.6230769230769231
+>>,Target language preference annotation,pt,hfl_chinese-llama-2-13b,260,260,1,-0.330954031618114,-0.3035560280084608,157,0.6038461538461538
+>>,Target language preference annotation,pt,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,260,260,1,-0.21454651961172622,-0.223693903535604,156,0.6
+>>,Target language preference annotation,pt,tokyotech-llm_Swallow-13b-hf,260,260,1,-0.3722074078548618,-0.3065648716120495,156,0.6
+>>,Target language preference annotation,sv,OpenLLM-France_Claire-Mistral-7B-0.1,264,264,1,-0.03144967419718106,0.2050918580779988,106,0.4015151515151515
+>>,Target language preference annotation,sv,hfl_chinese-llama-2-13b,264,264,1,0.11041739823278672,0.23589238902879167,109,0.4128787878787879
+>>,Target language preference annotation,sv,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,264,264,1,0.27286779629412616,0.2757904047283515,107,0.4053030303030303
+>>,Target language preference annotation,sv,tokyotech-llm_Swallow-13b-hf,264,264,1,0.19832286657064557,0.4172021374832111,91,0.3446969696969697
+>>,Target language preference annotation,zh,OpenLLM-France_Claire-Mistral-7B-0.1,173,173,1,0.28203787351851123,0.2513533352719,61,0.35260115606936415
+>>,Target language preference annotation,zh,hfl_chinese-llama-2-13b,173,173,1,0.8826391977437268,0.7776579856872559,28,0.16184971098265896
+>>,Target language preference annotation,zh,recogna-nlp_bode-13b-alpaca-pt-br-no-peft,173,173,1,0.02930697740905621,0.05637487871128899,79,0.45664739884393063
+>>,Target language preference annotation,zh,tokyotech-llm_Swallow-13b-hf,173,173,1,-0.08496999260807243,0.05263644456863403,78,0.4508670520231214
