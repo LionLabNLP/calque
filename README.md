@@ -16,7 +16,7 @@ The dataset files are located in the `data/` directory.
 
 ## Model Preference Calculation
 
-To calculate model preferences, run:
+To calculate model preferences, run the following under `sentence_probability/`:
 
 ```bash
 bash script/example_script.sh
