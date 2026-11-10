@@ -116,7 +116,17 @@ Awesome-Align is used to compute alignment-based features for the multivariable 
 
 If you use CALQUE or the accompanying code in your research, please cite our paper:
 
-*I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE.*
+```
+@misc{nakai2026iplaycelloevaluating,
+      title={I play of the cello: Evaluating Constructional Bleeding in Multilingual LLMs with CALQUE}, 
+      author={Toshiki Nakai and Yu-Yin Hsu and Marie-Catherine de Marneffe and Joakim Nivre and Jakob Prange and Nathan Schneider and Wesley Scivetti and Tiago Timponi Torrent and Leonie Weissweiler},
+      year={2026},
+      eprint={2611.10266},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2611.10266}, 
+}
+```
 
 ## License
 
